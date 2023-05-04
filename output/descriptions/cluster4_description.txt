@@ -1,1 +1,1 @@
-Analyze and summarize various quantitative data and information about departments, calendars, courses, races, artists, entrepreneurs, customers, companies, projects, stadiums, users, services, labs, institutions, clubs, and locations.
+Retrieve various statistics, counts, and information about various entities, such as departments, budgets, customers, industries, employees, events, and more.

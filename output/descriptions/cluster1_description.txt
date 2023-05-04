@@ -1,1 +1,1 @@
-Analyze various academic and student data including course enrollment, faculty information, student demographics, academic performance, and activity participation.
+Analyze various aspects of students, faculty, courses, and institutions, including demographics, affiliations, course offerings, performance, and advisor relationships.

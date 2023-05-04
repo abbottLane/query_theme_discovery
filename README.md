@@ -92,50 +92,31 @@ The raw results of the clustering script can be found in the `output/clusters/` 
 
 The cluster labeling script writes a `_description.txt` file with the descriptive label for each cluster in the `output/descriptions/` folder.
 
-In summary, there are the results:
+In summary, these are the results:
 
 | Cluster | Label | Size | Example |
 | ------- | ----- | ---- | ------ |
-| cluster0 | Analyzing various queries related to names, demographics, statistics, and details about different subjects like athletes, pilots, races, airports, employees, and more. | 425 | What is the name of the district with the most residents?
- |
-| cluster1 | Analyze various academic and student data including course enrollment, faculty information, student demographics, academic performance, and activity participation. | 365 | Find the name of the campuses opened before 1800.
- |
-| cluster10 | Find compatible browser and accelerator names, medicine interactions, employee and customer details, booking information, festival nominations, languages, artwork types, student and performance data, phones, papers, documents, companies, song and movie details, product information, orders, amenities, clubs, demographic data, transaction records, policies, and document access counts. | 315 | List the names of the browser that are compatible with both 'CACHEbox' and 'Fasterfox'.
- |
-| cluster11 | Analyze and summarize various data points including demographics, locations, statistics, and specific queries related to various industries, education, sports, and entertainment. | 806 | Which year had the greatest number of courses?
- |
-| cluster12 | Explore various aspects of artists, songs, movies, ratings, musicals, directors, genres, and reviewers in the entertainment industry. | 242 | What are the names of the artists who released a song that has the word love in its title, and where are the artists from?
- |
-| cluster13 | Generate insights regarding customer activities, employee information, transaction details, insurance policies, account balances, orders, and various business aspects across different industries. | 357 | Return the name and number of reservations made for each of the rooms.
- |
-| cluster14 | Analyze various data including demographics, finances, locations, fields, and statistics related to countries, cities, industries, schools, elections, and individuals. | 227 | Return the countries of the mountains that have a height larger than 5000.
- |
-| cluster15 | Analyze and provide details on various aspects of projects, roles, users, documents, services, assets, transactions, policies, and reviews in diverse data sets. | 248 | List the project details of the projects which did not hire any staff for a researcher role.
- |
-| cluster16 | Analyze product information, order details, customer data, and company statistics across various industries and devices, including product prices, characteristics, ratings, events, and manufacturers. | 228 | Find the order detail for the products with price above 2000.
- |
-| cluster17 | Retrieve information and statistics about various entities, such as appointments, employees, courses, products, students, customers, documents, clubs, addresses, phone numbers, locations, and more. | 437 | Find the id of the appointment with the most recent start date?
- |
-| cluster18 | Summarize various sports-related queries involving wrestler statistics, athletes' information, match details, team records, college and school data, game player information, and roller coaster information. | 245 | Return the names of wrestlers with fewer than 100 days held.
- |
-| cluster19 | Retrieve information about staff, institutions, medications, employees, customers, authors, problems, documents, workshops, names, companies, investors and more, including queries related to roles, departments, dates, locations, titles, nurses, and various other attributes. | 250 | Give me a list of descriptions of the problems that are reported by the staff whose first name is Christop.
- |
-| cluster2 | Obtain information about students, faculty, courses, departments, University-related statistics, and other academic details. | 436 | What are the first names of all students in course ACCT-211?
- |
-| cluster3 | Explore various information on singers, artists, music festivals, films, albums, songs, wines, exhibitions, books, film studios, musicals, directors, publishers, and tourist attractions. | 235 | List the name and country of origin for all singers who have produced songs with rating above 9.
- |
-| cluster4 | Analyze and summarize various quantitative data and information about departments, calendars, courses, races, artists, entrepreneurs, customers, companies, projects, stadiums, users, services, labs, institutions, clubs, and locations. | 203 | Give the name of the department with the lowest budget.
- |
-| cluster5 | Analyze various data related to competitions, students, sports players, investors, cities, countries, colleges, weather conditions, industries, wines, demographic information, tourist attractions, business operations, and geographic locations. | 479 | What are the types of competition and number of competitions for that type?
- |
-| cluster6 | Analyze various data related to locations, amenities, routes, capacities, and other details of hotels, rooms, apartments, events, and transportation methods. | 339 | Find the most popular room in the hotel. The most popular room is the room that had seen the largest number of reservations.
- |
-| cluster7 | Analyze and summarize customer, employee, product, and transaction data, including identifying top performers, calculating averages, examining purchase patterns, and evaluating financial metrics. | 417 | what are the order id and customer id of the oldest order?
- |
-| cluster8 | Generate a comprehensive summary of various user queries related to location-based information, demographics, rankings, events, organizations, and specific details for various elements. | 311 | Return all the apartment numbers sorted by the room count in ascending order.
- |
-| cluster9 | Obtain information on various entities, such as vehicles, products, services, documents, technicians, and customers, including their characteristics, transactions, identifiers, performances, and details across different domains like music, films, technology, education, and healthcare. | 397 | What are the ids of all vehicles?
- |
+| cluster0 | Gather information on various queries related to flight, ship, and race details, player and staff information, and various statistics from different categories such as geography, sports, and organizations. | 425 | What is the name of the aircraft that was on flight number 99? |
+| cluster1 | Analyze various aspects of students, faculty, courses, and institutions, including demographics, affiliations, course offerings, performance, and advisor relationships. | 365 | Find the first name and office of history professor who did not get a Ph.D. degree. |
+| cluster10 | Retrieve information about students' login names, course enrollments, various product and course details, club memberships, user names and emails, apartments details and addresses, document and policy information, along with item lists, transaction data, and sports team information. | 315 | Return the login names of the students whose family name is "Ward". |
+| cluster11 | Statistics and information about various domains such as education, business, entertainment, sports, and more. | 806 | How many teachers does the student named MADLOCK RAY have? |
+| cluster12 | Explore various aspects of movies, music, artists, albums, directors, reviewers, ratings, languages, and genres in the entertainment industry. | 242 | What are the dates of ceremony at music festivals corresponding to volumes that lasted more than 2 weeks on top? |
+| cluster13 | Analyze and summarize financial data, customer information, employee details, transaction records, invoice and order statuses, claims and settlements, account balances, and various other attributes to provide insights on customer behavior, employee performance, and overall business performance. | 357 | Show the average share count of transactions for different investors. |
+| cluster14 | Analyze various data regarding mountains, employees, airports, students, schools, companies, tracks, apartments, competitions, departments, sports, populations, cities, election cycles, engineers, artists, committees, delegates, entrepreneurs, transit passengers, aircrafts, markets, journalists, crime rates, temperatures, recordholders, cameras, financiers, films, actors, and organized events, utilizing minimum, maximum, average, and other computed values. | 227 | Show the countries that have mountains with height more than 5600 stories and mountains with height less than 5200. |
+| cluster15 | Generate summaries and statistics of various data entities including documents, projects, users, services, policies, roles, transactions, and attributes. | 248 | List all the image name and URLs in the order of their names. |
+| cluster16 | Analyze product information, customer data, supplier details, manufacturer revenue, product prices, characteristics, and order quantities to provide insights on various aspects like top customers, most expensive item, shop stocks, average prices, carrier usage, company sales, industry market values, product ratings, and more. | 228 | Return ids of all the products that are supplied by supplier id 2 and are more expensive than the average price of all products. |
+| cluster17 | Consolidated description: Retrieve various information about clubs, songs, products, addresses, artists, documents, phones, courses, enzymes, employees, customer details, and other entities from a diverse set of data. | 437 | Which clubs have one or more members whose advisor is "1121"? |
+| cluster18 | Analyze and provide various statistics, lists, and information about players, games, teams, clubs, and other related aspects in sports, associations, and competitions. | 245 | List the ids of all distinct orders ordered by placed date. |
+| cluster19 | Retrieve information on customers, employees, institutions, authors, physicians, students, club members, papers, reports, activities, and various details such as names, roles, dates, titles, and phone numbers. | 250 | What are the names of customers who never made an order. |
+| cluster2 | Analyzing student demographics, faculty details, course offerings, campus fees, student activities, department statistics, and enrollment data across various colleges and universities. | 436 | What are the different cities where students live? |
+| cluster3 | Discover high-quality wines, music, arts, and entertainment data including artists, tracks, genres, albums, films, musicals, exhibitions, festivals, and various related statistics. | 235 | Find the white grape used to produce wines with scores above 90. |
+| cluster4 | Retrieve various statistics, counts, and information about various entities, such as departments, budgets, customers, industries, employees, events, and more. | 203 | Give the name of the department with the lowest budget. |
+| cluster5 | Analyze various data including demographics, capacities, enrollments, industries, and statistics to obtain insights about airports, cities, companies, departments, colleges, events, and various entities. | 479 | What is the average and total capacity for all dorms who are of gender X? |
+| cluster6 | Explore information on airlines, airports, cities, countries, train stations, tourist attractions, colleges, dorms, apartments, companies, employees, bank branches, hotels, rooms, regional populations, store districts, factories, transportation methods, and various statistics. | 339 | Find the number of routes operated by American Airlines. |
+| cluster7 | Analyze various customer, employee, product, and transaction data for insights on accounts, balances, payments, invoices, loans, complaints, orders, salaries, and various other details. | 417 | What are the last names of customers without invoice totals exceeding 20? |
+| cluster8 | Retrieve and analyze various data: counties, schools, apartments, ministers, populations, businesses, memberships, flights, events, railways, cities, records, and more. | 311 | Show the names of counties that have at least two delegates. |
+| cluster9 | Analyze and summarize data across various categories such as product details, user roles, company statistics, project information, and employee records. | 397 | What are the code and description of the most frequent behavior incident type? |
+
 
 ## Ideas for Improvement
 Overall I believe this setup represents a respectable baseline, but there are a few areas that I think could be improved on:
@@ -143,7 +124,7 @@ Overall I believe this setup represents a respectable baseline, but there are a 
 ### Fine-tuning to optimize query representation
 The dataset we are given includes SQL queries corresponding to each of the natural language queries. If we fine-tune our encoder model on the seq2seq task of predicting the SQL translation given the English query, the representations we extract for clustering will be optimized representations of the text which predict the explicit, functional intent of the query. My intuition around text representation makes me think this could be better-suited for our task, which is to discover the types of intents people are trying to convey through their prose, and avoids us having to wade through possible noise of a natural language interface. 
 
-Of course, this intuition would need to be borne out empirically, but a cursory glance at the clustered output reveals many examples which appear to be together on the basis of lexical overlap more than query intent.
+An example of this is how many of the clusters are aligned according to simple lexical overlap, especially in the use of syntactic constructions used to form questions. The "What is"s dominate a few clusters while the "Show me/list the"s are also found together. This suggests that lexical overlap and certain syntactic constructions are strong features emerging from our representation choice. Fine-tuning on a task that focuses on optimizing a representation of the _intent_ of the query, rather than the _form_ would likely mitigate this effect.
 
 ### Evaluation of cluster quality
 The scope of this project meant that my evaluation of cluster quality was restricted to browsing the clusters manually to make sure that the results were reasonable. Given a bit more time, it would be useful to implement some intrinsic and extrinsic measures of cluster quality. For example:

@@ -1,1 +1,1 @@
-Obtain information about students, faculty, courses, departments, University-related statistics, and other academic details.
+Analyzing student demographics, faculty details, course offerings, campus fees, student activities, department statistics, and enrollment data across various colleges and universities.

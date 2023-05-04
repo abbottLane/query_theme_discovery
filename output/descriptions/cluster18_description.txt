@@ -1,1 +1,1 @@
-Summarize various sports-related queries involving wrestler statistics, athletes' information, match details, team records, college and school data, game player information, and roller coaster information.
+Analyze and provide various statistics, lists, and information about players, games, teams, clubs, and other related aspects in sports, associations, and competitions.

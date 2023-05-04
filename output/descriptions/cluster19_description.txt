@@ -1,1 +1,1 @@
-Retrieve information about staff, institutions, medications, employees, customers, authors, problems, documents, workshops, names, companies, investors and more, including queries related to roles, departments, dates, locations, titles, nurses, and various other attributes.
+Retrieve information on customers, employees, institutions, authors, physicians, students, club members, papers, reports, activities, and various details such as names, roles, dates, titles, and phone numbers.

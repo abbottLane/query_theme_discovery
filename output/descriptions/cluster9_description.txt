@@ -1,1 +1,1 @@
-Obtain information on various entities, such as vehicles, products, services, documents, technicians, and customers, including their characteristics, transactions, identifiers, performances, and details across different domains like music, films, technology, education, and healthcare.
+Analyze and summarize data across various categories such as product details, user roles, company statistics, project information, and employee records.

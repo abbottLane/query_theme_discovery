@@ -1,1 +1,1 @@
-Analyze and provide details on various aspects of projects, roles, users, documents, services, assets, transactions, policies, and reviews in diverse data sets.
+Generate summaries and statistics of various data entities including documents, projects, users, services, policies, roles, transactions, and attributes.

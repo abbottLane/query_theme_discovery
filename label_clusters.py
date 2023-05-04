@@ -62,7 +62,7 @@ def get_stats(cluster_data):
     stats = "| Cluster | Label | Size | Example |\n"
     stats += "| ------- | ----- | ---- | ------ |\n"
     for cluster in sorted(cluster_data.keys()):
-        stats += "| " + cluster + " | " + cluster_data[cluster]["label"] + " | " + str(len(cluster_data[cluster]["data"])) + " | " + cluster_data[cluster]["data"][0] + " |\n"
+        stats += "| " + cluster + " | " + cluster_data[cluster]["label"] + " | " + str(len(cluster_data[cluster]["data"])) + " | " + cluster_data[cluster]["data"][0].rstrip() + " |\n"
     return stats
     
 if __name__ == "__main__":

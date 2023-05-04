@@ -1,1 +1,1 @@
-Analyze various data related to locations, amenities, routes, capacities, and other details of hotels, rooms, apartments, events, and transportation methods.
+Explore information on airlines, airports, cities, countries, train stations, tourist attractions, colleges, dorms, apartments, companies, employees, bank branches, hotels, rooms, regional populations, store districts, factories, transportation methods, and various statistics.

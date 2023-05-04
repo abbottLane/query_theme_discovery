@@ -1,1 +1,1 @@
-Analyzing various queries related to names, demographics, statistics, and details about different subjects like athletes, pilots, races, airports, employees, and more.
+Gather information on various queries related to flight, ship, and race details, player and staff information, and various statistics from different categories such as geography, sports, and organizations.
