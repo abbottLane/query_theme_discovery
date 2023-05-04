@@ -1,0 +1,203 @@
+Count the number of farms.
+Count the number of different statuses.
+Give me the dates when the max temperature was higher than 85.
+From the trip record, find the number of unique bikes.
+Find all the zip codes in which the max dew point have never reached 70.
+Count the number of actors.
+Return the most frequent result across all musicals.
+Find the number of tweets in record.
+Find the number of users who posted some tweets.
+Find the names of users who have more than one tweet.
+Find the name of each user and number of tweets tweeted by each of them.
+Find the name of the user who tweeted more than once, and number of tweets tweeted by them.
+Find the average number of followers for the users who had some tweets.
+Find the names of all the catalog entries.
+Find the catalog publisher that has the most catalogs.
+Find the dates on which more than one revisions were made.
+On which days more than one revisions were made on catalogs.
+Find the total number of catalog contents.
+Show all allergies with type food.
+List the names of editors who are older than 25.
+Count the number of accounts.
+Count the number of customers who hold an account.
+Count the number of customers.
+Count the number of tracks.
+Count the number of races.
+Find the number of members living in each address.
+Find the number of albums.
+Find all the phone numbers.
+Count the total number of available services.
+Find how many different affiliation types there are.
+Count the number of different affiliation types.
+Count the number of countries.
+Count the number of climbers.
+Count the number of different countries that climbers are from.
+Count the total number of apartment bookings.
+Count the number of classrooms in Lamberton.
+Give the name of the department with the lowest budget.
+Show the party that has the most people.
+Show the names of people that are on affirmative side of debates with number of audience bigger than 200.
+Show the names of people and the number of times they have been on the affirmative side of debates.
+Show the names of people who have been on the negative side of debates at least twice.
+List the names of people that have not been on the affirmative side of debates.
+Count the number of distinct claim outcome codes.
+Count the number of customers who have an account.
+Show the number of customers.
+Count the number of transactions.
+Count the number of invoices.
+Count the number of artists.
+Count the number of exhibitions that happened in or after 2005.
+Find the number of reviews.
+Find the number of items without any review.
+Count the number of gymnasts.
+Return the names of the gymnasts.
+List the names of the top 5 oldest people.
+Return the hometown that is most common among gymnasts.
+Count the number of different hometowns of these people.
+Find the total balance across checking accounts.
+Find the average checking balance.
+Count the number of wrestlers.
+Count the number of schools.
+Count the number of cinemas.
+Show all directors.
+List the distinct carriers of phones with memories bigger than 32.
+Count the number of regions.
+Count the number of different parties.
+Count the number of party events.
+find the event names that have more than 2 records.
+Count the number of entrepreneurs.
+Return the names of entrepreneurs.
+Return the name of the heaviest entrepreneur.
+List the names of people that are not entrepreneurs.
+Count the number of different companies.
+Show the company of the tallest entrepreneur.
+Find all the campuses opened in 1958.
+Count the number of candidates.
+Find the number of times ROY SWEAZY has reserved a room.
+For each room, find its name and the number of times reservations were made for it.
+Count the number of parties.
+Compute the average number of hosts for parties.
+Show the locations of parties with hosts older than 50.
+Count the number of different affected regions.
+Find the name of the storm that affected both Afghanistan and Albania regions.
+Count the total number of counties.
+Count the number of distinct governors.
+Find the delegates who are from counties with population below 100000.
+Show the names of journalists that have reported more than one event.
+List all restaurant types.
+Find the number of customers in total.
+Count the number of authors.
+Count the number of institutions.
+Count the number of total papers.
+Retrieve the country that has published the most papers.
+Find the name of the organization that has published the largest number of papers.
+Retrieve the title of the paper that has the largest number of authors.
+Count the number of different last names actors have.
+Return the most common first name among all actors.
+Return the most common full name among all actors.
+Count the number of addressed in the California district.
+Count the number of cities in Australia.
+Count the number of customers who are active.
+Count the number of different languages in these films.
+Count the number of stores.
+Count the number of different film ratings.
+Count the number of bank branches.
+Find the average number of customers cross all banks.
+Count the number of different account types.
+Find the count and code of the job has most employees.
+Find the total number of employees.
+List the most common type of competition.
+Find the countries that have never participated in any competition with Friendly type.
+Count the number of programs.
+Count the number of programs broadcast for each time section of a day.
+Count the number of distinct channel owners.
+Tell me the the date when the first claim was made.
+Compute the total amount of settlement across all the settlements.
+Count the total number of settlements made.
+Find the total claimed amount of all the claims.
+Find the department with the most employees.
+Count the number of patients who stayed in room 112.
+Find the number of patients' prescriptions physician John Dorian made.
+Find the patient who most recently stayed in room 111.
+Find the name of the nurse who has the largest number of appointments.
+Find the number of medications prescribed for each brand.
+Tell me the highest, lowest, and average cost of procedures.
+Find the three most expensive procedures.
+Find the physicians who are trained in a procedure that costs more than 5000.
+Which physician was trained in the procedure that costs the most.
+Count how many appointments have been made in total.
+Count the number of films.
+Count the number of all the calendar items.
+Show the number of locations.
+Count the total number of roles listed.
+Find the number of employees we have.
+Count the total number of clubs.
+Count the total number of students.
+Find the person who has exactly one friend.
+Find the female friends of Alice.
+Find Alice's friends of friends.
+Count the number of users that are logged in.
+Count the number of companies.
+Compute the average profits companies make.
+Count the number of distinct company industries.
+List the industry shared by the most companies.
+Count the number of courses.
+Count the number of courses with more than 2 credits.
+Find the name of the department that has the fewest members.
+Count the number of distinct product types.
+Count the number of stores the chain South has.
+Count the number of devices.
+Count the number of different software platforms.
+Count the total number of bookings made.
+Count the number of customers recorded.
+Tell me the name of the most pricy product.
+Find the number of bands.
+Count the number of songs.
+Find all the vocal types.
+Return the founder of Sony.
+Return the number of companies created by Andy.
+Find the total revenue of companies of each founder.
+Find the number of voting records in total.
+Find the distinct number of president votes.
+Count the number of products.
+Count the number of colors.
+Count the number of characteristics.
+List countries that have more than one swimmer.
+Find the names of stadiums which have never had any event.
+Find the name of the swimmer who has the most records.
+Find the names of stadiums that some Australian swimmers have been to.
+Find the names of stadiums that the most swimmers have been to.
+Find all details for each swimmer.
+Count the number of different complaint type codes.
+Count the number of submissions.
+Find the number of investors in total.
+Count the number of distinct names associated with the photos.
+Count the number of tourists who did not visit any place.
+Retrieve the list of all cities.
+Count the number of distinct artists who have volumes.
+Return the result that is most frequent at music festivals.
+Count the number of artists who have had volumes.
+List the status shared by more than two roller coaster.
+Count the number of ships.
+Give me the temperature of Shanghai in January.
+Find the name of the most popular party form.
+Find the name of the youngest organization.
+Count the number of services.
+Count the number of cities in the state of Colorado.
+Return the name of the organization which has the most contact individuals.
+Count the number of statements.
+Count the number of documents.
+Count the number of budget codes.
+Count the number of documents with expenses.
+Find the total number of scientists.
+Find the total hours of all projects.
+Count the number of different scientists assigned to any project.
+Find the average hours of all projects.
+Find the name of project that continues for the longest time.
+Count the number of wines produced at Robert Biale winery.
+Count the number of appelations in Napa County.
+Count the number of female Professors we have.
+Find the number of activities Mark Giuliano is involved in.
+Count the number of book clubs.
+Return the publisher that has published the most books.
+Count the number of different directors.

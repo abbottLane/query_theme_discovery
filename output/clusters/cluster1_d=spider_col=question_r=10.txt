@@ -1,0 +1,365 @@
+List the id of students who registered course statistics in the order of registration date.
+List the id of students who attended  statistics courses in the order of attendance date.
+What are the ids of the students who attended courses in the statistics department in order of attendance date.
+Show first name and last name for all students.
+Show first name, last name, age for all female students. Their sex is F.
+Show student ids for all male students.
+Show all student ids who are older than 20.
+Give the number of students living in either HKG or CHI.
+Show the minimum, average, and maximum age of all students.
+Provide the last name of the youngest student.
+Show the student id of the oldest student.
+Show all majors and corresponding number of students.
+Show all ages and corresponding number of students.
+Show the average age for male and female students.
+Show all advisors and corresponding number of students.
+Give the advisor with the most students.
+Show all student IDs who have at least two allergies.
+Find the last name and age of the student who has allergy to both milk and cat.
+What are the allergies and their types that the student with first name Lisa has? And order the result by name of allergies.
+What are the allergies the girl named Lisa has? And what are the types of them? Order the result by allergy names.
+Find the first name and gender of the student who has allergy to milk but not cat.
+Find the average age of the students who have allergies with food and animal types.
+List the first and last name of the students who do not have any food type allergy.
+What is the full name of each student who is not allergic to any type of food.
+Find the number of male (sex is 'M') students who have some food type allery.
+Find the different first names and cities of the students who have allergy to milk or cat.
+Find the number of students who are older than 18 and do not have allergy to either food or animal.
+Find the first name and major of the students who are not allegry to soy.
+Show the distinct themes of journals.
+Show the names and ages of editors and the theme of journals for which they serve on committees, in ascending alphabetical order of theme.
+Show the names of editors that are on at least two journal committees.
+Show the enrollment and primary_conference of the oldest college.
+Find the total student enrollment for different affiliation type schools.
+Find the schools that were either founded after 1850 or public.
+Find the team names of the universities whose enrollments are smaller than the average enrollment size.
+Find the number of universities that have over a 20000 enrollment size for each affiliation type.
+Find the total number of students enrolled in the colleges that were founded after the year of 1850 for each affiliation type.
+Find the number of phones for each accreditation type.
+Show the players from college UCLA.
+Find the room number of the rooms which can sit 50 to 100 students and their buildings.
+What is the name of the student who has the highest total credits in the History department.
+Give the name of the student in the History department with the most credits.
+Count the number of students who have advisors.
+Count the number of departments which offer courses.
+Count the number of courses in the Physics department.
+Count the number of courses without prerequisites.
+Count the number of distinct instructors who have taught a course.
+Give the name of the lowest earning instructor in the Statistics department.
+Find the title of course that is provided by both Statistics and Psychology departments.
+Find the title of course that is provided by Statistics but not Psychology departments.
+Find the id of instructors who taught a class in Fall 2009 but not in Spring 2010.
+Find the name of students who took any class in the years of 2009 and 2010.
+List the names of all courses ordered by their titles and credits.
+Given the titles of all courses, in order of titles and credits.
+Give the name of the highest paid instructor.
+List the information of all instructors ordered by their salary in ascending order.
+Give all information regarding instructors, in order of salary from least to greatest.
+Find the name of the students and their department names sorted by their total credits in ascending order.
+list in alphabetic order all course names and their instructors' names in year 2008.
+Show all titles and their instructors' names for courses in 2008, in alphabetical order by title.
+Find the name of instructors who are advising more than one student.
+Find the title of the course that is offered by more than one department.
+Find the total credits of courses provided by different department.
+Find the minimum salary for the departments whose average salary is above the average payment of all instructors.
+Find the number of courses provided in each semester and year.
+Find the year which offers the largest number of courses.
+Find the year and semester when offers the largest number of courses.
+Find the total number of students in each department.
+Find the semester and year which has the least number of student taking any class.
+Give id of the instructor who advises students in the History department.
+Give the title of the prerequisite to the course International Finance.
+Find the title of course whose prerequisite is course Differential Geometry.
+Find the names of students who have taken any course in the fall semester of year 2003.
+Give the title of the course offered in Chandler during the Fall of 2010.
+Find the name of the instructors who taught C Programming course before.
+Find the name and salary of instructors who are advisors of the students from the Math department.
+Find the name of instructors who are advisors of the students from the Math department, and sort the results by students' total credit.
+What are the names of all instructors who advise students in the math depart sorted by total credits of the student.
+Find the name of instructor who is the advisor of the student who has the highest number of total credits.
+Find the names of instructors who didn't each any courses in any Spring semester.
+Find the name of the department which has the highest average salary of professors.
+Find the number and averaged salary of all instructors who are in the department with the highest budget.
+Give the title and credits for the course that is taught in the classroom with the greatest capacity.
+Find the name of students who didn't take any course from Biology department.
+Find the total number of students and total number of instructors for each department.
+Find the name of students who have taken the prerequisite course of the course with title International Finance.
+Find the name and salary of instructors whose salary is below the average salary of the instructors in the Physics department.
+Find the name of students who took some course offered by Statistics department.
+Find the building, room number, semester and year of all courses offered by Psychology department sorted by course titles.
+Find the names of all instructors in Comp. Sci. department with salary > 80000.
+List in alphabetic order the names of all distinct instructors.
+Find courses that ran in Fall 2009 or in Spring 2010.
+Find courses that ran in Fall 2009 and in Spring 2010.
+Find courses that ran in Fall 2009 but not in Spring 2010.
+Find the salaries of all distinct instructors that are less than the largest salary.
+Find the total number of instructors who teach a course in the Spring 2010 semester.
+Find names of instructors with salary greater than that of some (at least one) instructor in the Biology department.
+Find the names of all instructors whose salary is greater than the salary of all instructors in the Biology department.
+List all the names of schools with an endowment amount smaller than or equal to 10.
+Find the number of schools that have more than one donator whose donation amount is less than 8.5.
+Show institution types, along with the number of institutions and total enrollment for each type.
+Show the institution type with the largest number of institutions.
+Find the name of the campuses opened before 1800.
+For each Orange county campus, report the number of degrees granted after 2000.
+Find the names of the campus which has more faculties in 2002 than every campus in Orange county.
+What are the degrees conferred in "San Francisco State University" in 2001.
+List the campus that have between 600 and 1000 faculty lines in year 2004.
+Find the campus fee of "San Jose State University" in year 2000.
+For each party, find its location and the name of its host. Sort the result in ascending order of the age of the host.
+List all students' first names and last names who majored in 600.
+Which Advisor has most of students? List advisor and the number of students.
+Which major has least number of students? List the major and the number of students.
+Which student's age is older than 18 and is majoring in 600? List each student's first and last name.
+List all female students age is older than 18 who is not majoring in 600. List students' first name and last name.
+Which student visited restaurant most often? List student's first name and last name.
+Which paper has the most authors? Give me the paper title.
+Return the cell phone number and email address for all students.
+Find the first names and last names of teachers in alphabetical order of last name.
+Among those engineers who have visited, which engineer makes the least number of visits? List the engineer id, first name and last name.
+Find the number of professors in accounting department.
+Find the number of departments in each school.
+Find the number of different departments in each school whose number of different departments is less than 5.
+Find the number of classes offered for all class rooms that held at least 2 classes.
+Find the number of classes in each department.
+Find the number of classes in each school.
+Find the number of professors with a Ph.D. degree in each department.
+Find the number of students for each department.
+Find the total number of hours have done for all students in each department.
+Find the max, average, and minimum gpa of all students in each department.
+Find the total credits of all classes offered by each department.
+Find the name of the department that offers the largest number of credits of all classes.
+Find the first names and offices of all professors sorted by alphabetical order of their first name.
+What are the first names of the professors who do not teach a class.
+What is the first names of the professors from the history department who do not teach a class.
+Find the first name of the professor who is teaching two courses with code CIS-220 and QM-261.
+Find the first name and gpa of the students whose gpa is lower than the average gpa of all students.
+Find the name and address of the department that has the highest number of students.
+Find the first name and office of the professor who is in the history department and has a Ph.D. degree.
+Find the first names of all instructors who have taught some course and the course description.
+Find the first names and offices of all instructors who have taught some course and also find the course description.
+Find the first names and offices of all instructors who have taught some course and the course description and the department name.
+Find names of all students who took some course and the course description.
+Find names of all students who took some course and got A or C.
+Find the first names of all professors in the Accounting department who is teaching some course and the class room.
+Find the first names and degree of all professors who are teaching some class in Computer Info. Systems department.
+What is the last name of the student who got a grade A in the class with code 10018.
+Find the first name and office of history professor who did not get a Ph.D. degree.
+Find the first names of professors who are teaching more than one class.
+Find the first names of students who took exactly one class.
+Find the full name and id of the college that has the most baseball players.
+Find the total number of courses offered.
+List all the dates of enrollment and completion of students.
+Find the number of distinct students enrolled in courses.
+Find the number of distinct courses that have enrolled students.
+Find the number of students who have the word "son" in their personal names.
+List all the information about course authors and tutors in alphabetical order of the personal name.
+Sort the information about course authors and tutors in alphabetical order of the personal name.
+List the personal names and family names of all the students in alphabetical order of family name.
+What are the personal names and family names of the students? Sort the result in alphabetical order of the family name.
+For each distinct test result, find the number of students who got the result.
+What are the addresses of the course authors who teach either "operating system" or "data structure" course.
+Find the personal name, family name, and author ID of the course author that teaches the most courses.
+Find the addresses and author IDs of the course authors that teach at least two courses.
+Which course authors teach two or more courses? Give me their addresses and author IDs.
+Find the subject ID, subject name, and the corresponding number of available courses for each subject.
+Find the subject ID, name of subject and the corresponding number of courses for each subject, and sort by the course count in ascending order.
+List the subject ID, name of subject and the number of courses available for each subject in ascending order of the course counts.
+Find the the date of enrollment of the "Spanish" course.
+Which course is enrolled in by the most students? Give me the course name.
+Find the names of the courses that have just one student enrollment.
+Return the descriptions and names of the courses that have more than two students enrolled in.
+List the name and the number of enrolled student for each course.
+Find the student ID and personal name of the student with at least two enrollments.
+Which student are enrolled in at least two courses? Give me the student ID and personal name.
+Find the student ID and middle name for all the students with at most two enrollments.
+Find the personal names of students not enrolled in any course.
+Which students not enrolled in any course? Find their personal names.
+Count the number of students who did not enroll in any course.
+Find the common personal name of course authors and students.
+Return the name of each physician and the number of patients he or she treats.
+Find the name of physicians who are in charge of more than one patient.
+List the names of departments where some physicians are primarily affiliated with.
+What are the names of departments that have primarily affiliated physicians.
+Compute the mean price of procedures physician John Wen was trained in.
+Find the names of procedures which physician John Wen was trained in.
+Find all procedures which cost more than 1000 or which physician John Wen was trained in.
+Find the names of all procedures such that the cost is less than 5000 and physician John Wen was trained in.
+Find the name of physicians who are affiliated with both Surgery and Psychiatry departments.
+Find the name of physicians who are affiliated with Surgery or Psychiatry department.
+Find the number of students in total.
+Find the last names of students studying in room 111.
+Find the first names of students studying in room 108.
+List the first names of all the students in room 107.
+For each classroom report the grade that is taught in it. Report just the classroom number and the grade number.
+Find the grade taught in classroom 103.
+Find the grade studying in room 105.
+Find the classrooms in which grade 4 is studying.
+Show me the classrooms grade 5 is using.
+Find the last names of the teachers that teach fifth grade.
+Find the first names of the teachers that teach first grade.
+Find the first names of all the teachers that teach in classroom 110.
+Which teachers teach in classroom 110? Give me their first names.
+Find the last names of teachers teaching in classroom 109.
+Which teachers teach in classroom 109? Give me their last names.
+Report the first name and last name of all the students.
+Show each student's first name and last name.
+Find all students taught by OTHA MOYER. Output the first and last names of the students.
+Which students study under the teacher named OTHA MOYER? Give me the first and last names of the students.
+Find all students taught by MARROTTE KIRK. Output first and last names of students.
+Find the first and last name of all the teachers that teach EVELINA BROMLEY.
+Which teachers teach the student named EVELINA BROMLEY? Give me the first and last name  of the teachers.
+Count the number of students the teacher LORIA ONDERSMA teaches.
+Find the number of students taught by the teacher KAWA GORDON.
+Find the number of students taught by TARRING LEIA.
+Find the number of teachers who teach the student called CHRISSY NABOZNY.
+Find the number of teachers who teach the student called MADLOCK RAY.
+Find the last names of the students in third grade that are not taught by COVIN JEROME.
+Which students in third grade are not taught by teacher COVIN JEROME? Give me the last names of the students.
+For each grade, report the grade, the number of classrooms in which it is taught and the total number of students in the grade.
+For each grade, return the grade number, the number of classrooms used for the grade, and the total number of students enrolled in the grade.
+For each classroom, report the classroom number and the number of grades using it.
+For each classroom, show the classroom number and count the number of distinct grades that use the room.
+Find the classroom that the most students use.
+Report the number of students in each classroom.
+For each classroom, show the classroom number and find how many students are using it.
+For each grade 0 classroom, report the total number of students.
+For each grade 0 classroom, return the classroom number and the count of students.
+Report the total number of students for each fourth-grade classroom.
+For each fourth-grade classroom, show the classroom number and the total number of students using it.
+Find the name of the teacher who teaches the largest number of students.
+Which teacher teaches the most students? Give me the first name and last name of the teacher.
+Find the number of students in one classroom.
+Find each student's first name.
+Find the name of the club that has the most female students.
+Which club has the most female students as their members? Give me the name of the club.
+Count the number of clubs for which the student named "Eric Tai" is a member.
+What is the complete description of the researcher role.
+What is the name of all the people who are older than at least one engineer? Order them by age.
+Find the name and age of all males in order of their age.
+Find the name and age of the person who is a friend of both Dan and Alice.
+Find the name of the person who has no student friends.
+Show the names of members and the locations of colleges they go to in ascending alphabetical order of member names.
+Find the rooms of faculties with rank professor who live in building NEB.
+List all information about courses sorted by credits in the ascending order.
+List the course name of courses sorted by credits.
+Find the first name of students in the descending order of age.
+Find the last name of female (sex is F) students in the descending order of age.
+Find the last names of faculties in building Barton in alphabetic order.
+Find the first names of faculties of rank Professor in alphabetic order.
+Find the rank of the faculty that the fewest faculties belong to.
+Give the building that the instructor who teaches the greatest number of courses lives in.
+Give the names of the courses with at least five enrollments.
+Find the department name and room of the course INTRODUCTION TO COMPUTER SCIENCE.
+Find the student first and last names and grade points of all enrollments.
+Find the distinct student first names of all students that have grade point at least 3.8 in one course.
+Find the full names of faculties who are members of department with department number 520.
+What are the first names and last names of the students that minor in the department with DNO 140.
+Find the last names of faculties who are members of computer science department.
+Find the average grade point of student whose last name is Smith.
+Find the names of courses that have either 3 credits or 1 credit but 4 hours.
+Find the first name of students not enrolled in any course.
+Find the id and name of the staff who has been assigned for the shortest period.
+Show the denomination shared by more than one school.
+List all information about college sorted by enrollment number in the ascending order.
+Find the name of different colleges involved in the tryout in alphabetical order.
+Find the number of students who participate in the tryout for each college ordered by descending count.
+Find the name and college of students whose decisions are yes in the tryout.
+Find the name of all students who were in the tryout sorted in alphabetic order.
+Find the number of distinct currency codes used in drama workshop groups.
+Find the maximum age of all the students.
+Find the last names of students with major 50.
+Find the first names of students with age above 22.
+List the major of each male student.
+Find the average age of female students.
+Tell me the ages of the oldest and youngest students studying major 600.
+Find the distinct last names of the students who have class president votes.
+Find the distinct first names of the students who have class senator votes.
+Find the first and last name of all the students of age 18 who have vice president votes.
+Find the distinct first names of all the students who have vice president votes and whose city code is not PIT.
+Find the distinct last names of all the students who have president votes and whose advisor is not 2192.
+Find the distinct last names of all the students who have president votes and whose advisor is 8741.
+For each advisor, report the total number of students advised by him or her.
+Report all advisors that advise more than 2 students.
+Report all majors that have less than 3 students.
+Find the major that is studied by the largest number of students.
+Find the major that is studied by the most female students.
+Report the distinct advisors who have more than 2 students.
+Show the distinct countries of managers.
+Find the first name of students who is older than 20.
+Find the first name of students living in city PHL whose age is between 20 and 25.
+Find the number of distinct gender for dorms.
+Find the name and gender type of the dorms whose capacity is greater than 300 or less than 100.
+Find the first and last name of students whose age is younger than the average age.
+Find the number of dorms and total capacity for each gender.
+Find the number of students in each major.
+Find the number and average age of students living in each city.
+Find the first and last name of students who are not in the largest major.
+Find the number of students whose age is older than the average age for each gender.
+Find the average age of students living in each dorm and the name of dorm.
+Find the number of students who is older than 20 in each dorm.
+Find the first name of students who are living in the Smith Hall.
+Find the average age of students who are living in the dorm with the largest capacity.
+Find the name of amenities Smith Hall dorm have.
+Find the name of amenities Smith Hall dorm have. ordered the results by amenity names.
+Find the name of amenities of the dorm where the student with last name Smith is living in.
+For each submission, show the author and their affiliated college.
+Show different colleges along with the number of authors of submission from each college.
+For each college, return the college name and the count of authors with submissions from that college.
+Show the authors who have submissions to more than one workshop.
+Show first name for all students with major 600.
+Show all advisors who have at least two students.
+List ids for all student who are on scholarship.
+Show last names for all student who are on scholarship.
+Show student ids who are on scholarship and have major 600.
+Find the name and hours of project that has the most number of scientists.
+Find the total hours of the projects that scientists named Michael Rogers or Carol Smith are assigned to.
+Find the number of scientists involved for each project name.
+Find the number of scientists involved for the projects that require more than 300 hours.
+Find the number of projects which each scientist is working on and scientist's name.
+Find the SSN and name of scientists who are assigned to the project with the longest hours.
+Find the name of scientists who are assigned to some project.
+Find the number of scientists who are not assigned to any project.
+List all the scientists' names, their projects' names, and the hours worked by that scientist on each project, in alphabetical order of project name, and then scientist name.
+Find name of the project that needs the least amount of time to finish and the name of scientists who worked on it.
+Find the list of distinct ranks for faculty.
+Show all the distinct buildings that have faculty rooms.
+Show the rank, first name, and last name for all the faculty.
+Show the first name, last name, and phone number for all female faculty members.
+Count the number of Professors who have office in building NEB.
+Show all the buildings along with the number of faculty members the buildings have.
+How many faculty members does each building have? List the result with the name of the building.
+Find the building that has the largest number of faculty members.
+Show all the buildings that have at least 10 professors.
+For each faculty rank, show the number of faculty members who have it.
+Show all the ranks and the number of male and female faculty for each rank.
+Find the faculty rank that has the least members.
+Show the number of male and female assistant professors.
+Show the ids of students whose advisors are professors.
+Which students have professors as their advisors? Find their student ids.
+Show first name and last name for all the students advised by Michael Goodrich.
+Which students are advised by Michael Goodrich? Give me their first and last names.
+Show the faculty id of each faculty member, along with the number of students he or she advises.
+Show all the faculty ranks and the number of students advised by each rank.
+How many students are advised by each rank of faculty? List the rank and the number of students.
+Give me the the first and last name of the faculty who advises the most students.
+Show the ids for all the faculty members who have at least 2 students.
+Which faculty members advise two ore more students? Give me their faculty ids.
+Show the ids of all the faculty members who participate in an activity and advise a student.
+What are ids of the faculty members who not only participate in an activity but also advise a student.
+Show the first and last name of all the faculty members who participated in some activity, together with the number of activities they participated in.
+What is the first and last name of the faculty members who participated in at least one activity? For each of them, also show the number of activities they participated in.
+Show all the activity names and the number of faculty involved in each activity.
+How many faculty members participate in each activity? Return the activity names and the number of faculty members.
+Find the first and last name of the faculty who is involved in the largest number of activities.
+Which activity has the most faculty members participating in? Find the activity name.
+Show the ids for all the students who participate in an activity and are under 20.
+What are the ids of the students who are under 20 years old and are involved in at least one activity.
+Tell me the first and last name of the student who has the most activities.
+Find the name of the activity that has the largest number of student participants.
+Find the first names of the faculty members who are playing Canoeing or Kayaking.
+Which faculty members are playing either Canoeing or Kayaking? Tell me their first names.
+Find the first names of professors who are not playing Canoeing or Kayaking.
+Find the first names of the faculty members who participate in Canoeing and Kayaking.
+Find the ids of the students who participate in Canoeing and Kayaking.
+Which students participate in both Canoeing and Kayaking as their activities? Tell me their student ids.

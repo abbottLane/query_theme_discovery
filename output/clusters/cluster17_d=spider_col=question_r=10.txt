@@ -1,0 +1,437 @@
+What are the hosts of competitions whose theme is not "Aliens"?
+Return the hosts of competitions for which the theme is not Aliens?
+List the id of students who never attends courses?
+List the id of students who attended some courses?
+Find id of the candidate whose email is stanley.monahan@example.org?
+What is the id of the candidate whose email is stanley.monahan@example.org?
+Find id of the candidate who most recently accessed the course?
+Find the cell mobile number of the candidates whose assessment code is "Fail"?
+Find distinct cities of addresses of people?
+List the names of courses in alphabetical order?
+List the first names of people in alphabetical order?
+For each zip code, what is the average mean temperature for all dates that start with '8'?
+For each zip code, find the ids of all trips that have a higher average mean temperature above 60?
+On which day and in which zip code was the min dew point lower than any day in zip code 94107?
+In zip code 94107, on which day neither Fog nor Rain was not observed?
+What are the titles of the books whose writer is not "Elaine Lee"?
+What are the names of musicals with nominee "Bob Fosse"?
+What is the partition id of the user named "Iron Man".
+What is the attribute data type of the attribute with name "Green"?
+Which catalog publishers have substring "Murray" in their names?
+What is the aircraft name for the flight with number 99
+What is allergy type of a cat allergy?
+Which city does the student whose last name is "Kim" live in?
+Who is the advisor of student with ID 1004?
+How many male students (sex is 'M') are allergic to any type of food?
+What is Astrid Gruber's email and phone number?
+In which country does Roberto Almeida?
+What is the title of the album that was released by the artist whose name has the phrase 'Led'?
+find the full name of employees who report to Nancy Edwards?
+What is the address of employee Nancy Edwards?
+What is Nancy Edwards's address?
+What is employee Nancy Edwards's phone number?
+What is the the phone number of Nancy Edwards?
+Who is the composer of track Fast As a Shark?
+What is the composer who created the track "Fast As a Shark"?
+How long does track Fast As a Shark has?
+What is the name of tracks whose genre is Rock?
+What is the name of all tracks in the Rock genre?
+What is the name of the album that has the track Ball to the Wall?
+How much is the track Fast As a Shark?
+What is the unit price of the tune "Fast As a Shark"?
+Find number of tracks in each genre?
+What is the average sales of the journals that have an editor whose work type is 'Photo'?
+What are the other account details for the account with the name 338?
+How many accounts does the customer with first name Art and last name Turcotte have?
+What are the names for tracks without a race in class 'GT'.
+Which address do not have any member with the black membership card?
+What are the titles of albums by the artist "AC/DC"?
+Hom many albums does the artist "Metallica" have?
+Which artist does the album "Balls to the Wall" belong to?
+What is the first name and last name of the customer that has email "luisg@embraer.com.br"?
+Find the full name of the customer with the email "luisg@embraer.com.br".
+How many customers have email that contains "gmail.com"?
+What city does the employee who helps the customer with postal code 70174 live in?
+What are the customer phone numbers under the policy "Life Insurance"?
+What are the phone numbers of customers using the policy with the code "Life Insurance"?
+How many policies are listed for the customer named "Dayana Robel"?
+What are all the policy types of the customer named "Dayana Robel"?
+What are the IDs of customers who have "Diana" in part of their names?
+What is the maximum Online Mendelian Inheritance in Man (OMIM) value of the enzymes?
+What is the product, chromosome and porphyria related to the enzymes which take effect at the location 'Cytosol'?
+What is the product, chromosome, and porphyria of the enzymes located at 'Cytosol'?
+What are the names of enzymes who does not produce 'Heme'?
+What are the names of enzymes whose product is not 'Heme'?
+What are the names of enzymes in the medicine named 'Amisulpride' that can serve as an 'inhibitor'?
+What is the interaction type of the enzyme named 'ALA synthase' and the medicine named 'Aripiprazole'?
+What is the type of interaction for the enzyme named 'ALA synthase' and the medicine named 'Aripiprazole'?
+How many medicines have the FDA approval status 'No' ?
+What are the medicine and trade names that cannot interact with the enzyme with the product 'Heme'?
+Which enzyme names have the substring "ALA"?
+What are the names of enzymes that include the string 'ALA'?
+What are the chip model and screen mode of the phone with hardware model name "LG-P760"?
+How many phone hardware models are produced by the company named "Nokia Corporation"?
+What is maximum and minimum RAM size of phone produced by company named "Nokia Corporation"?
+What is the average ROM size of phones produced by the company named "Nokia Corporation"?
+What are the wifi and screen mode type of the hardware model named "LG-P760"?
+What are the official native languages that contain the string "English".
+How many distinct colleges are associated with players from the team with name "Columbus Crew".
+What are the names of representatives whose party is not "Republican"?
+What are the address and phone number of the buildings managed by "Brenden"?
+What are the building full names that contain the word "court"?
+What are dates of birth of all the guests whose gender is "Male"?
+What are the booking start and end dates of the apartments with type code "Duplex"?
+What is the booking status code of the apartment with apartment number "Suite 634"?
+What is the average room count of the apartments whose booking status code is "Provisional"?
+What are the start date and end date of the apartment bookings made by female guests (gender code "Female")?
+How many rooms in total are there in the apartments in the building with short name "Columbus Square"?
+What apartment type codes and apartment numbers do the buildings managed by "Kyle" have?
+What is the season of the game which causes the player 'Walter Samuel' to get injured?
+In which season and which stadium did any player have an injury of 'Foot injury' or 'Knee problem'?
+Which stadium name contains the substring "Bank"?
+Find the title of courses that have two prerequisites?
+Find the title, credit, and department name of courses that have more than one prerequisites?
+Find the name of the courses that do not have any prerequisite?
+What is the name of the department with an instructure who has a name like 'Soisalon'?
+Find the name of the students who have more than one advisor?
+Find the name and salary of the instructors who are advisors of any student from History department?
+Find the id of the courses that do not have any prerequisite?
+Find the name of instructors who didn't teach any courses?
+Find the id of instructors who didn't teach any courses?
+What are the names of all instructors with names that include "dar"?
+Show the distinct venues of debates
+What are the type codes of the policies used by the customer "Dayana Robel"?
+What is the description of the claim status "Open"?
+Which customer is associated with the latest policy?
+How many transaction does account with name 337 have?
+What are the names and year of joining for artists that do not have the country "United States"?
+What is the name of the artist who joined latest?
+What is the name of the browser that became compatible with the accelerator 'CProxy' after year 1998 ?
+When did the web accelerator 'CACHEbox' and browser 'Internet Explorer' become compatible?
+Which accelerator name contains substring "Opera"?
+What are the distinct reigns of wrestlers whose location is not "Tokyo,Japan" ?
+What are the elimination moves of wrestlers whose team is "Team Orton"?
+How many donors have endowment for school named "Glenn"?
+How many proteins are associated with an institution founded after 1880 or an institution with type "Private"?
+What are the daily hire costs for the products with substring 'Book' in its name?
+Which member names corresponding to members who are not in the Progress Party?
+What is the description of document status code 'working'?
+What is the description of document type 'Paper'?
+What is the role of the employee named Koby?
+What address was the document with id 4 mailed to?
+what are the event details of the services that have the type code 'Marriage'?
+How many participants belong to the type 'Organizer'?
+How many events had participants whose details had the substring 'Dr.'
+Which events id does not have any participant with detail 'Kenyatta Kuhn'?
+List the forename and surname of all distinct drivers who once had laptime less than 93000 milliseconds?
+Find all the distinct id and nationality of drivers who have had laptime more than 100000 milliseconds?
+Find the forename and surname of drivers whose nationality is German?
+List the forenames of all distinct drivers in alphabetical order?
+List the names of all distinct races in reversed  lexicographic order?
+Find the id and location of circuits that belong to France or Belgium?
+What is the name of the technician whose team is not 'NYY'?
+What are the names of entrepreneurs whose investor is not "Rachel Elnaugh"?
+What are the dates of birth of entrepreneurs with investor "Simon Woodroffe" or "Peter Jones"?
+What are the names of perpetrators whose country is not "China"?
+What are the names of perpetrators in country "China" or "Japan"?
+which poll source does the highest oppose rate come from?
+What is the id of the reviewer whose name has substring “Mike”?
+What is the id of the reviewer whose name includes the word "Mike"?
+What is the reviewer id of Daniel Lewis?
+What is the id of the reviewer named Daniel Lewis?
+What is the name of the most recent movie?
+What is the title of the newest movie?
+What is the decor of room Recluse and defiance?
+What are the name of rooms booked by customers whose first name has "ROY" in part?
+what are the details of the cmi masters that have the cross reference code 'Tax'?
+Wat is the tax source system code and master customer id of the taxes related to each parking fine id?
+What are the register ids of electoral registries that have the cross reference source system code 'Electoral' or 'Tax'?
+How many council taxes are collected for renting arrears ?
+Which cmi cross reference id is not related to any parking taxes?
+Which distinct source system code includes the substring 'en'?
+What are the first year and last year of the parties whose theme is "Spring" or "Teqnology"?
+What is the zip code the county named "Howard" is located in?
+In which distinct years was the governor "Eliot Spitzer"?
+What is the address of the restaurant Subway?
+What is the description of the restaurant type Sandwich?
+What are the titles of papers published by "Jeremy Gibbons"?
+What is the name of the institution that "Matthias Blume" belongs to?
+Which institution does "Katsuhiro Ueno" belong to?
+What is the name of the institution the author "Katsuhiro Ueno" belongs to?
+What are the last names of the author of the paper titled "Binders Unbound"?
+What are the first and last name of the author who published the paper titled "Nameless, Painless"?
+What are the papers published under the institution "Indiana University"?
+Which papers were written by authors from the institution "Google"?
+How many papers are published by the institution "Tokohu University"?
+How many papers are written by authors from the institution "University of Pennsylvania"?
+Which papers have "Stephanie Weirich" as an author?
+Which paper is published in an institution in "USA" and have "Turon" as its second author?
+Find the titles of papers whose first author is affiliated with an institution in the country "Japan" and has last name "Ohori"?
+Which paper's title contains the word "Database"?
+What is the first name of the author with last name "Ueno"?
+What is the phone number and postal code of the address 1031 Daugavpils Parkway?
+What is the genre name of the film HUNGER ROOF?
+What is the name of the language that the film 'AIRPORT POLLOCK' is in?
+Which movies have 'Deleted Scenes' as a substring in the special feature?
+When did the first payment happen?
+Where does the customer with the first name Linda live? And what is her email?
+Where does the staff member with the first name Elsa live?
+What are the first names of customers who have not rented any films after '2005-08-23 02:06:01'?
+What city and state is the bank with the name morningside in?
+What are the start and end dates for incidents with incident type code "NOISE"?
+What is the email of the student with first name "Emma" and last name "Rohan"?
+What is the gender of the teacher with last name "Medhurst"?
+What is the incident type description for the incident type with code "VIOLENCE"?
+What is the zip code of the address where the teacher with first name "Lyla" lives?
+What are the email addresses of teachers whose address has zip code "918"?
+How many different locations does the school with code BUS has?
+Find the description and credit for the course QM-261?
+Find the first name of student who is taking classes from accounting and Computer Info. Systems departments
+What is the name of the department that offers a course that has a description including the word "Statistics"?
+What are the distinct years in which the competitions type is not "Tournament"?
+What are the names of the clubs that have players in the position of "Right Wing"?
+What is the average points of players from club with name "AIB".
+What is the name of the artist who produced the shortest song?
+What are the name, height and prominence of mountains which do not belong to the range 'Aberdare Range'?
+What are the names of photos taken with the lens brand 'Sigma' or 'Olympus'?
+What are the descriptions of the courses with name "database"?
+What are the addresses of the course authors or tutors with personal name "Cathrine"
+What are the login names of the students with family name "Ward"?
+How many students have personal names that contain the word "son"?
+What are the names of the courses taught by the tutor whose personal name is "Julio"?
+What is the date of enrollment of the course named "Spanish"?
+What are the enrollment dates of all the tests that have result "Pass"?
+What are the completion dates of all the tests that have result "Fail"?
+On what dates did the student with family name "Zieme" and personal name "Bernie" enroll in and complete the courses?
+Find the id of the appointment with the most recent start date?
+Find the name of medication used on the patient who stays in room 111?
+Find the number of rooms for different block code?
+Find the name and position of physicians who prescribe some medication whose brand is X?
+Find the patient who has the most recent undergoing treatment?
+Find the physician who prescribed the highest dose. What is his or her name?
+Find the names of all procedures which cost more than 1000 but which physician John Wen was not trained in?
+Show the names of companies in the banking or retailing industry?
+Return the title of the film with the highest high estimate?
+What is the document type code for document type "Paper"?
+What is the date when the document "Marry CV" was stored?
+What is the document type name for the document with name "How to read a book"?
+What is the location code for the country "Canada"?
+What are the name and description for role code "MG"?
+What is the description of the role named "Proof Reader"?
+What are the name, role code, and date of birth of the employee named 'Armani'?
+What is the id for the employee called Ebba?
+What are the employee ids of the employees whose role name is "Human Resource" or "Manager"?
+What is the location name of the document "Robin CV"?
+What is "the date in location from" and "the date in location to" for the document with name "Robin CV"?
+How many people have membership in the club "Pen and Paper Gaming"?
+What are the first name and last name of each male member in club "Hopkins Student Enterprises"?
+Which club has the most members majoring in "600"?
+What is the description of the club named "Tennis Club"?
+What is the description of the club "Pen and Paper Gaming"?
+What is the location of the club named "Tennis Club"?
+Where us the club named "Tennis Club" located?
+Where is the club "Pen and Paper Gaming" located?
+Where is the club "Hopkins Student Enterprises" located?
+What are the first and last name of the president of the club "Bootup Baltimore"?
+How many different roles are there in the club "Bootup Baltimore"?
+How many clubs does the student named "Eric Tai" belong to?
+What are the names of the clubs that have "Davis Steven" as a member?
+Which clubs have one or more members whose advisor is "1121"?
+What is the average age of the members of the club "Bootup Baltimore"?
+What are the distinct grant amount for the grants where the documents were sent before '1986-08-26 20:49:27' and grant were ended after '1989-03-16 18:27:16'?
+What are the different grant amounts for documents sent before '1986-08-26 20:49:27' and after the grant ended on '1989-03-16 18:27:16'?
+When did the first staff member start working?
+Which document type is described with the prefix 'Initial'?
+What is the type of the document whose description starts with the word 'Initial'?
+What is the type description of the organization whose detail is listed as 'quo'?
+What are the result description of the project whose detail is 'sint'?
+What is the description for the results whose project detail is 'sint'?
+What is the age of the doctor named Zach?
+Find the names of females who are friends with Zach
+What are the names of all females who are friends with Zach?
+Find the male friend of Alice whose job is a doctor?
+Who is the friend of Zach with longest year relationship?
+Who is the person that has no friend?
+What is the type of the document named "David CV"?
+What are all the section titles of the document named "David CV"?
+What are the average access counts of documents that have the functional area description "Acknowledgement"?
+What are the names of documents that contain the substring "CV"?
+What are the names of companies whose headquarters are not "USA"?
+Which industries have both companies with headquarter in "USA" and companies with headquarter in "China"?
+In which year are there festivals both inside the 'United States' and outside the 'United States'?
+List all names of courses with 1 credit?
+Find the name of the department that has no students minored in?
+What is the name of the department htat has no students minoring in it?
+What are the total number of Domestic Passengers of airports that contain the word "London".
+What is the distinct service types that are provided by the organization which has detail 'Denesik and Sons Party'?
+What are the distinct id and type of the thing that has the status 'Close' or has a status record before the date '2017-06-19 02:59:21'
+How many distinct locations have the things with service detail 'Unsatisfied' been located in?
+What are the resident details containing the substring 'Miss'?
+Which city is the headquarter of the store named "Blackville" in?
+What city is the headquarter of the store Blackville?
+What products are available at store named "Miramichi"?
+What products are sold at the store named Miramichi?
+What are all of the products whose name includes the substring "Scanner"?
+Find the marketing region description of China?
+What is the phone number of the performer Ashley?
+Which city is the address of the store named "FJA Filming" located in?
+What is the name of the marketing region that the store Rob Dinning belongs to?
+What are the names of the workshop groups that have bookings with status code "stop"?
+What are the different stage positions for all musicians whose first name is "Solveig"?
+What are the names of the songs by the artist whose last name is "Heilo"?
+Hom many musicians performed in the song "Flash"?
+How many musicians play in the song "Flash"?
+What are the names of all songs produced by the artist with the first name "Marianne"?
+What are the first and last names of the artist who perfomed the song "Badlands"?
+What are the names of the songs whose title has the word "the"?
+What instrument did the musician with last name "Heilo" use in the song "Le Pop"?
+What instruments did the musician with the last name "Heilo" play in the song "Le Pop"?
+How many songs have used the instrument "drums"?
+What instruments does the the song "Le Pop" use?
+What are the instruments are used in the song "Le Pop"?
+How many instruments does the song "Le Pop" use?
+How many different instruments are used in the song "Le Pop"?
+How many instrument does the musician with last name "Heilo" use?
+How many different instruments does the musician with the last name "Heilo" use?
+Find all the instruments ever used by the musician with last name "Heilo"?
+What are all the instruments used by the musician with the last name "Heilo"?
+Which vocal type is the most frequently appearring type?
+Which vocal type has the band mate with last name "Heilo" played the most?
+What are the vocal types used in song "Le Pop"?
+What are the types of vocals used in the song "Le Pop"?
+Find the number of vocal types used in song "Demon Kitty Rag"?
+What are the types of vocals used in the song "Demon Kitty Rag"?
+Which vocal type did the musician with first name "Solveig" played in the song with title "A Bar in Amsterdam"?
+What are the types of vocals that the musician with the first name "Solveig" played in the song "A Bar in Amsterdam"?
+Who performed the song named "Le Pop"?
+What is the first and last name of artist who performed "Le Pop"?
+What instrument did the musician with last name "Heilo" use in the song "Badlands"?
+What instruments did the musician with the last name "Heilo" play in "Badlands"?
+How many different instruments are used in the song "Badlands"?
+What are the vocal types used in song "Badlands"?
+What types of vocals are used in the song "Badlands"?
+How many vocal types are used in the song "Le Pop"?
+Which vocal type has the band mate with first name "Solveig" played the most?
+Which vocal type did the musician with last name "Heilo" played in the song with title "Der Kapitan"?
+What are the types of vocals that the musician with the last name "Heilo" played in "Der Kapitan"?
+Which vocal type has the band mate with first name "Marianne" played the most?
+What is the first and last name of the artist who performed back stage for the song "Der Kapitan"?
+What are the songs in album "A Kiss Before You Go: Live in Hamburg"?
+What are the song titles on the album "A Kiss Before You Go: Live in Hamburg"?
+What are the names of all the songs whose album is under the label of "Universal Music Group"?
+Which problem id and log id are assigned to the staff named Rylan Homenick?
+How many problems did the product called "voluptatem" have in record?
+For each product that has problems, find the number of problems reported after 1986-11-13 and the product id?
+List the names of all the distinct product names in alphabetical order?
+List all the distinct product names ordered by product id?
+List the ids of the problems from the product "voluptatem" that are reported after 1995?
+Find the first and last name of the staff members who reported problems from the product "rem" but not "aut"?
+Find the products which have problems reported by both Lacey Bosco and Kenton Champlin?
+Who are the advisors for students that live in a city with city code "BAL"?
+What are the names of products with category "Spices"?
+How many products are there under the category "Seeds"?
+Which category does the product named "flax" belong to?
+What is the code of the category that the product with the name 'flax' belongs to?
+What is the name of the product with the color description 'yellow'?
+What is the color description of the product with name "catnip"?
+What is the color code and description of the product named "chervil"?
+How many characteristics does the product named "sesame" have?
+How many distinct characteristic names does the product "cumin" have?
+What are all the characteristic names of product "sesame"?
+What are the names of the characteristics of the product 'sesame' that have the characteristic type code 'Grade'?
+How many characteristics does the product named "laurel" have?
+How many products have the characteristic named "hot"?
+What are the different product names for products that have the 'warm' characteristic:?
+How many products have the color description 'red' and the characteristic name 'slow'?
+How many products have their color described as 'white' or have a characteristic with the name 'hot'?
+What is the unit of measuerment of the product category code "Herbs"?
+What is the description of the product category with the code 'Spices'?
+What is the product category description and unit of measurement of category "Herbs"?
+What is the unit of measurement of product named "cumin"?
+What are the names of products that are not 'white' in color and are not measured by the unit 'Handful'?
+How many stadiums are not in country "Russia"?
+Show the builder of railways associated with the trains named "Andaman Exp".
+Which city has the least number of customers whose type code is "Good Credit Rating"?
+What is the description of the product named "Chocolate"?
+What are the last names of staff with email addressed containing the substring "wrau"?
+What are lines 1 and 2 of the addressed of the customer with the email "vbogisich@example.org"?
+Of complaints with the type code "Product Failure", how many had each different status code?
+Which authors with submissions are from college "Florida" or "Temple"?
+Return the lot details of lots that belong to investors with details "l"?
+What are the lot details of lots associated with transactions whose share count is bigger than 100 and whose type code is "PUR"?
+What is the address of the location "UK Gallery"?
+What is the detail of the location UK Gallery?
+Which location names contain the word "film"?
+What is the name of the tourist attraction that is associated with the photo "game1"?
+What is the name of the staff that is in charge of the attraction named "US museum"?
+What are the visit date and details of the visitor whose detail is 'Vincent'?
+Which tourist attractions does the visitor with detail 'Vincent' visit?
+Show all game names played by Linda Smith
+What are the names of customers who use payment method "Cash"?
+What is the address content of the customer named "Maudie Kertzmann"?
+How many customers are living in city "Lake Geovannyton"?
+Find the name of customers who are living in Colorado?
+Which contact channel has been used by the customer with name "Tillman Ernser"?
+What is the "active to date" of the latest contact channel used by "Tillman Ernser"?
+What is the total quantity of products purchased by "Rodrick Heaney"?
+How many customers have at least one order with status "Cancelled"?
+How many orders have detail "Second time"?
+What is the total number of products that are in orders with status "Cancelled"?
+What are the famous titles of the artist "Triumfall"?
+Return the famous titles of the artist called "Triumfall".
+What are the category of music festivals with result "Awarded"?
+What are the issue dates of volumes associated with the artist "Gorgoroth"?
+What are the date of ceremony of music festivals with category "Best Song" and result "Awarded"?
+Return the names and classes of ships that do not have a captain?
+Find the match ids of the cities that hosted competition "1994 FIFA World Cup qualification"?
+What is the match id of the competition called "1994 FIFA World Cup qualification"?
+What is the venue of the competition "1994 FIFA World Cup qualification" hosted by "Nanjing ( Jiangsu )"?
+What is the host year of city "Taizhou ( Zhejiang )"?
+IN which year did city "Taizhou ( Zhejiang )" serve as a host city?
+What is the payment method code and party phone of the party with the email 'enrico09@example.com'?
+What are the names of organizations that contain the word "Party"?
+Which state can address "6862 Kaitlyn Knolls" possibly be in?
+What is the velocity of the pilot named 'Thompson'?
+What are the names of the airports which are not in the country 'Iceland'?
+Which of the airport names contains the word 'international'?
+What are the type come, name, and description of the document that has either the name 'Noel CV' or 'King Book'?
+What are the names and dates for documents corresponding to project that has the details 'Graph Database project'?
+How many documents correspond with each project id?
+What is the document type description for document type named Film?
+What is the project detail for the project with document "King Book"?
+What are the document ids for the budget type code 'SF'?
+What is the name of the project that has a scientist assigned to it whose name contains 'Smith'?
+Find the name of the scientist who worked on both a project named 'Matter of Time' and a project named 'A Puzzling Parallax'.
+What are the names of any scientists who worked on projects named 'Matter of Time' and 'A Puzzling Pattern'?
+What is the name of the highest rated wine?
+Give the color of the grape whose wine products have the highest average price?
+When did the staff member with first name as Janessa and last name as Sawayn join the company?
+When did the staff member named Janessa Sawayn join the company?
+When did the staff member with first name as Janessa and last name as Sawayn leave the company?
+When did the staff member Janessa Sawayn leave the company?
+What is the nickname of the employee named Janessa Sawayn?
+Which city does staff with first name as Janessa and last name as Sawayn live?
+Which country and state does staff with first name as Janessa and last name as Sawayn lived?
+What is the zip code of staff with first name as Janessa and last name as Sawayn lived?
+What is the zip code of the hosue of the employee named Janessa Sawayn?
+What is the date of birth of every customer whose status code is 'Good Customer'?
+When did customer with first name as Carole and last name as Bernhard became a customer?
+When did Carole Bernhard first become a customer?
+How many lessons taken by customer with first name as Rylan and last name as Goodwin were completed?
+Which country does customer with first name as Carole and last name as Bernhard lived in?
+What is the country in which the customer Carole Bernhard lived?
+What is the zip code of the customer Carole Bernhard?
+How many lesson does customer with first name Ray took?
+How many lessons did the customer with the first name Ray take?
+What are the phone, room, and building of the faculty member called Jerry Prince?
+What are the first name and last name of Linda Smith's advisor?
+What are the names of the activities Mark Giuliano is involved in
+What are the distinct customers who have orders with status "On Road"? Give me the customer details?
+What are the dates of the orders made by the customer named "Jeramie"?
+Give me a list of distinct product ids from orders placed between 1975-01-01 and 1976-01-01?
+On which day was the order placed whose shipment tracking number is 3452?
+On what day was the order with invoice number 10 placed?
+Which customers have ever canceled the purchase of the product "food" (the item status is "Cancel")?
+What are the names of the mills which are not located in 'Donceel'?
+What is the location of the bridge named 'Kolob Arch' or 'Rainbow Bridge'?
+Which of the mill names contains the french word 'Moulin'?

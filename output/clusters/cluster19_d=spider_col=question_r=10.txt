@@ -1,0 +1,250 @@
+Which department has more than 1 head at a time? List the id, name and the number of heads.
+Which head's name has the substring 'Ha'? List the id and name.
+Show the title and publication dates of books.
+Please show the most common publication date.
+List the titles of books that are not published.
+List the name of actors whose age is not 20.
+Find the id of users who are followed by Mary and Susan.
+Find the id of users who are followed by Mary or Susan.
+List the text of all tweets in the order of date.
+Find the names and publication dates of all catalogs that have catalog level number greater than 5.
+Which catalog contents have length below 3 or above 5? Find the catalog entry names.
+What are the aircrafts with top 3 shortest lengthes? List their names.
+Show the id and salary of Mark Young.
+Show ids for all employees who don't have a certificate.
+Show all allergy types.
+Show all allergies and their types.
+Show all allergy types and the number of allergies in each type.
+Show all allergies with number of students affected.
+Show all allergy type with number of students affected.
+List the name of all playlist.
+List the names of editors in ascending order of age.
+Please show the most common age of editors.
+Show the names of editors and the theme of journals for which they serve on committees.
+Show the id, name of each editor and the number of journal committees they are on.
+List the names of editors that are not on any journal committee.
+List the phone numbers of all employees.
+List the name of enzymes in descending lexicographical order.
+List the names and the locations that the enzymes can make an effect.
+What are the ids, names and FDA approval status of medicines in descending order of the number of enzymes that it can interact with.
+List the medicine name and trade name which can both interact as 'inhibitor' and 'activitor' with enzymes.
+List all information regarding the basketball match.
+Show all information about each body builder.
+List the names and origins of people who are not body builders.
+List the names of members who did not attend any performance.
+Find the names of all instructors in the Art department who have taught some course and the course_id.
+Find the names of all instructors whose name includes the substring “dar”.
+List the distinct names of the instructors, ordered by name.
+Show the names of people, and dates and venues of debates they are on the affirmative side.
+List the names of all the customers in alphabetical order.
+Sort the customer names in alphabetical order.
+Find the names of all the customers and staff members.
+List all customers’ names in the alphabetical order.
+List the names of the schools without any endowment.
+Show all donor names.
+Show all the distinct institution types.
+Show institution names along with the number of proteins for each institution.
+List member names and their party names.
+Show names of parties that does not have any members.
+Show all member names who are not in charge of any event.
+List all document ids and receipt dates of documents.
+List the names of technicians in ascending order of age.
+Show names of technicians and series of machines they are assigned to repair.
+Show names of technicians and the number of machines they are assigned to repair.
+List the names of technicians who have not been assigned to repair machines.
+List the companies and the investors of entrepreneurs.
+List the number of people injured by perpetrators in ascending order.
+What is the location of the perpetrator with the largest kills.
+What is the name of the perpetrator with the biggest weight.
+List the names of perpetrators in descending order of the year.
+List the names of people that are not perpetrators.
+Show the date of the tallest perpetrator.
+what are the names of people who did not participate in the candidate election.
+List all info about all people.
+What are the ids of the movies that are not reviewed by Brittany Harris.
+List the council tax ids and their related cmi cross references of all the parking fines.
+List the names of hosts who did not serve as a host of any party in our record.
+Show the names of journalists and the dates of the events they reported.
+Show the names of journalists and the number of events they reported.
+List the names of journalists who have not reported any event.
+Which institution is the author "Matthias Blume" belong to? Give me the name of the institution.
+Who belong to the institution "University of Oxford"? Show the first names and last names.
+Which authors belong to the institution "Google"? Show the first names and last names.
+Who is the author of the paper titled "Binders Unbound"? Give me the last name.
+Find the papers which have "Olin Shivers" as an author.
+Which papers did the author "Olin Shivers" write? Give me the paper titles.
+Find the titles of the papers the author "Stephanie Weirich" wrote.
+Which papers' first author is affiliated with an institution in the country "Japan" and has last name "Ohori"? Give me the titles of the papers.
+Which author has written the most papers? Find his or her last name.
+Which institution has the most papers? Find the name of the institution.
+Which papers have the substring "ML" in their titles? Return the titles of the papers.
+Which papers have the substring "Database" in their titles? Show the titles of the papers.
+Who has written a paper that has the word "Functional" in its title? Return the first names of the authors.
+Which authors have written a paper with title containing the word "Monadic"? Return their last names.
+Which authors have last name "Ueno"? List their first names.
+Which authors have first name "Amal"? List their last names.
+Find the first names of all the authors ordered in alphabetical order.
+Sort the first names of all the authors in alphabetical order.
+Retrieve all the last names of authors in alphabetical order.
+Retrieve all the first and last names of authors in the alphabetical order of last names.
+Return the name of the category to which the film 'HUNGER ROOF' belongs.
+Which language does the film AIRPORT POLLOCK use? List the language name.
+Give the address of the staff member who has the first name Elsa.
+Find the name of bank branches that provided some loans.
+Return all detention summaries.
+List all information about the assessment notes sorted by date in ascending order.
+Find the last names of teachers who are not involved in any detention.
+list names of all departments ordered by their names.
+List the codes of all courses that take place in room KLR209.
+Find the last name and hire date of the professor who is in office DRE 102.
+Display all the information about the department Marketing.
+display all the details from Employees table for those employees who was hired before 2002-06-21.
+Find the ids of the departments where any manager is managing 4 or more employees.
+display all the information about the department Marketing.
+What are the unique ids of those departments where any manager is managing 4 or more employees.
+display all the information of those employees who did not have any job in the past.
+Find all the players' first name and last name who have empty death record.
+find the name of the program that was launched most recently.
+Which program was launched most recently? Return the program name.
+Find the names of programs that are never broadcasted in the morning.
+Which programs are never broadcasted in the morning? Give me the names of the programs.
+find the names of programs whose origin is not in Beijing.
+Which programs' origins are not "Beijing"? Give me the program names.
+List the addresses of all the course authors or tutors.
+List all the login names and family names of course author and tutors.
+Which tests have "Pass" results? Return the dates when the tests were taken.
+List all the subject names.
+What are the names of all the subjects.
+Which course author teaches the "advanced database" course? Give me his or her login name.
+Find the common login name of course authors and students.
+List the names of patients who have made appointments.
+Which patients made more than one appointment? Tell me the name and phone number of these patients.
+List the name of physicians who took some appointment.
+What are the names of all the physicians who took appointments.
+List the name of physicians who never took any appointment.
+Which physicians have never taken any appointment? Find their names.
+Find the names of all physicians and their primary affiliated departments' names.
+Find the name of the patient who made the appointment with the most recent start date.
+How many patients do each physician take care of? List their names and number of patients they take care of.
+Which physicians are in charge of more than one patient? Give me their names.
+List the names of all the physicians who prescribe Thesisin as medication.
+Which physicians prescribe a medication of brand X? Tell me the name and position of those physicians.
+What are the names of the physicians who have 'senior' in their titles.
+Find the names of nurses who are nursing an undergoing treatment.
+List the names of all distinct medications, ordered in an alphabetical order.
+List the physicians' employee ids together with their primary affiliation departments' ids.
+What are each physician's employee id and department id primarily affiliated.
+Which physicians are affiliated with both Surgery and Psychiatry departments? Tell me their names.
+Which physicians are affiliated with either Surgery or Psychiatry department? Give me their names.
+Find the names of patients who are not using the medication of Procrastin-X.
+What are the names of patients who are not taking the medication of Procrastin-X.
+Find the number of patients who are not using the medication of Procrastin-X.
+Find the names of nurses who are on call.
+Report the first name and last name of all the teachers.
+Find the last names of all the teachers that teach GELL TAMI.
+Find all first-grade students who are NOT taught by OTHA MOYER. Report their first and last names.
+Show the names of companies and of employees.
+When was the document named "Marry CV" stored? Give me the date.
+Which employees have the role with code "HR"? Find their names.
+Show all role codes with at least 3 employees.
+Show the name and description of the role played by the employee named Ebba.
+Show the names of employees with role name Editor.
+Give me all the distinct location codes for documents.
+List the names of the employees who authorized the destruction of documents and the employees who destroyed the corresponding documents.
+Show the ids of the employees who don't authorize destruction for any document.
+Which employees do not authorize destruction for any document? Give me their employee ids.
+Show the ids of all employees who have authorized destruction.
+Show the ids of all employees who have destroyed a document.
+Show the ids of all employees who don't destroy any document.
+Which employees do not destroy any document? Find their employee ids.
+Show the ids of all employees who have either destroyed a document or made an authorization to do this.
+Give me the name of each club.
+Who are the members of the club named "Bootup Baltimore"? Give me their last names.
+Who are the members of the club named "Hopkins Student Enterprises"? Show the last name.
+Find the number of clubs where "Tracy Kim" is a member.
+Which members of "Bootup Baltimore" major in "600"? Give me their first names and last names.
+Who is the "CTO" of club "Hopkins Student Enterprises"? Show the first name and last name.
+List the clubs having "Davis Steven" as a member.
+What are all the details of the organisations described as 'Sponsor'? Sort the result in an ascending order.
+List the research staff details, and order in ascending order.
+What details are there on the research staff? List the result in ascending alphabetical order.
+list the name, job title of all people ordered by their names.
+Find the name and age of the person who is a friend of Dan or Alice.
+Find the name of persons who are friends with Bob.
+Find the name, age, and job title of persons who are friends with Alice for the longest years.
+List the names of members in ascending alphabetical order.
+Show the names of members and names of colleges they go to.
+List the name of staff who has been assigned multiple jobs.
+What are the phone numbers of all customers and suppliers.
+List the names and phone numbers of all the distinct suppliers who supply red jeans.
+List all pilot names in ascending alphabetical order.
+Which organizations are not a parent organization of others? List the organization id.
+Find the name and hours of the students whose tryout decision is yes.
+List the order dates of all the bookings.
+Show all the Store_Name of drama workshop groups.
+Return the name of the marketing region the store Rob Dinning is located in.
+Give me all the phone numbers and email addresses of the workshop groups where services are performed.
+List the email addresses of the drama workshop groups located in Alaska state.
+Which workshop groups have bookings with status code "stop"? Give me the names.
+Which staff members are assigned to the problem with id 1? Give me their first and last names.
+Give me a list of descriptions of the problems that are reported by the staff whose first name is Christop.
+Which problems are reported by the staff with first name "Christop"? Show the descriptions of the problems.
+Find the ids of the problems that are reported by the staff whose last name is Bosco.
+Which problems are reported by the staff with last name "Bosco"? Show the ids of the problems.
+Find the ids of the problems reported after 1978-06-26.
+Which problems are reported before 1978-06-26? Give me the ids of the problems.
+Which problems were reported by the staff named Dameon Frami or Jolie Weber? Give me the ids of the problems.
+Which problems were reported before the date of any problem reported by the staff Lysanne Turcotte? Give me the ids of the problems.
+Find the ids of the problems reported after the date of any problems reported by the staff Rylan Homenick.
+Show member names without any registered branch.
+Find the names of the swimmers who have no record.
+Find the capacity and gender type of the dorm whose name has substring ‘Donor’.
+List in alphabetic order all different amenities.
+List name of all amenities which Anonymous Donor Hall has, and sort the results in alphabetic order.
+Return the first names of the 5 staff members who have handled the most complaints.
+List the authors of submissions in ascending order of scores.
+Show the most common college of authors of submissions.
+Show the authors of submissions and the acceptance results of their submissions.
+For each submission, find its author and acceptance result.
+Show each author and the number of workshops they submitted to.
+Show all investor details.
+Show the names and details of all the staff members.
+Show details of all visitors.
+Find all the distinct visit dates.
+Which tourist attraction is associated with the photo "game1"? Return its name.
+Show ids for all students who live in CHI.
+Show ids for all students who have advisor 1121.
+Show student ids who don't have any sports.
+Show ids of students who don't play video game.
+Show ids of students who play video game and play sports.
+Find the name of all customers.
+Which customer's name contains "Alex"? Find the full name.
+Find all the addresses in East Julianaside, Texas or in Gleasonmouth, Arizona.
+What are all the addresses in East Julianaside, Texas or in Gleasonmouth, Arizona.
+Find the names of customers who never ordered product Latte.
+What are names of customers who never ordered product Latte.
+Find the names of customers who never placed an order.
+What are the names of customers who never made an order.
+Find the last name of the individuals that have been contact individuals of an organization.
+Show the names of the drivers without a school bus.
+List all statement ids and statement details.
+What are the ids of documents with letter 's' in the name with any expense budgets.
+Give the ids of documents that have expenses and contain the letter s in their names.
+Find the name of the project for which a scientist whose name contains ‘Smith’ is assigned to.
+List the names of all scientists sorted in alphabetical order.
+Find the name of scientists who are not assigned to any project.
+List the first name middle name and last name of all staff.
+Show ids for all the male faculty.
+Show the phone, room, and building for the faculty named Jerry Prince.
+Show the first name and last name for all the instructors.
+Who is the advisor of Linda Smith? Give me the first name and last name.
+Show ids for the faculty members who don't advise any student.
+What are the ids of the faculty members who do not advise any student.
+List all the activities we have.
+Show the ids of the faculty who don't participate in any activity.
+Which faculty do not participate in any activity? Find their faculty ids.
+Show the names of all the activities Mark Giuliano participates in.
+Show the ids of the students who don't participate in any activity.
+Which customers made orders between 2009-01-01 and 2010-01-01? Find their names.
+List the name, nationality and id of all male architects ordered by their names lexicographically.
+List all company names with a book published by Alyson.

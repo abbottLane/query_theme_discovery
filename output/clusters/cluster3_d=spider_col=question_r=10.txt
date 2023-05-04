@@ -1,0 +1,235 @@
+Return the themes of farm competitions, sorted by year ascending.
+Return the unique name for stations that have ever had 7 bikes available.
+List the writers of the books in ascending alphabetical order.
+List the titles of the books in ascending order of issues.
+Show writers who have published a book with price more than 4000000.
+Show the titles of books in descending order of publication price.
+Show different publishers together with the number of publications they have.
+List the writers who have written more than one book.
+List the name of actors in ascending alphabetical order.
+Return the characters and durations for each actor.
+Return the characters for actors, ordered by age descending.
+Return the names of musicals who have the nominee Bob Fosse.
+Return the different nominees of musicals that have an award that is not the Tony Award.
+Show names of actors and names of musicals they are in.
+Show names of actors in descending order of the year their musical is awarded.
+Show names of musicals and the number of actors who have appeared in the musicals.
+Show names of musicals which have at least three actors.
+Show different nominees and the number of musicals they have been nominated.
+List the most common result of the musicals.
+List the nominees that have been nominated more than two musicals.
+List the name of musicals that do not have actors.
+List the top 5 genres by number of tracks. List genres name and total tracks.
+List every album's title.
+List every album ordered by album title in ascending order.
+List every album whose title starts with A in alphabetical order.
+List Aerosmith's albums.
+List all different genre types.
+List name of all tracks in Balls to the Wall.
+List title of albums have the number of tracks greater than 10.
+List the name of tracks belongs to genre Rock and whose media type is MPEG audio file.
+List the name of tracks belongs to genre Rock or media type is MPEG audio file.
+List the name of tracks belongs to genre Rock or genre Jazz.
+List the name of all tracks in the playlists of Movies.
+List the name of playlist which has number of tracks greater than 100.
+List all tracks bought by customer Daan Peeters.
+Find the name of tracks which are in Movies playlist but not in music playlist.
+Find the name of tracks which are in both Movies and music playlists.
+Show the names of editors that are on the committee of journals with sales bigger than 3000.
+List the date, theme and sales of the journal which did not have any of the listed editors serving on committee.
+Show names and seatings, ordered by seating for all tracks opened after 2000.
+Show the name, location, open year for all tracks with a seating higher than the average.
+Return the names of tracks that have no had any races.
+List the names of all music genres.
+Find the names of all artists that have "a" in their names.
+Show the album names, ids and the number of tracks for each album.
+Find the name of the genre that is most frequent across all tracks.
+Show the album names and ids for albums that contain tracks with unit price bigger than 1.
+Count the number of tracks that are part of the rock genre.
+Find the average unit price of jazz tracks.
+Find the average millisecond length of Latin and Pop tracks.
+Please list all album titles in alphabetical order.
+Please list the name and id of all artists that have at least 3 albums in alphabetical order.
+Find the names of artists that do not have any albums.
+Find the average unit price of tracks from the Rock genre.
+Find the maximum and minimum millisecond lengths of pop tracks.
+Cound the number of artists who have not released an album.
+Find the titles of albums that contain tracks of both the Reggae and Rock genres.
+the names of models that launched between 2002 and 2004.
+List the names of mountains that do not have any climber.
+Show all artist names and the year joined who are not from United States.
+Count the number of artists who are older than 46 and joined after 1990.
+Return the name of the artist who has the latest join year.
+Show all artist names and the number of exhibitions for each artist.
+Return the name and country corresponding to the artist who has had the most exhibitions.
+Show names for artists without any exhibition.
+Return the names of artists and the themes of their exhibitions that had a ticket price higher than average.
+Show the average, minimum, and maximum ticket prices for exhibitions for all years before 2009.
+Return the themes, dates, and attendance for exhibitions that happened in 2004.
+Show all artist names who didn't have an exhibition in 2004.
+Show the theme for exhibitions with both records of an attendance below 100 and above 500.
+Show all artist names with an average exhibition attendance over 200.
+Find the average and maximum rating of all reviews.
+Find the highest rank of all reviews.
+Find the titles of items whose rating is higher than the average review rating of all items.
+Show the title and director for all films.
+List all directors along with the number of films directed by each director.
+Give me the title and highest price for each film.
+Show cinema name, film title, date, and price for each record in schedule.
+Return the names of entrepreneurs do no not have the investor Rachel Elnaugh.
+Find the titles of all movies directed by steven spielberg.
+Find all years that have a movie that received a rating of 4 or 5, and sort them in increasing order of year.
+What are the names of directors who directed movies with 5 star rating? Also return the title of these movies.
+Find the titles of all movies that have no ratings.
+Return reviewer name, movie title, stars, and ratingDate. And sort the data first by reviewer name, then by movie title, and lastly by number of stars.
+Find the names of all reviewers who have contributed three or more ratings.
+Find the names of all reviewers who rated Gone with the Wind.
+Find the names of all directors whose movies are rated by Sarah Martinez.
+For any rating where the name of reviewer is the same as the director of the movie, return the reviewer name, movie title, and number of stars.
+Return all reviewer names and movie names together in a single list.
+Find the titles of all movies not reviewed by Chris Jackson.
+For all directors who directed more than one movie, return the titles of all movies directed by them, along with the director name. Sort by director name, then movie title.
+For directors who had more than one movie, return the titles and produced years of all movies directed by them.
+Find the movies with the highest average rating. Return the movie titles and average rating.
+For each director, return the director's name together with the title of the movie they directed that received the highest rating among all of their movies, and the value of that rating. Ignore movies whose director is NULL.
+Find the title and star rating of the movie that got the least rating star for each reviewer.
+Find the title and score of the movie with the lowest rating among all movies directed by each director.
+Find the names of reviewers who had given higher than 3 star ratings.
+Find the average rating star for each movie that are not reviewed by Brittany Harris.
+Find the average rating star for each movie that received at least 2 ratings.
+find the ids of reviewers who did not give 4 star.
+Find the ids of reviewers who didn't only give 4 star.
+List the themes of parties in ascending order of number of hosts.
+Sort the list of all the first and last names of authors in alphabetical order of the last names.
+Which film is rented at a fee of 0.99 and has less than 3 in the inventory? List the film title and id.
+Which film has the most number of actors or actresses? List the film name, film id and description.
+Which film actor (actress) starred the most films? List his or her first name, last name and actor id.
+Return the full name and id of the actor or actress who starred in the greatest number of films.
+Which film actors (actresses) played a role in more than 30 films? List his or her first name and last name.
+How many films are there in each category? List the genre name, genre id and the count.
+Which film has the most copies in the inventory? List both title and id.
+Return the title and inventory id of the film that is rented most often.
+What are all the movies rated as R? List the titles.
+Return the titles of any movies with an R rating.
+Return the titles of films that include 'Deleted Scenes' in their special feature section.
+Find all the films longer than 100 minutes, or rated PG, except those who cost more than 200 for replacement. List the titles.
+Find the id of the song that lasts the longest.
+Find the names of all English songs.
+What are the id of songs whose format is mp3.
+List the name and country of origin for all singers who have produced songs with rating above 9.
+What are the names and countries of origin for the artists who produced the top three highly rated songs.
+Find the names of the artists who are from UK and have produced English songs.
+Find the id of songs that are available in mp4 format and have resolution lower than 1000.
+Return the gender and name of artist who produced the song with the lowest resolution.
+For each file format, return the number of artists who released songs in that format.
+Find the distinct names of all songs that have a higher resolution than some songs in English.
+List the name and gender for all artists who released songs in March.
+List the names of all genres in alphabetical oder, together with its ratings.
+Give me a list of the names of all songs ordered by their resolution.
+List the names of all songs that have 4 minute duration or are in English.
+Find the names of songs whose genre is modern or language is English.
+Return the names of songs for which format is mp3 and resolution is below 1000.
+Return the names of singers who are from UK and released an English song.
+Find the names and number of works of all artists who have at least one English songs.
+Find the name and country of origin for all artists who have release at least one song of resolution above 900.
+Find the names and number of works of the three artists who have produced the most songs.
+Find the top 3 artists who have the largest number of songs works whose language is Bangla.
+List the id, genre and artist name of English songs ordered by rating.
+Find the names of the artists who have produced English songs but have never received rating higher than 8.
+Find the names of the artists who are from Bangladesh and have never received rating higher than 7.
+List the distinct director of all films.
+Show the distinct director of films with market estimation in the year of 1995.
+Please list the countries and years of film market estimations.
+Please list the years of film market estimations when the market is in country "Japan" in descending order.
+List the studios of each film and the number of films produced by that studio.
+List the name of film studio that have the most number of films.
+List the names of studios that have at least two films.
+List the title of films that do not have any market estimation.
+List the studios which average gross is above 4500000.
+What is the title of the film that has the highest high market estimation.
+Return the titles and directors of films that were never in the market of China.
+Find the name of persons who are friends with Alice for the shortest years.
+List the name of artworks in ascending alphabetical order.
+Show the names of the three most recent festivals.
+For each nomination, show the name of the artwork and name of the festival where it is nominated.
+Show distinct types of artworks that are nominated in festivals in 2007.
+Show the names of artworks in ascending order of the year they are nominated in.
+Show the ids and names of festivals that have at least two nominations for artworks.
+Show the id, name of each festival and the number of artworks it has nominated.
+Please show different types of artworks with the corresponding number of artworks of each type.
+List the most common type of artworks.
+List the year in which there are more than one festivals.
+List the name of artworks that are not nominated.
+Find all the albums in 2012.
+return all columns of the albums created in the year of 2012.
+Who performed the song named "Badlands"? Show the first name and the last name.
+Who is performing in the back stage position for the song "Badlands"? Show the first name and the last name.
+Find all the songs that do not have a lead vocal.
+Find all the songs that do not have a back vocal.
+Find the first name of the band mate that has performed in most songs.
+Who is performing in the back stage position for the song "Der Kapitan"? Show the first name and last name.
+Find the name of songs that does not have a back vocal.
+Find the number of songs in all the studio albums.
+Find the author for each submission and list them in ascending order of submission score.
+Find the author who achieved the highest score in a submission.
+Show the colleges that have both authors with submission score larger than 90 and authors with submission score smaller than 80.
+List the authors who do not have submission to any workshop.
+For each tourist attraction, return its name and the date when the tourists named Vincent or Vivian visited there.
+Find the the names of the tourist attractions that the tourist named Alison visited but Rosalind did not visit.
+List the age of all music artists.
+Give the distinct famous release dates for all artists.
+Give the songs included in volumes that have more than 1 week on top.
+Please list all songs in volumes in ascending alphabetical order.
+Please show the songs that have result "nominated" at music festivals.
+Return the issue dates of volumes that are by the artist named Gorgoroth.
+Return names of songs in volumes that are by artists that are at least 32 years old.
+Return the famous titles for artists that have volumes that lasted more than 2 weeks on top.
+Please list the age and famous title of artists in descending order of age.
+Return the famous release date for the oldest artist.
+Please show the categories of the music festivals and the count.
+Please show the categories of the music festivals with count more than 1.
+Find the famous titles of artists that do not have any volume.
+Show the famous titles of the artists with both volumes that lasted more than 2 weeks on top and volumes that lasted less than 2 weeks on top.
+Please show the results of music festivals and the number of music festivals that have had each, ordered by this count.
+Give the name of the wine with the highest score.
+Find the names of all wines produced in 2008.
+List the grapes and appelations of all wines.
+List the names and scores of all wines.
+List the names of all distinct wines that have scores higher than 90.
+List the names of all distinct wines that are made of red color grape.
+Find the names of all distinct wines that have appellations in North Coast area.
+Give me the average prices of wines that are produced by appelations in Sonoma County.
+Give the names and scores of wines made from white grapes.
+Find the the grape whose white color grapes are used to produce wines with scores higher than 90.
+Find the white grape used to produce wines with scores above 90.
+Give the neames of wines with prices below 50 and with appelations in Monterey county.
+Find the distinct names of all wines that have prices higher than some wines from John Anthony winery.
+What are the distinct names of wines with prices higher than any wine from John Anthony winery.
+List the names of all distinct wines in alphabetical order.
+List the names of all distinct wines ordered by price.
+Find the distinct names of wines produced before the year of 2000 or after the year of 2010.
+Give the distinct names of wines made before 2000 or after 2010.
+Find the distinct winery of wines having price between 50 and 100.
+Give the average price and case of wines made from Zinfandel grapes in the year 2009.
+Give the maximum price and score for wines produced in the appelation St. Helena.
+Find the country of all appelations who have at most three wines.
+Give the names of wines with prices above any wine produced in 2006.
+Find the top 3 wineries with the greatest number of wines made of white color grapes.
+List the grape, appelation and name of wines whose score is higher than 93 ordered by Name.
+Find the appelations that produce wines after the year of 2008 but not in Central Coast area.
+Find the average price of wines that are not produced from Sonoma county.
+Find the county where produces the most number of wines with score higher than 90.
+show the titles, and authors or editors for all books made after the year 1989.
+Show all distinct publishers for books.
+Show the years, book titles, and publishers for all books, in descending order by year.
+Show all publishers and the number of books for each publisher.
+Show all book categories and the number of books in each category.
+List categories that have at least two books after year 1989.
+Show publishers with a book published in 1989 and a book in 1990.
+Show all publishers which do not have a book in 1989.
+Show all movie titles, years, and directors, ordered by budget.
+Return the title and director of the movie released in the year 2000 or earlier that had the highest worldwide gross.
+Show all director names who have a movie in both year 1999 and 2000.
+Show all director names who have a movie in the year 1999 or 2000.
+Show the movie titles and book titles for all companies in China.
+Show all company names with a movie directed in year 1999.

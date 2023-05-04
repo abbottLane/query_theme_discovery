@@ -1,0 +1,1 @@
+Obtain information about students, faculty, courses, departments, University-related statistics, and other academic details.

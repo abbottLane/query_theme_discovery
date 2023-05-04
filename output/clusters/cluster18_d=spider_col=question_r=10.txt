@@ -1,0 +1,245 @@
+Give me the start station and end station for the trips with the three oldest id.
+List all the distinct stations from which a trip of duration below 100 started.
+Please show the nominee who has been nominated the greatest number of times.
+Show name and distance for all aircrafts.
+Show ids for all aircrafts with more than 1000 distance.
+Show the id and name of the aircraft with the maximum distance.
+Show the name of aircrafts with top three lowest distances.
+Show names for all aircrafts with distances more than the average.
+Show names for all aircraft with at least two flights.
+Show names for all aircrafts of which John Williams has certificates.
+Show the name of aircraft which fewest people have its certificate.
+Show the name and distance of the aircrafts with more than 5000 distance and which at least 5 people have its certificate.
+Show all majors.
+Show the names of editors of age either 24 or 25.
+Return the different classes of races.
+Show name, class, and date for all races.
+Show the race class and number of races in each class.
+List the race class with at least two races.
+Show all track names that have had no races.
+Count the number of schools that have had basketball matches.
+Return the highest acc percent across all basketball matches.
+Return the name of the team and the acc during the regular season for the school that was founded the earliest.
+Find the location and all games score of the school that has Clemson as its team name.
+Count the number of universities that do not participate in the baketball match.
+List names of all teams in the basketball competition, ordered by all home scores in descending order.
+Show all distinct positions of matches.
+Show the draft pick numbers and draft classes of players whose positions are defenders.
+Count the number of different teams involved in match season.
+Show the players and the years played.
+Show all team names.
+Show the season, the player, and the name of the country that player belongs to.
+Return the official native languages of countries who have players from Maryland or Duke colleges.
+Count the number of different official languages corresponding to countries that players who play Defender are from.
+Show the season, the player, and the name of the team that players belong to.
+Return the positions of players on the team Ryley Goldner.
+Count the number of different colleges that players who play for Columbus Crew are from.
+Show the position of players and the corresponding number of players.
+Show the country names and the corresponding number of players.
+Return all players sorted by college in ascending alphabetical order.
+Show the most common position of players in match seasons.
+Show the top 3 most common colleges of players in match seasons.
+Show the name of colleges that have at least two players.
+Show the name of colleges that have at least two players in descending alphabetical order.
+Return the names of teams that have no match season record.
+Return the names of countries that have players that play the Forward position, as well as players who play the Defender position.
+Return the colleges that have players who play the Midfielder position, as well as players who play the Defender position.
+List the names of climbers in descending order of points.
+List the names of climbers whose country is not Switzerland.
+Show names of climbers and the names of mountains they climb.
+Show the names of climbers and the heights of mountains they climb.
+Please show the countries and the number of climbers from each country.
+List the total scores of body builders in ascending order.
+List the snatch score and clean jerk score of body builders in ascending order of snatch score.
+List the dates of games by the home team name in descending order.
+List the season, home team, away team of all the games.
+List the name of the stadium where both the player 'Walter Samuel' and the player 'Thiago Motta' got injured.
+Show the name, average attendance, total attendance for stadiums where no accidents happened.
+For each injury accident, find the date of the game and the name of the injured player in the game, and sort the results in descending order of game season.
+List all country and league names.
+List all player names who have an overall rating higher than the average.
+List the names of all players who have a crossing score higher than 90 and prefer their right foot.
+List the names of all left-footed players who have overall rating between 85 and 90.
+List all of the player ids with a height of at least 180cm and an overall rating higher than 85.
+List all of the ids for left-footed players with a height between 180cm and 190cm.
+List the names and birthdays of the top five players in terms of potential.
+Find the name and id of the good with the highest average rank.
+List the names of players in ascending order of votes.
+Show different occupations along with the number of players in each occupation.
+Please show the most common occupation of players.
+Show the residences that have at least two players.
+Show the names of players and names of their coaches.
+Show the names of players coached by the rank 1 coach.
+Show the names and genders of players with a coach starting after 2011.
+Show the names of players and names of their coaches in descending order of the votes of players.
+List the names of players that do not have coaches.
+How many coaches does each club has? List the club id, name and the number of coaches.
+List the total points of gymnasts in descending order.
+List the total points of gymnasts in descending order of floor exercise points.
+Return the names of gymnasts who did not grow up in Santo Domingo.
+Give the different hometowns of gymnasts that have a total point score of above 57.5.
+List the names of gymnasts in ascending order by their heights.
+Show the ages of gymnasts in descending order of total points.
+List the names of wrestlers in descending order of days held.
+Return the name of the wrestler who had the lowest number of days held.
+Give the names and locations of all wrestlers.
+Return the elimination movies of wrestlers on Team Orton.
+Give the names of wrestlers and their elimination moves.
+List the names of wrestlers and the teams in elimination in descending order of days held.
+List the time of elimination of the wrestlers with largest days held.
+Show times of elimination of wrestlers with days held more than 50.
+Show different teams in eliminations and the number of eliminations from each team.
+Show teams that have suffered more than three eliminations.
+Return the names of wrestlers with fewer than 100 days held.
+Please show the most common reigns of wrestlers.
+List the locations that are shared by more than two wrestlers.
+List the names of wrestlers that have not been eliminated.
+Show director with the largest number of show times in total.
+Show the member names which are in both the party with id 3 and the party with id 1.
+Return the name of the member who is in charge of the most events.
+List the names of pilots in ascending order of rank.
+List the distinct positions of pilots older than 30.
+What are the different nationalities of pilots? Show each nationality and the number of pilots of each nationality.
+Show the most common nationality of pilots.
+Show the names of pilots and models of aircrafts they have flied with.
+Show the names of pilots and fleet series of the aircrafts they have flied with in ascending order of the rank of the pilot.
+Show the names of pilots and the number of records they have.
+Show names of pilots that have more than one record.
+List the names of pilots that do not have any record.
+Find the names of all races held in 2017.
+Find the distinct driver id and the stop number of all drivers that have a shorter pit stop duration than some drivers in the race with id 841.
+Show different teams of technicians and the number of technicians in each team.
+Please show the team that has the most number of technicians.
+List name and damage for all storms in a descending order of max speed.
+List the position of players and the average number of points of players of each position.
+List the position of players with average number of points scored by players of that position bigger than 20.
+List the types of competition and the number of competitions of each type.
+List the names of clubs that do not have any players.
+Show total points of all players.
+what are the name of players who get more than the average points.
+which countries did participated in both Friendly and Tournament type competitions.
+display those employees who joined after 7th September, 1987.
+List the first and last name for players who participated in all star game in 1998.
+What are the first name, last name and id of the player with the most all star game experiences? Also list the count.
+Which player has the most all star game experiences? Give me the first name, last name and id of the player, as well as the number of times the player participated in all star game.
+Count the number of players who enter hall of fame for each year.
+For each year, return the year and the average number of attendance at home games.
+Find the id and rank of the team that has the highest average attendance rate in 2014.
+Which manager won the most manager award? Give me the manager's first name, last name and id.
+Which 3 players won the most player awards? List their full name and id.
+Find the first name, last name and id for the top three players won the most player awards.
+List three countries which are the origins of the least players.
+What is the highest salary among each team? List the team name, id and maximum salary.
+For each team, return the team name, id and the maximum salary among the team.
+Find the players' first name and last name who won award both in 1960 and in 1961.
+Which players won awards in both 1960 and 1961? Return their first names and last names.
+List players' first name and last name who have weight greater than 220 or height shorter than 75.
+Count the number of times the team "Boston Red Stockings" lost in 2009 postseason.
+Find the name and id of the team that won the most times in 2008 postseason.
+For each year, return the year and the number of times the team Boston Red Stockings won in the postseasons.
+Find the number of tied games (the value of "ties" is '1') in 1885 postseason.
+Find the year in which the least people enter hall of fame.
+Count the number of games taken place in park "Columbia Park" in 1907.
+Compute the total salary that the player with first name Len and last name Barker received between 1985 to 1990.
+List players' first name and last name who received salary from team Washington Nationals in both 2005 and 2007.
+Count the total number of games the team Boston Red Stockings attended from 1990 to 2000.
+Find the team that attended the least number of home games in 1980.
+List the name of ships in ascending order of tonnage.
+Show the name of ships whose nationality is either United States or United Kingdom.
+Show different types of ships and the number of ships of each type.
+Please show the most common type of ships.
+List the nations that have more than two ships.
+Show different types of ships and the average tonnage of ships of each type.
+Show codes and fates of missions, and names of ships involved.
+Show names of ships involved in a mission launched after 1928.
+Show the types of ships that have both ships with tonnage larger than 6000 and ships with tonnage smaller than 4000.
+Find all the female members of club "Bootup Baltimore". Show the first name and last name.
+Find all the male members of club "Hopkins Student Enterprises". Show the first name and last name.
+Find all members of "Bootup Baltimore" whose major is "600". Show the first name and last name.
+Count the number of members in club "Bootup Baltimore" whose age is above 18.
+Count the number of members in club "Bootup Baltimore" whose age is below 18.
+Show the names of members and the decoration themes they have.
+Show the names of members that have a rank in round higher than 3.
+Show the names of members in ascending order of their rank in rounds.
+List the names of members who did not participate in any round.
+List the description of all aircrafts.
+Please list the location and the winning aircraft name.
+List the name of the aircraft that has been named winning aircraft the most number of times.
+List the names of aircrafts and the number of times it won matches.
+List names of all pilot in descending order of age.
+List the names of aircrafts and that won matches at least twice.
+List the names of aircrafts and that did not win any match.
+find the name and age of the pilot who has won the most number of times among the pilots who are younger than 30.
+find the name of pilots who did not win the matches held in the country of Australia.
+Find the team of each player and sort them in ascending alphabetical order.
+Count the number of distinct player positions.
+Find the team of the player of the highest age.
+List the teams of the players with the top 5 largest ages.
+For each player, show the team and the location of school they belong to.
+Show the locations of schools that have more than 1 player.
+Which schools have more than 1 player? Give me the school locations.
+Show the denomination of the school that has the most players.
+List the locations of schools that do not have any player.
+Which schools do not have any player? Give me the school locations.
+Show the nicknames of schools that are not in division 1.
+Find the name and training hours of players whose hours are below 1500.
+Find the max, average and min training hours of all players.
+Find the name of players whose card is yes in the descending order of training hours.
+Find the states of the colleges that have students in the tryout who played in striker position.
+Find the names of the students who are in the position of striker and got a yes tryout decision.
+Find the state of the college which player Charles is attending.
+Find the name of the tryout players who are from the college with largest size.
+Find the names of schools that have some students playing in goalie and mid positions.
+Find the names of states that have some college students playing in goalie and mid positions.
+Find the names of schools that have some players in the mid position but not in the goalie position.
+Find the names of states that have some college students playing in the mid position but not in the goalie position.
+Show card number, name, and hometown for all members in a descending order of level.
+Find the names of all swimmers, sorted by their 100 meter scores in ascending order.
+Find the name and capacity of the stadium where the event named "World Junior" happened.
+Find the name of the swimmer who has at least 2 records.
+Find the name and nationality of the swimmer who has won (i.e., has a result of "win") more than 1 time.
+Find the names of the swimmers who have both "win" and "loss" results in the record.
+Show all video games and their types in the order of their names.
+What is the type of video game Call of Destiny.
+Show all video game types and the number of video games in each type.
+Show all sport name and the number of students.
+Show all student IDs with more than total 10 hours per week on all sports played.
+Show student ids who are female and play football.
+Show all male student ids who don't play football.
+Show total hours per week and number of games played for student David Shieber.
+Show total hours per week and number of games played for students under 20.
+Show all game ids and the number of hours played.
+Show all student ids and the number of hours played.
+Show the game name that has most number of hours played.
+Show all game names played by at least 1000 hours.
+Find the last and first name of students who are playing Football or Lacrosse.
+Find the first name and age of the students who are playing both Football and Lacrosse.
+Find the last name and gender of the students who are playing both Call of Destiny and Works of Widenius games.
+List the names of roller coasters by ascending order of length.
+Show the statuses of roller coasters longer than 3300 or higher than 100.
+Show the different statuses and the numbers of roller coasters for each status.
+Show the names of roller coasters and names of country they are in.
+Show the names of countries and the average speed of roller coasters from each country.
+Count the number of different ranks of captain.
+Count the number of captains that have each rank.
+Count the number of captains younger than 50 of each rank.
+Sort all captain names by their ages from old to young.
+Find the name, class and rank of all captains.
+Give the classes that have more than two captains.
+Find the name of captains whose rank are either Midshipman or Lieutenant.
+Find the captain rank that has some captains in both Cutter and Armed schooner classes.
+Find the captain rank that has no captain in Third-rate ship of the line class.
+Return the name of the youngest captain.
+Find the name, type, and flag of the ship that is built in the most recent year.
+Group by ships by flag, and return number of ships that have each flag.
+Return the flag that is most common among all ships.
+List all ship names in the order of built year and class.
+Find the name of the ships that have more than one captain.
+Find the name of the ship that is steered by the youngest captain.
+Find the name and flag of ships that are not steered by any captain with Midshipman rank.
+Find the name of the ships that are steered by both a captain with Midshipman rank and a captain with Lieutenant rank.
+Find the number of matches in different competitions.
+For each competition, count the number of matches.
+List venues of all matches in the order of their dates starting from the most recent one.
+What are the venues of all the matches? Sort them in the descending order of match date.
+List the ids of all distinct orders ordered by placed date.

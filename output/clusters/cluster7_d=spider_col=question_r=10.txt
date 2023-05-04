@@ -1,0 +1,417 @@
+What are the ids of the candidates that have an outcome code of Pass?
+What are the cell phone numbers of the candidates that received an assessment code of "Fail"?
+Find the id of courses which are registered or attended by student whose id is 121?
+What is the id of the shortest trip?
+What is the total and maximum duration of trips with bike id 636?
+What are the distinct publishers of publications with price higher than 5000000?
+What is the entry name of the most expensive catalog (in USD)?
+What is the level name of the cheapest catalog (in USD)?
+What are the catalog entry names of the products with next entry ID above 8?
+What is the name and salary of all employees in order of salary?
+What is the id of every employee who has at least a salary of  100000?
+What is the name and salary for employee with id 242518965?
+What is the name and salary of the employee with the id 242518965?
+What is the average and largest salary of all employees?
+What is the id and name of the employee with the highest salary?
+What are the names of all employees who have a salary higher than average?
+What is the id and salary of the employee named Mark Young?
+What is the origin and destination for all flights whose price is higher than 300?
+What is the flight number and its distance for the one with the maximum price?
+what is the salary and name of the employee who has the most number of aircraft certificates?
+What is the salary and name of the employee who has the most number of certificates on aircrafts with distance more than 5000?
+What are the top 10 customers' first and last names by total number of orders and how many orders did they make?
+What are the first and last names of the customers with the 10 cheapest invoices?
+What are the total amount of money in the invoices billed from Chicago, Illinois?
+What are the states with the most invoices?
+What is the number of invoices and total money billed in them from CA?
+What is the email and phone number of Astrid Gruber the customer?
+What is the count of customers that Steve Johnson supports?
+What is the title, phone number and hire date for the employee named Nancy Edwards?
+What is the full name of the employee who has the most customers?
+What are the account ids, customer ids, and account names for all the accounts?
+What is the first name, last name, and phone of the customer with account name 162?
+How many accounts are there for each customer id?
+What is the customer id of the customer with the most accounts, and how many accounts does this person have?
+What are the full names of customers who do not have any accounts?
+What are the full names of customers who have accounts?
+What is the phone and email for customer with first name Aniyah and last name Feest?
+What are card ids, customer ids, card types, and card numbers for each customer card?
+What are the valid from and valid to dates for the card with the number 4560596484842?
+What is the customer id with most number of cards, and how many does he have?
+What are the ids and full names of customers who hold two or more cards?
+What is the card type code with most number of cards?
+What are the ids and first names of customers who do not hold a credit card?
+What is the average and total transaction amount?
+What is the transaction type that has processed the greatest total amount in transactions?
+What are the different account ids that have made financial transactions, as well as how many transactions correspond to each?
+What is all the customer information for customers in NY state?
+What is the first name and last name employee helps the customer with first name Leonie?
+What are the invoice dates for customers with the first name Astrid and the last name Gruber?
+What are the last names of customers without invoice totals exceeding 20?
+What are the different first names for customers from Brazil who have also had an invoice?
+What are the addresses of customers living in Germany who have had an invoice?
+What are the phone numbers for each employee?
+What are the first names and support rep ids for employees serving 10 or more customers?
+What are the last names of employees who serve at most 20 customers?
+What are all the customer phone numbers under the most popular policy type?
+What is the effective date of the claim that has the largest amount of total settlement?
+What is the name of the customer who has the most policies listed?
+What are all the policy types of the customer that has the most policies listed?
+What are the open and close dates of all the policies used by the customer who have "Diana" in part of their names?
+What is the average number of votes of representatives from party "Republican"?
+What are the apartment number and the room count of each apartment?
+What is the average number of rooms of apartments with type code "Studio"?
+What are the apartment number, start date, and end date of each apartment booking?
+What is the apartment number of the apartment with the most beds?
+What are the player name, number of matches, and information source for players who do not suffer from injury of 'Knee problem'?
+What is the name and building of the departments whose budget is more than the average budget?
+What is the department name and corresponding building for the department with the greatest budget?
+What are the names and average salaries for departments with average salary higher than 42000?
+What are the total amount and average amount paid in claim headers?
+What is the name of the customer who has made the largest amount of claim in a single claim?
+What is the name of the customer who has made the minimum amount of payment in one claim?
+What are the names of customers who do not have any policies?
+What is the name of the claim processing stage that most of the claims are on?
+What are the ids, names, dates of opening, and other details for accounts corresponding to the customer with the first name "Meaghan"?
+What are the names and other details for accounts corresponding to the customer named Meaghan Keeling?
+What are the full names of customers with the account name 900?
+What are the distinct first names, last names, and phone numbers for customers with accounts?
+What are the customer ids for customers who do not have an account?
+What are the first names and ids for customers who have two or more accounts?
+What is the average, minimum, maximum, and total transaction amount?
+What are the ids for transactions that have an amount greater than the average amount of a transaction?
+What is the id of the account with the most transactions?
+What are the ids and names of accounts with 4 or more transactions?
+What is the invoice number and invoice date for the invoice with most number of transactions?
+What is the invoice number and invoice date corresponding to the invoice with the greatest number of transactions?
+What is the customer last name, id and phone number with most number of orders?
+What is the theme and artist name for the exhibition with a ticket price higher than the average?
+What is the total balance of savings accounts not belonging to someone with the name Brown?
+What is the total checking balance in all accounts?
+What is the average balance in checking accounts?
+How many accounts have a savings balance above the average savings balance?
+What are the customer id and name corresponding to accounts with a checking balance less than the largest checking balance?
+What is the checking balance of the account whose owner’s name contains the substring ‘ee’?
+What are the checking and savings balances in accounts belonging to Brown?
+What are the names of accounts with checking balances greater than the average checking balance and savings balances below the average savings balance?
+What are the balances of checking accounts belonging to people with savings balances greater than the average savings balance?
+What is the name corresponding to the accoung with the lowest sum of checking and savings balances?
+What are the names and sum of checking and savings balances for accounts with savings balances higher than the average savings balance?
+What are the names and balances of checking accounts belonging to the customer with the lowest savings balance?
+What are the names of customers with accounts, and how many checking accounts do each of them have?
+What are the names of customers with accounts, and what are the total savings balances for each?
+What are the names of customers with checking balances lower than the average checking balance?
+What is the savings balance of the account belonging to the customer with the highest checking balance?
+What is the sum of checking and savings balances for all customers, ordered by the total balance?
+What is the name and checking balance of the account which has the lowest savings balance?
+What are the names, checking balances, and savings balances for all customers?
+What are the names, checking balances, and savings balances of customers, ordered by the total of checking and savings balances descending?
+What are the names of customers with a higher checking balance than savings balance?
+What are the names of customers who have a savings balance lower than their checking balance, and what is the total of their checking and savings balances?
+What are names and savings balances of the three accounts with the highest savings balances?
+What is the id and market share of the browser Safari?
+What is the id and name of the browser that is compatible with the most web accelerators?
+Count the number of budgets in year 2001 or before whose budgeted amount is greater than 3000
+Are the customers holding coupons with amount 500 bad or good?
+What are the id and the amount of refund of the booking that incurred the most times of payments?
+What is the id of the product that is booked for 3 times?
+What is the product description of the product booked with an amount of 102.76?
+What are the start date and end date of the booking that has booked the product named 'Book collection A'?
+What is the average amount due for all the payments?
+What are the coupon amount of the coupons owned by both good and bad customers?
+What are the payment date of the payment with amount paid higher than 300 or with payment type is 'Check'
+What are the names and descriptions of the products that are of 'Cutlery' type and have daily hire cost lower than 20?
+What is the carrier of the most expensive phone?
+What is the name and rank of every company ordered by descending number of sales?
+What are the names and headquarters of all companies ordered by descending market value?
+What is the minimum, maximum, and average market value for every company?
+For each main industry, what is the total number of companies for the industry with the highest total market value?
+What is the rank, company, and market value of every comapny in the banking industry ordered by sales and profits?
+Which member names are shared among members in the party with the id 3 and the party with the id 1?
+What is the shipping agent code of shipping agent UPS?
+What is the document status description of the document with id 1?
+What is the name of the shipping agent of the document with id 2?
+What is the receipt date of the document with id 3?
+What is the mail date of the document with id 7?
+What is draft detail of the document with id 7?
+What is the id and stop number for each driver that has a shorter pit stop than the driver in the race with id 841?
+Find the distinct driver id of all drivers that have a longer stop duration than some drivers in the race whose id is 841?
+Show the name of technicians aged either 36 or 37
+What are the names of the technicians by ascending order of quality rank for the machine they are assigned?
+What are the companies of entrepreneurs, ordered descending by amount of money requested?
+What is the average money requested by all entrepreneurs?
+What is the name of the entrepreneur with the greatest weight?
+What is the total money requested by entrepreneurs with height more than 1.85?
+What are the weights of entrepreneurs in descending order of money requested?
+What are the names of entrepreneurs and their corresponding investors, ordered descending by the amount of money requested?
+What is the id of the candidate with the lowest oppose rate?
+What is the name and sex of the candidate with the highest support rate?
+For each sex, what is the name and sex of the candidate with the oppose rate for their sex?
+Return the maximum support rate, minimum consider rate, and minimum oppose rate across all candidates?
+What is the average rating star for each reviewer?
+What is the reviewer name, film title, movie rating, and rating date  for every movie ordered by reviewer name, movie title, then finally rating?
+For each reviewer id, what is the title and rating for the movie with the smallest rating?
+What are the names and decor of rooms with a king bed? Sort them by their price
+What are the room name and base price of the room with the lowest base price?
+What are the first and last names of people who payed more than the rooms' base prices?
+What is the average base price of rooms, for each bed type?
+How many business rates are related to each cmi cross reference? List cross reference id, master customer id and the n
+What are the renting arrears tax ids related to the customer master index whose detail is not 'Schmidt, Kertzmann and Lubowitz'?
+What is the rating of the restaurant Subway?
+What are the payment dates for any payments that have an amount greater than 10 or were handled by a staff member with the first name Elsa?
+Which film has the highest rental rate? And what is the rate?
+What is the id of the store that has the most items in inventory?
+What is the total amount of all payments?
+What is the full name and id of the customer who has the lowest total amount of payment?
+What is the film title and inventory id of the item in the inventory which was rented most frequently?
+What was the date of the earliest payment?
+What is the first name and the last name of the customer who made the earliest rental?
+What is the full name of the staff member who has rented a film to a customer with the first name April and the last name Burns?
+What is the largest payment amount?
+What is the total number of customers across banks?
+What is the average number of bank customers?
+What are the names of all customers, ordered by account balance?
+What are the names of the different customers who have taken out a loan, ordered by the total amount that they have taken?
+What are the states, account types, and credit scores for customers who have 0 loans?
+What are the names and account balances of customers with the letter a in their names?
+What are the total account balances for each customer from Utah or Texas?
+What are the names of customers who have both savings and checking accounts?
+What are the names of customers who do not have saving accounts?
+What are the names of customers who have not taken a Mortage loan?
+What are the names of customers who have taken both Mortgage and Auto loans?
+What are the names of customers with credit score less than the average credit score across customers?
+What is the name of the bank branch with the greatest number of customers?
+What is the name of the customer with the worst credit score?
+What is the name, account type, and account balance corresponding to the customer with the highest credit score?
+What is the name of the customer who has greatest total loan amount?
+What is the average account balance of customers with credit score below 50 for the different account types?
+What is the total account balance for customers with a credit score of above 100 for the different states?
+What are the names of the different bank branches, and what are their total loan amounts?
+What are the names of customers who have taken out more than one loan?
+What are the names and account balances for customers who have taken a total amount of more than 5000 in loans?
+What is the name of the bank branch that has lent the greatest amount?
+What is the name of the bank branch that has lended the largest total amount in loans, specifically to customers with credit scores below 100?
+What are the different names and credit scores of customers who have taken a loan?
+What are the names of customers who have a loan of more than 3000 in amount?
+What are the names of banks that have loaned money to customers with credit scores below 100?
+What is the total amount of money loaned by banks in New York state?
+What is the average credit score for customers who have taken a loan?
+What is the average credit score for customers who have never taken a loan?
+What are the id and first name of the student whose addresses have the highest average monthly rental?
+What are the id and zip code of the address with the highest monthly rental?
+What is the cell phone number of the student whose address has the lowest monthly rental?
+What is the name and id of the staff who recorded the fault log but has not contacted any visiting engineers?
+What is the description of the type of the company who concluded its contracts most recently?
+What is the count and code of the job with the most employee?
+What are the first and last names of the employee with the earliest date of birth?
+What are the full names and salaries for any employees earning less than 6000?
+when is the hire date for those employees whose first name does not containing the letter M?
+What are the full name, hire date, salary, and department id for employees without the letter M in their first name?
+What are the full name, hire data, salary and department id for employees without the letter M in their first name, ordered by ascending department id?
+what is the phone number of employees whose salary is in the range of 8000 and 12000?
+What are the full name (first and last name) and salary for all employees who does not have any value for commission?
+What are the job ids and dates of hire for employees hired after November 5th, 2007 and before July 5th, 2009?
+What is all the information about employees with D or S in their first name, ordered by salary descending?
+Which job titles correspond to jobs with salaries over 9000?
+What are the employee ids for each employee and final dates of employment at their last job?
+What are the department ids for which more than 10 employees had a commission?
+What is the average salary of employees who have a commission percentage that is not null?
+Can you return all detailed info of jobs which was done by any of the employees who is presently earning a salary on and above 12000?
+What is all the job history info done by employees earning a salary greater than or equal to 12000?
+What is the average salary for each job title?
+What is the full name ( first name and last name ) for those employees who gets more salary than the employee whose id is 163?
+What is the minimum salary in each department?
+What are the employee ids for employees who make more than the average?
+What are the job ids corresponding to jobs with average salary above 8000?
+What is all the information regarding employees with salaries above the minimum and under 2500?
+What are the full names and hire dates for employees in the same department as someone with the first name Clara?
+What are the full names and hire dates for employees in the same department as someone with the first name Clara, not including Clara?
+What are the ids and full names for employees who work in a department that has someone with a first name that contains the letter T?
+What are the ids, full names, and salaries for employees making more than average and who work in a department with employees who have the letter J in their first name?
+What are the employee ids and job ids for employees who make less than the lowest earning employee with title MK_MAN?
+What are the employee ids, full names, and job ids for employees who make more than the highest earning employee with title PU_MAN?
+What is all the information about employees who have never had a job in the past?
+What the full names, ids of each employee and the name of the country they are in?
+What are the name and id of the team offering the lowest average salary?
+What is the owner of the channel that has the highest rating ratio?
+What is the total rating of channel for each channel owner?
+Return the claim start date for the claims whose claimed amount is no more than the average
+What is the total amount of settlement made for all the settlements?
+What is the most popular payment method?
+What is the payment method that were used the least often?
+What is the total amount of payment?
+What is the employee id of the head whose department has the least number of employees?
+what is the name and position of the head whose department has least number of employees?
+What is the id of the appointment that started most recently?
+What is the name of the medication used for the patient staying in room 111?
+What is the id of the patient who stayed in room 111 most recently?
+What is the average cost of procedures that physician John Wen was trained in?
+Among the procedures that cost more than 1000, which were not specialized in by physician John Wen?
+What is the headquarter of the company with the largest sales?
+What is the day Number and date of all the documents?
+What is the code of each role and the number of employees in each role?
+What is the role code with the largest number of employees?
+What is the role name and role description for employee called Ebba?
+What is the location code with the most documents?
+What are the name and code of the location with the smallest number of documents?
+What are the names of the employees who authorised the destruction and the employees who destroyed the corresponding documents?
+What are the ids and details for all organizations that have grants of more than 6000 dollars?
+Find out the send dates of the documents with the grant amount of more than 5000 were granted by organisation type described
+What are the response received dates for the documents described as 'Regular' or granted with more than 100?
+What is the response received date for the document described as Regular that was granted more than 100 dollars?
+What is the total amount of grant money given to each organization and what is its id?
+Show the role description and the id of the project staff involved in most number of project outcomes?
+For each staff id, what is the description of the role that is involved with the most number of projects?
+What is the last date that a staff member left a project?
+Find the name of the document that has been accessed the greatest number of times, as well as the count of how many times it has been accessed?
+What is the name of the document which has been accessed the most times, as well as the number of times it has been accessed?
+What is the total access count of documents that are of the most common document type?
+What is the structure of the document with the least number of accesses?
+What are the usernames and passwords of users that have the most common role?
+What is the description of the most popular role among users that have logged in?
+What is the average access count of documents that have the least common structure?
+What are the name and assets of each company, sorted in ascending order of company name?
+What is the average price for products?
+What is the name of the product with the highest price?
+What are the ids of the top three products that were purchased in the largest amount?
+What are the product id and product type of the cheapest product?
+What is the address for the customer with id 10?
+What is the id of the product that was ordered the most often?
+What are the name, phone number and email address of the customer who made the largest number of orders?
+What is the average price for each type of product?
+What are the distinct names of customers with an order status of Pending, sorted by customer id?
+What are the ids of products from the supplier with id 2, which are more expensive than the average price across all products?
+What is the id and name of the department store that has both marketing and managing department?
+What is the id of the department with the least number of staff?
+What are the maximum and minimum product prices for each product type?
+What is the code of the product type with an average price higher than the average price of all products?
+What is the id and name of the staff who has been assigned for the least amount of time?
+What are the distinct ids of customers who made an order after any order that was Cancelled?
+What are the names and ids of customers whose address contains TN?
+What are the ids of all products that were either ordered more than 3 times or have a cumulative amount purchased of above 80000?
+What are id and name of the products whose price is lower than 600 or higher than 900?
+What are the ids of suppliers which have an average amount purchased of above 50000 or below 30000?
+What is the largest and smallest customer codes?
+What are the distinct names of customers who have purchased a keyboard?
+What are the highest and lowest prices of products, grouped by and alphabetically ordered by product type?
+What are the order ids and customer ids for orders that have been Cancelled, sorted by their order dates?
+What are the distinct names of customers who have purchased at least three different products?
+What are the ids and names of customers with addressed that contain WY and who do not use a credit card for payment?
+What is the average price of clothes?
+What is the name of the hardware product with the greatest price?
+What is each customer's move in date, and the corresponding customer id and details?
+What is the shop name corresponding to the shop that opened in the most recent year?
+What is the name of the shop that has the greatest quantity of devices in stock?
+What are the distinct names of the products that cost more than the average?
+What is the name of the most expensive product?
+What is the payment method code used by the most orders?
+What are the descriptions of the service types with product price above 100?
+What is the description and code of the type of service that is performed the most often?
+What are the order details of the products with price higher than 2000?
+What are the actual delivery dates of orders with quantity 1?
+What are the order dates of orders with price higher than 1000?
+What are the names of the clients who do not have any booking?
+What is the average quantities ordered with payment method code "MasterCard" on invoices?
+What is the product ID of the most frequently ordered item on invoices?
+What is the description of the service type which offers both the photo product and the film product?
+What are the names of manufacturers with revenue greater than the average of all revenues?
+What are the names of companies with revenue less than the lowest revenue of any manufacturer in Austin?
+What is the total revenue of companies with revenue greater than the lowest revenue of any manufacturer in Austin?
+What is the total revenue of companies started by founder?
+What is the total revenue of each manufacturer?
+What are the average prices of products for each manufacturer?
+What are the names of products with price at most 200?
+What is all the information of all the products that have a price between 60 and 120?
+What is the average price across all products?
+What is the average price of products with manufacturer codes equal to 2?
+How many products have prices of at least 180?
+What are the names and prices of products that cost at least 180, sorted by price decreasing and name ascending?
+What are the average prices of products, grouped by manufacturer code?
+What are the average prices of products, grouped by manufacturer name?
+What are the names and average prices of products for manufacturers whose products cost on average 150 or more?
+What is the name and price of the cheapest product?
+For each manufacturer name, what are the names and prices of their most expensive product?
+What are the codes and names of the cheapest products in each category?
+What is the id of the problem log that is created most recently?
+What is the oldest log id and its corresponding problem id?
+For each product which has problems, what are the number of problems and the product id?
+Which products have problems reported by both the staff named Lacey Bosco and the staff named Kenton Champlin?
+What is the sum of total pounds of purchase in year 2018 for all branches in London?
+What is the total number of purchases for members with level 6?
+What are the total purchases for members rated at level 6?
+What is the category and typical buying price  of the product with name "cumin"?
+What are the name and typical buying and selling prices of the products that have color described as "yellow"?
+What is the characteristic name used by most number of the products?
+What are the name and phone of the customer with the most ordered product quantity?
+What is the name and capacity of the dorm with the fewest amount of amenities?
+What are the emails and phone numbers of all customers, sorted by email address and phone number?
+What are the emails of customers who have filed complaints on the product which has had the greatest number of complaints?
+Which products has been complained by the customer who has filed least amount of complaints?
+What is the phone number of the customer who has filed the most recent complaint?
+What are the phone numbers of all customers and all staff members?
+What is the name and category code of the product with the highest price?
+What are the prices of products that have never gotten a complaint?
+What is the average price of the products for each category?
+What is the last name of the staff member in charge of the complaint on the product with the lowest price?
+What is the last name of the staff who has handled the first ever complaint?
+What is the average score of submissions?
+What are the purchase details of transactions with amount bigger than 10000?
+What are the sale details and dates of transactions with amount smaller than 3000?
+What are the dates of transactions with at least 100 share count or amount bigger than 100?
+What are the star rating descriptions of the hotels with price above 10000?
+What is the average price range of hotels for each each star rating code?
+What is the average amount of items ordered in each order?
+What are the names of customers using the most popular payment method?
+What are the names of customers who live in Colorado state?
+What is the average time span of contact channels in the database?
+What is the channel code and contact number of the customer contact channel that was active for the longest time?
+What are the name and active date of the customers whose contact channel code is email?
+What is the name of the customer that made the order with the largest quantity?
+What is the name of the customer that has purchased the most items?
+What is the payment method of the customer that has purchased the least quantity of items?
+What is the most frequently ordered product? Tell me the detail of the product
+What are the names of customers who have purchased both products Latte and Americano?
+What is the issue date of the volume with the minimum weeks on top?
+What is the name of the party form that is most common?
+What are the party emails associated with parties that used the party form that is the most common?
+What is the last name of the contact individual from the Labour party organization who was contacted most recently?
+What is the last name of the first individual contacted from the organization with the maximum UK Vat number across all organizations?
+What are the payment method codes that have been used by more than 3 parties?
+What are the last names of individuals who have been contact individuals for an organization?
+What are the statement ids, statement details, and account details, for all accounts?
+What are the different statement ids on accounts, and the number of accounts for each?
+What are the statement id and statement detail for the statement that has the most corresponding accounts?
+How many documents are with document type code BK for each product id?
+What is the id of the project with least number of documents?
+What is the document type code with most number of documents?
+What is the document type name and the document type description and creation date for all the documents?
+What is the project id and detail for the project with at least two documents?
+What is the description for the budget type with code ORG?
+What are the account details with the largest value or with value having char '5' in it?
+What is the winery at which the wine with the highest score was made?
+What is the color of the grape whose wine products has the highest average price?
+How long is the total lesson time took by customer with first name as Rylan and last name as Goodwin?
+How long is the total lesson time took by the customer named Rylan Goodwin?
+What is the first and last name of all employees who live in the city Damianfort?
+What are the email addresses and date of births for all customers who have a first name of Carole?
+What are the phone numbers and email addresses of all customers who have an outstanding balance of more than 2000?
+What is the status code, mobile phone number and email address of customer with last name as Kohler or first name as Marina?
+What is the status code, phone number, and email address of the customer whose last name is Kohler or whose first name is Marina?
+When are the birthdays of customer who are classified as 'Good Customer' status?
+What is the status code with the least number of customers?
+What is maximum, minimum and average amount of outstanding of customer?
+What is the maximum, minimum, and average amount of money outsanding for all customers?
+What are the first and last names of all customers with between 1000 and 3000 dollars outstanding?
+What is zip code of customer with first name as Carole and last name as Bernhard?
+How much in total does customer with first name as Carole and last name as Bernhard paid?
+What is the total amount of moeny paid by the customer Carole Bernhard?
+What are the first and last names of all customers with more than 2 payments?
+What are the last names that are used by customers and staff?
+what are the order id and customer id of the oldest order?
+What is the name of the customer who has the most orders?
+What is the customer id of the customer who has the most orders?
+What is the placement date of the order whose invoice number is 10?
+What is the id of the order which has the most items?
+What is the name of the customer who has the largest number of orders?
+What are the names of the customers who have made two or less orders?
+What are the names of the customers who bought product "food" at least once?

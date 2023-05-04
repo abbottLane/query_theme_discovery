@@ -1,0 +1,806 @@
+In which year were most departments established?
+How many acting statuses are there?
+How many departments are led by heads who are not mentioned?
+How many farms are there?
+How many different statuses do cities have?
+How many students attend course English?
+How many students are attending English courses?
+Find distinct cities of address of students?
+How many different bike ids are there?
+How many different cities have these stations?
+How many stations does Mountain View city has?
+How many stations are in Mountain View?
+Which bike traveled the most often in zip code 94002?
+How many days had both mean humidity above 50 and mean visibility above 8?
+When and in what zip code did max temperature reach 80?
+For each zip code, return how many times max wind speed reached 25?
+For each zip code, how many times has the maximum wind speed reached 25 mph?
+How many trips did not end in San Francisco?
+On which day has it neither been foggy nor rained in the zip code of 94107?
+How many trips started from Mountain View city and ended at Palo Alto city?
+How many books are there?
+How many actors are there?
+How many actors have appeared in each musical?
+How many musicals has each nominee been nominated for?
+How many users are there?
+How many followers does each user have?
+Which catalog publisher has published the most catalogs?
+How many products are there in the records?
+How many aircrafts do we have?
+How many aircrafts exist in the database?
+How many aircrafts have distance between 1000 and 5000?
+How many employees do we have?
+How many employees have salary between 100000 and 200000?
+How many flights do we have?
+For each origin, how many flights came from there?
+Which origin has most number of flights?
+What place has the most flights coming from there?
+Which destination has least number of flights?
+What destination has the fewest number of flights?
+How many allergies are there?
+How many allergy entries are there?
+How many different allergy types exist?
+How many distinct allergies are there?
+How many allergies have type animal?
+How many animal type allergies exist?
+Which allergy type has most number of allergies?
+Which allergy type is most common?
+Which allergy type has least number of allergies?
+Which allergy type is the least common?
+How many students are there?
+How many different advisors are listed?
+How many advisors are there?
+What cities do students live in?
+How many students are age 18?
+How many students are 18 years old?
+Who advises student 1004?
+How many students live in HKG or CHI?
+Which major has most number of students?
+What is the largest major?
+How many students live in each city?
+How many students does each advisor have?
+Which advisor has most number of students?
+How many students have cat allergies?
+How many students are affected by cat allergies?
+Which students are unaffected by allergies?
+How many female students have milk or egg allergies?
+How many students have a food allergy?
+How many students are affected by food related allergies?
+Which allergy has most number of students affected?
+Which allergy is the most common?
+How many students have each different allergy?
+How many students are affected by each allergy type?
+How many invoices were billed from Chicago, IL?
+How many invoices were billed from each state?
+How many albums does Billy Cobham has?
+How many albums has Billy Cobam released?
+Eduardo Martins is a customer at which company?
+How many customers live in Prague city?
+How many customers live in the city of Prague?
+How many customers in state of CA?
+How many customers are from California?
+What country does Roberto Almeida live?
+How many customers does Steve Johnson support?
+How many employees are living in Canada?
+How many employees live in Canada?
+Find the number of employees whose title is IT Staff from each city?
+How many employees who are IT staff are from each city?
+How many orders does Lucas Mancini has?
+How many orders does Luca Mancini have in his invoices?
+How much money did Lucas Mancini spend?
+How many milliseconds long is Fast As a Shark?
+How many tracks are in each genre?
+How many editors are there?
+How many accounts do we have?
+How many customers do not have an account?
+How many customers have an account?
+How many customers do we have?
+How many customer cards are there?
+How many cards does customer Art Turcotte have?
+How many debit cards do we have?
+How many credit cards does customer Blanche Huels have?
+How many different card types are there?
+How many different types of transactions are there?
+How many tracks do we have?
+How many races are there?
+How many members have the black membership card?
+Which membership card has more than 5 members?
+Which address has both members younger than 30 and members older than 40?
+How many members are not living in Hartford?
+Which month has the most happy hours?
+Which months have more than 2 happy hours?
+How many albums are there?
+Which artist has the most albums?
+How many tracks belong to rock genre?
+How many distinct cities does the employees live in?
+What are all the phone numbers?
+Which policy type has the most records in the database?
+How many services are there?
+How many medicines were not approved by the FDA?
+How many enzymes do not have any interactions?
+How many distinct FDA approval statuses are there for the medicines?
+How many different FDA approval statuses exist for medicines?
+How many medicines are offered by each trade name?
+When was the school with the largest enrollment founded?
+How many schools are in the basketball match?
+How many schools do not participate in the basketball match?
+How many universities have a location that contains NY?
+How many phones belongs to each accreditation type?
+How many models do not have the wifi function?
+How many countries are there in total?
+Who are the players from UCLA?
+How many distinct teams are involved in match seasons?
+Which players are from Indonesia?
+Who are the players from Indonesia?
+How many players played each position?
+How many players are from each country?
+How many climbers are there?
+How many distinct countries are the climbers from?
+How many climbers are from each country?
+Which countries have more than one mountain?
+Which range contains the most mountains?
+How many body builders are there?
+How many distinct birth places are there?
+How many persons are not body builders?
+How many elections are there?
+What parties have at least three representatives?
+What states have at least two representatives?
+How many distinct parties are there for representatives?
+How many apartment bookings are there in total?
+Which apartment type code appears the most often?
+Which apartment type code is the most common among apartments with more than one bathroom?
+How many apartments do not have any facility?
+How many games are held after season 2007?
+How many games are free of injury accidents?
+How many distinct kinds of injuries happened after season 2010?
+How many games has each stadium held?
+How many leagues are there in England?
+Of all players with an overall rating greater than 80, how many are right-footed and left-footed?
+How many performances are there?
+How many classrooms are not in Lamberton?
+How many rooms does the Lamberton building have?
+How many students have advisors?
+How many departments offer courses?
+How many different courses offered by Physics department?
+How many different instructors have taught some course?
+How many rooms whose capacity is less than 50 does the Lamberton building have?
+Find the names of the top 3 departments that provide the largest amount of courses?
+Find the name of the department that offers the highest total credits?
+Which department has the lowest budget?
+Who is the instructor with the highest salary?
+How many rooms in each building have a capacity of over 50?
+How many total credits are offered by each department?
+How many courses are provided in each semester and year?
+Which year had the greatest number of courses?
+Find the name of department has the highest amount of students?
+How many students are in each department?
+Which semeseter and year had the fewest students?
+Which department has the highest average instructor salary?
+How many students and instructors are in each department?
+How many instructors teach a course in the Spring of 2010?
+How many debates are there?
+List the dates of debates with number of audience bigger than 150
+What is the party of the youngest people?
+How much amount in total were claimed in the most recently created document?
+How many claim processing stages are there in total?
+How many distinct claim outcome codes are there?
+How many accounts are there?
+How many customers have opened an account?
+How many customers don't have an account?
+How many customers are there of each gender?
+How many transactions do we have?
+How many transactions correspond to each invoice number?
+How many invoices do we have?
+How many invoices correspond to each order id?
+How many order items correspond to each order id?
+How many products were not included in any order?
+How many churches opened before 1850 are there?
+How many female people are older than 30 in our record?
+How many weddings are there in year 2016?
+How many churches have a wedding in year 2016?
+How many artists do we have?
+How many exhibition are there in year 2005 or after?
+How many exhibitions has each artist had?
+How many different users wrote some reviews?
+How many different items were reviewed by some users?
+How many players are there?
+How many gold medals has the club with the most coaches won?
+How many gymnasts are there?
+How many gymnasts are from each hometown?
+From which hometowns did no gymnasts come from?
+How many distinct hometowns did these people have?
+How many accounts are there in total?
+How many wrestlers are there?
+How many eliminations did each team have?
+Which teams had more than 3 eliminations?
+Which reign is the most common among wrestlers?
+Which locations are shared by more than two wrestlers?
+How many different teams have had eliminated wrestlers?
+How many schools are there?
+How many budgets are above 3000 in year 2001 or before?
+How many budget record has a budget amount smaller than the invested amount?
+How many buildings are there?
+What is the name of the tallest building?
+How many proteins are associated with an institution in a building with at least 20 floors?
+How many cinema do we have?
+Which locations have 2 or more cinemas with capacity over 300?
+Who are all the directors?
+How many films have the word 'Dummy' in their titles?
+How many different product types are there?
+How many products are never booked with amount higher than 200?
+How many phones are there?
+How many gas companies are there?
+How many gas station are opened between 2000 and 2005?
+For each location, how many gas stations are there in order?
+How many regions do we have?
+How many parties do we have?
+Which ministers are not a part of the Progress Party?
+Which minister left office the latest?
+How many members are in each party?
+How many party events do we have?
+How many events are there for each party?
+Which event names were used more than twice for party events?
+How many Annual Meeting events happened in the United Kingdom region?
+How many pilots are there?
+How many documents have the status code done?
+How many documents were shipped by USPS?
+how many female dependents are there?
+Which service id and type has the least number of participants?
+Which services type had both successful and failure event details?
+How many events did not have any participants?
+Find the distinct names of all races held between 2014 and 2017?
+What are the forename and surname of the driver who has the smallest laptime?
+How many drivers participated in the race Australian Grand Prix held in 2009?
+How many drivers were in the Australian Grand Prix held in 2009?
+How many drivers did not participate in the races held in 2009?
+How many drivers did not race in 2009?
+For each nationality, how many different constructors are there?
+For each constructor id, how many races are there?
+Find the names of Japanese constructors that have once earned more than 5 points?
+How many technicians are there?
+For each team, how many technicians are there?
+How many entrepreneurs are there?
+How many entrepreneurs correspond to each investor?
+List the names of entrepreneurs and their companies in descending order of money requested?
+How many distinct companies are there?
+Which company was started by the entrepreneur with the greatest height?
+How many perpetrators are there?
+How many distinct locations of perpetrators are there?
+In which year did the most recent crime happen?
+What campuses are located in the county of Los Angeles?
+What campuses are located in Chico?
+What campuses opened before 1800?
+Which campus was opened between 1935 and 1939?
+What campuses opened between 1935 and 1939?
+What campuses are located in Northridge, Los Angeles or in San Francisco, San Francisco?
+How many universities have a campus fee higher than average?
+How many universities have a campus fee greater than the average?
+Which university is in Los Angeles county and opened after 1950?
+What campuses are located in Los Angeles county and opened after 1950?
+Which year has the most degrees conferred?
+In what year was the most degrees conferred?
+Which campus has the most degrees conferred in all times?
+What campus has the most degrees  conferrred over its entire existence?
+Which campus has the most faculties in year 2003?
+What campus has the most faculties in 2003?
+Find the average fee on a CSU campus in 1996
+how many degrees were conferred between 1998 and 2002?
+How many campuses are there in Los Angeles county?
+How many campuses exist are in the county of LA?
+What campuses are in Los Angeles county?
+How many degrees were conferred in "San Jose State University" in 2000?
+How many degrees were conferred at San Jose State University in 2000?
+What degrees were conferred in San Francisco State University in the year 2001?
+How many faculty is there in total in the year of 2002?
+How many faculty, in total, are there in the year 2002?
+How many faculty lines are there in "San Francisco State University" in year 2004?
+How many faculty lines are there at San Francisco State University in 2004?
+How many undergraduates are there in "San Jose State University" in year 2004?
+How many undergraduates are there at San Jose State
+How many people graduated from San Francisco State University in 2004?
+How many CSU campuses are there?
+How many candidates are there?
+Which poll resource provided the most number of candidate information?
+How many movies were made before 2000?
+Who is the director of movie Avatar?
+Who directed Avatar?
+How many reviewers listed?
+How many reviewers are there?
+How many movie ratings have more than 3 stars?
+How many movie reviews does each director get?
+For each director, how many reviews have they received?
+How many counties are there?
+How many cities are in counties that have populations of over 20000?
+How many counties correspond to each police force?
+Which location has the most corresponding counties?
+Which police forces operate in both counties that are located in the East and in the West?
+Which room has the largest number of reservations?
+How many kids stay in the rooms reserved by ROY SWEAZY?
+How many adults stay in the room CONRAD SELBIG checked in on Oct 23, 2010?
+How many kids stay in the room DAMIEN TRACHSEL checked in on Sep 21, 2010?
+How many king beds are there?
+How many people in total can stay in the modern rooms of this inn?
+What kind of decor has the least number of reservations?
+How many times the number of adults and kids staying in a room reached the maximum capacity of the room?
+How many rooms are there?
+How many rooms have a king bed?
+What is the name of the room that can accommodate the most people?
+Which room has the highest base price?
+How many rooms cost more than 120, for each different decor?
+How many different types of beds are there?
+How many rooms have not had any reservation yet?
+How many parties are there?
+Which nationality has the most hosts?
+How many storms had death records?
+How many regions are affected?
+How many storms occured in each region?
+How many regions were affected by each storm?
+How many counties are there in total?
+On average how large is the population of the counties?
+How many distinct governors are there?
+Which delegates are from counties with population smaller than 100000?
+How many distinct delegates are from counties with population larger than 50000?
+Which committees have delegates from the Democratic party?
+Which party has two or more records?
+Which party has the largest number of delegates?
+Which people severed as governor most frequently?
+Which parties did not have any delegates in elections?
+Which parties have delegates in both the "Appropriations" committee and the "Economic Matters" committee?
+Which committees have delegates from both democratic party and liberal party?
+How many journalists are there?
+Which city does student Linda Smith live in?
+Advisor 1121 has how many students?
+How many restaurant is the Sandwich type restaurant?
+How long does student Linda Smith spend on the restaurant in total?
+How many times has the student Linda Smith visited Subway?
+When did Linda Smith visit Subway?
+How many different payment methods are there?
+How many authors are there?
+How many institutions are there?
+How many papers are published in total?
+How many papers have "Atsushi Ohori" published?
+How many papers are "Atsushi Ohori" the author of?
+Which districts have at least two addresses?
+How many addresses are in the district of California?
+How many cities are in Australia?
+Which countries have at least 3 cities?
+How many customers have an active value of 1?
+Which store owns most items?
+How many languages are in these films?
+Where is store 1 located?
+How many stores are there?
+How many kinds of different ratings are listed?
+How many items in inventory does store 1 have?
+Which store has most the customers?
+How many bank branches are there?
+How many customers are there?
+In how many different cities are banks located?
+In how many different states are banks located?
+Which state has the greatest total number of bank customers?
+How many assessment notes are there in total?
+How many addresses have zip code 197?
+How many distinct incident type codes are there?
+How many distinct students have been in detention?
+How many students are not involved in any behavior incident?
+When was the first asset acquired?
+Which gender makes up the majority of the staff?
+How many trains have 'Express' in their names?
+How many different services are provided by all stations?
+How many professors are in the accounting dept?
+How many professors are teaching class with code ACCT-211?
+How many professors teach a class with the code ACCT-211?
+How many classes are professor whose last name is Graztevski has?
+How many classes does the professor whose last name is Graztevski teach?
+Where is the history department?
+How many different locations does each school have?
+How many departments are in each school?
+How many different departments are there in each school that has less than 5 apartments?
+How many sections does each course has?
+How many sections does each course have?
+How many credits does the department offer?
+For each classroom with at least 2 classes, how many classes are offered?
+How many classes are held in each department?
+How many classes exist for each school?
+How many different professors are there for the different schools?
+Which school has the smallest amount of professors?
+Which school has the fewest professors?
+how many schools exist in total?
+How many schools are there in the department?
+How many different classes are there?
+How many unique classes are offered?
+How many courses are offered?
+How many departments does the college has?
+How many different departments are there?
+How many courses are offered by the Computer Info. Systems department?
+How many sections does course ACCT-211 has?
+Which department offers the most credits all together?
+How many students enrolled in class ACCT-211?
+How many employees are there all together?
+How many professors do have a Ph.D. degree?
+How many professors attained either Ph.D. or Masters degrees?
+How many professors who are from either Accounting or Biology department?
+How many clubs are there?
+How many clubs have total medals less than 10?
+How many different position for players are listed?
+which country did participated in the most number of Tournament competitions?
+How many furniture components are there in total?
+What is all the information about the Marketing department?
+Which employees were hired after September 7th, 1987?
+How many songs have 4 minute duration?
+How many artists are from Bangladesh?
+How many Bangladeshi artists are listed?
+How many artists are male and how many are female?
+How many players enter hall of fame each year?
+How many parks are there in the state of NY?
+How many times did Boston Red Stockings lose in 2009 postseason?
+How many times in total did the team Boston Red Stockings participate in postseason games?
+How many games in 1885 postseason resulted in ties (that is, the value of "ties" is '1')?
+How many players did Boston Red Stockings have in 2000?
+List the 3 highest salaries of the players in 2001?
+How many parks are there in Atlanta city?
+How many parks does Atlanta city have?
+How many games were played in park "Columbia Park" in 1907?
+How many games were played in city Atlanta in 2000?
+Which team had the least number of attendances in home games in 1980?
+Which states have more than 2 parks?
+How many team franchises are active, with active value 'Y'?
+Which cities have 2 to 4 parks?
+Which park had most attendances in 2008?
+Which park did the most people attend in 2008?
+How many camera lenses have a focal length longer than 15 mm?
+How many camera lenses are not used in taking any photos?
+How many distinct kinds of camera lenses are used to take photos of mountains in the country 'Ethiopia'?
+How many distinct programs are broadcast at "Night" time?
+How many courses are there in total?
+How many distinct students are enrolled in courses?
+How many distinct courses are enrolled in by students?
+How many tests have result "Fail"?
+How many students did not have any course enrollment?
+Of all the claims, what was the earliest date when any claim was made?
+Which payment method is used the most often?
+With which kind of payment method were the least number of payments processed?
+Which kind of policy type was chosen by the most customers?
+How many settlements are there in total?
+What is total amount claimed summed across all the claims?
+Which department has the largest number of employees?
+How many patients stay in room 112?
+How many patients' prescriptions are made by physician John Dorian?
+How many rooms does each block floor have?
+How many rooms are located for each block code?
+How many different types of rooms are there?
+How many medications are prescribed for each brand?
+Which patient is undergoing the most recent treatment?
+List the names of all distinct nurses ordered by alphabetical order?
+Which nurses are in charge of patients undergoing treatments?
+Find the physician who was trained in the most expensive procedure?
+What procedures cost less than 5000 and have John Wen as a trained physician?
+How many patients are not using Procrastin-X as medication?
+How many appointments are there?
+How many ships are there?
+For each type, how many ships are there?
+Which grade is studying in classroom 103?
+Which grade is studying in room 105?
+Which classrooms are used by grade 4?
+Which classrooms are used by grade 5?
+How many students does LORIA ONDERSMA teaches?
+How many students does KAWA GORDON teaches?
+How many students are taught by teacher TARRING LEIA?
+How many teachers does the student named CHRISSY NABOZNY have?
+How many teachers does the student named MADLOCK RAY have?
+Which classroom has the most students?
+How many students does one classroom have?
+How many companies are headquartered in the US?
+How many film are there?
+How many markets have number of cities smaller than 300?
+How films are produced by each studio?
+Which studios have never worked with the director Walter Hill?
+Which studios have an average gross of over 4500000?
+How many calendar items do we have?
+How many document types are there?
+How many documents have document type code CV or BK?
+How many locations are listed in the database?
+How many roles are there?
+How many members does the club "Tennis Club" has?
+How many clubs does "Linda Smith" belong to?
+How many clubs does "Linda Smith" have membership for?
+For how many clubs is "Tracy Kim" a member?
+How many clubs are located at "HHH"?
+How many members of "Bootup Baltimore" are older than 18?
+How many members of club "Bootup Baltimore" are younger than 18?
+On average, how old are the members in the club "Hopkins Student Enterprises"?
+Which organisation type hires most research staff?
+How many Patent outcomes are generated from all the projects?
+How many patents outcomes were listed for all the projects?
+How many project staff worked as leaders or started working before '1989-04-24 23:51:54'?
+How many project members were leaders or started working before '1989-04-24 23:51:54'?
+How many tasks are there in total?
+How many tasks are there?
+For each project id, how many tasks are there?
+What roles did staff members play between '2003-04-19 15:06:20' and '2016-03-15 00:33:18'?
+Which role is most common for the staff?
+How many friends does Dan have?
+How many females does this network has?
+How many females are in the network?
+How many different cities are they from?
+How many different cities do people originate from?
+How many type of jobs do they have?
+How many different jobs are listed?
+Who is the oldest person?
+Who is the oldest person whose job is student?
+Who is the youngest male?
+How old is the doctor named Zach?
+HOw many engineers are older than 30?
+How old is each gender, on average?
+How many people are under 40 for each gender?
+How many people are older than every engineer?
+Who are the friends of Bob?
+Who are Bob's friends?
+Who are the friends of Alice that are doctors?
+Who has friends that are younger than the average age?
+Which friend of Zach has the longest-lasting friendship?
+Which person whose friends have the oldest average age?
+How many members are there?
+Which countries have more than two members?
+Find the average access count across all documents?
+How many users are logged in?
+What document types have more than 2 corresponding documents?
+How many companies are there?
+How many different industries are the companies in?
+Which industry has the most companies?
+How many companies are in either "Banking" industry or "Conglomerate" industry?
+Which headquarter locations are used by more than 2 companies?
+How many products are there?
+How many artworks are there?
+How many premises are there?
+How many courses have more than 2 credits?
+Which courses are taught on days MTW?
+How many departments are in the division AS?
+What are the phones of departments in Room 268?
+How many students have had at least one "B" grade?
+Find the name of the department that has the biggest number of students minored in?
+Which building does the instructor who teaches the most number of courses live in?
+Give the maximum and minimum gradepoints for students living in NYC?
+How many customers use each payment method?
+How many department stores does the store chain South have?
+How many aircrafts are there?
+How many international and domestic passengers are there in the airport London Heathrow?
+How many different status codes of things are there?
+When is the last day any resident moved in?
+How many customers did not have any event?
+How many different positions of players are there?
+Which team has the oldest player?
+Which district has the largest population?
+Which district has the least area?
+For each type of store, how many of them are there?
+How many stores are headquarted in each city?
+What is the city with the most number of flagship stores?
+How many students are enrolled in college?
+How many students, on average, does each college have enrolled?
+How many colleges in total?
+How many different colleges are there?
+How many players have more than 1000 hours of training?
+How many different players trained for more than 1000 hours?
+How many colleges has more than 15000 students?
+How many hours do the players train on average?
+How many different colleges do attend the tryout test?
+How many different colleges were represented at tryouts?
+How many students got accepted after the tryout?
+How many students received a yes from tryouts?
+How many students whose are playing the role of goalie?
+Which position is most popular among players in the tryout?
+What was the most popular position at tryouts?
+In which state is the college that Charles attends?
+Which colleges do the tryout players whose name starts with letter D go to?
+What college has a student who successfully made the team in the role of a goalie?
+How many schools have students playing in goalie and mid-field positions?
+How many states have a college with more students than average?
+How many states have smaller colleges than average?
+How many devices are there?
+Which locations contains both shops that opened after the year 2012 and shops that opened before 2008?
+How many bookings do we have?
+Which cities have at least one customer but no performer?
+Which status code is the most common of all the bookings?
+How many bands are there?
+How many songs are there?
+How many unique labels are there for albums?
+What is the most used instrument?
+What instrument is used the most?
+How many songs use drums as an instrument?
+Which song has the most vocals?
+How many songs have a lead vocal?
+What information is there on albums from 2010?
+How many instruments does the song "Badlands" use?
+How many songs have a shared vocal?
+How many different songs have shared vocals?
+How many songs appear in studio albums?
+Who is the founder of Sony?
+Where is the headquarter of the company founded by James?
+How many companies were created by Andy?
+What are the different cities listed?
+How many manufacturers have headquarters in either Tokyo or Beijing?
+How many different products are produced in each headquarter city?
+How many products are not made by Sony?
+How many products are there for each manufacturer?
+Find the top 3 products which have the largest number of problems?
+How many branches where have more than average number of memberships are there?
+For each city, how many branches opened before 2010?
+How many total pounds were purchased in the year 2018 at all London branches?
+How many students are there in total?
+How many voting records do we have?
+How many distinct president votes are recorded?
+What are the distinct president votes on 08/30/2015?
+Which advisors have more than two students?
+Which major has the most students?
+Which advisors are advising more than 2 students?
+How many colors are there?
+How many characteristics are there?
+How many products are in the 'Spices' category and have a typical price of over 1000?
+How many colors are never used by any product?
+How many events are there?
+How many stadiums are there?
+Which country has at most 3 stadiums listed?
+Which country has both stadiums with capacity greater than 60000 and stadiums with capacity less than 50000?
+How many cities have a stadium that was opened before the year of 2006?
+How many stadiums does each country have?
+Which countries do not have a stadium that was opened after 2006?
+How many different countries are all the swimmers from?
+How many railways are there?
+How many addresses are there in country USA?
+How many products have a price higher than the average?
+How many girl students who are younger than 25?
+How many dorms are there?
+How many dorms are in the database?
+How many diffrent dorm amenities are there?
+How many students exist?
+How many dorms have amenities?
+How many different genders are there in the dorms?
+What are the names of the dorm with the largest capacity?
+What are the amenities in alphabetical order that Anonymous Donor Hall has?
+For each dorm, how many amenities does it have?
+How many students are older than 20 in each dorm?
+How many female students live in Smith Hall?
+What amenities does Smith Hall have in alphabetical order?
+Which complaint status has more than 3 records on file?
+Return complaint status codes have more than 3 corresponding complaints?
+How many distinct complaint type codes are there in the database?
+Which state has the most customers?
+How many submissions are there?
+Which college has the most authors with submissions?
+Which authors have submitted to more than one workshop?
+Which authors did not submit to any workshop?
+How many available hotels are there in total?
+How many distinct names are associated with all the photos?
+Which transportation method is used the most often to get to tourist attractions?
+How many tourists did not make any visit?
+How many video games exist?
+How many video games do you have?
+How many video game types exist?
+What type of game is Call of Destiny?
+How many video games have type Massively multiplayer online game?
+Which game type has most number of games?
+What type has the most games?
+Which game type has least number of games?
+What is the type with the fewest games?
+How many sports do we have?
+How many different types of sports do we offer?
+How many students play sports?
+How many different students are involved in sports?
+How many games are played for all students?
+How many games are played for all football games by students on scholarship?
+How many students play each sport?
+Which sport has most number of students on scholarship?
+How many students play video games?
+How many different students play games?
+Which payment method is used by most customers?
+Which city has the most customers living in?
+Which city is post code 255 located in?
+For which countries are there more than four distinct addresses listed?
+Which contact channel codes were used less than 5 times?
+How many types of products have Rodrick Heaney bought in total?
+What is the total amount of products purchased before 2018-03-17 07:13:53?
+Who made the latest order?
+Which product has been ordered most number of times?
+How many artists are there?
+How many distinct artists have volumes?
+How many roller coasters are there?
+How many countries do not have an roller coaster longer than 3000?
+How many different captain ranks are there?
+How many captains are in each rank?
+Which rank is the most common among captains?
+Which classes have more than two captains?
+how many ships are there?
+Which flag is most widely used among all ships?
+In which year were most of ships built?
+Find the cities which were once a host city after 2010?
+Which cities served as a host city after 2010?
+Which city has hosted the most events?
+What is the temperature of "Shanghai" city in January?
+Which three cities have the largest regional population?
+Which city has the highest temperature in February?
+In February, which city marks the highest temperature?
+Give me a list of cities whose temperature in March is lower than that in July or higher than that in Oct?
+Which cities' temperature in March is lower than that in July or higher than that in Oct?
+Give me a list of cities whose temperature in Mar is lower than that in July and which have also served as host cities?
+Which cities have lower temperature in March than in Dec and have never served as host cities?
+Give me a list of cities whose temperature in Feb is higher than that in Jun or cities that were once host cities?
+Which cities have higher temperature in Feb than in Jun or have once served as host cities?
+Which cities have regional population above 10000000?
+Which cities have regional population above 8000000 or below 5000000?
+How many cities are there in state "Colorado"?
+Which is the email of the party that has used the services the most number of times?
+How many drivers are there?
+How many flights have a velocity larger than 200?
+How many airports haven't the pilot 'Thompson' driven an aircraft?
+How many companies operates airlines in each airport?
+which countries have more than 2 airports?
+which pilot is in charge of the most number of flights?
+How many statements do we have?
+How many projects are there?
+How many budget types do we have?
+How many documents have expenses?
+How many documents do not have any expense?
+How many scientists are there?
+How many different scientists are assigned to any project?
+How many different projects are there?
+How many scientists do not have any projects assigned to them?
+Which winery is the wine that has the highest score from?
+How many wines are produced at Robert Biale winery?
+How many appelations are in Napa Country?
+How many wines are there for each grape?
+Which wineries produce at least four wines?
+Which 3 wineries produce the most wines made from white grapes?
+How many train stations are there?
+How many vehicle in total?
+How many vehicles exist?
+How many staff have the first name Ludie?
+How many employees have a first name of Ludie?
+How many staff in total?
+How many employees are there?
+In what city does Janessa Sawayn live?
+In which country and state does Janessa Sawayn live?
+How many staff live in state Georgia?
+How many employees live in Georgia?
+How many customers in total?
+For each customer status code, how many customers are classified that way?
+Which customer status code has least number of customers?
+How many lessons did the customer Ryan Goodwin complete?
+Which city does has most number of customers?
+What is the city with the most customers?
+How many customers have no payment histories?
+For each payment method, how many payments were made?
+How many lessons were in cancelled state?
+How many lessons have been cancelled?
+Which last names are both used by customers and by staff?
+How many faculty do we have?
+What buildings have faculty offices?
+How many female Professors do we have?
+How many Professors are in building NEB?
+Which building has most faculty members?
+In which buildings are there at least ten professors?
+Which rank has the smallest number of faculty members?
+What activities do we have?
+How many activities do we have?
+How many activities does Mark Giuliano participate in?
+How many airlines are there?
+How many airlines does Russia has?
+Which country is the airport that has the highest altitude located in?
+How many airports' names have the word Interanation in them?
+How many different cities do have some airport in the country of Greenland?
+In how many cities are there airports in the country of Greenland?
+How many routes does American Airlines operate?
+How many routes end in a Canadian airport?
+Which countries has the most number of airlines?
+Which countries has the most number of airlines whose active status is 'Y'?
+How many airlines operate out of each country in descending order?
+How many airports are there per city in the US ordered from most to least?
+How many cities are there that have more than 3 airports?
+For each airport name, how many routes start at that airport?
+For each country and airline name, how many routes are there?
+How many routes go from the United States to Canada?
+How many architects are female?
+How many architects haven't built a mill before year 1850?
+How many book clubs are there?
+How many books are there for each publisher?
+How many books fall into each category?
+Which publishers did not publish a book in 1989?
+How many movie directors are there?

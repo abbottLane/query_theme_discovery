@@ -1,0 +1,242 @@
+What are the names of actors who are not 20 years old?
+What are the characters of actors in descending order of age?
+What are the distinct nominees of the musicals with the award that is not "Tony Award"?
+What are the names of actors and the musicals that they are in?
+What are the names of actors who have been in the musical titled The Phantom of the Opera?
+What are the names of musicals who have at 3 or more actors?
+Who is the nominee who has been nominated for the most musicals?
+Who are the nominees who have been nominated more than two times?
+What are the names of musicals who have no actors?
+Who are the nominees who have been nominated for both a Tony Award and a Drama Desk Award?
+Who are the nominees who were nominated for either of the Bob Fosse or Cleavant Derricks awards?
+How many tracks does each genre have and what are the names of the top 5?
+What are the titles of all the Aerosmith albums?
+What is title of album which track Balls to the Wall belongs to?
+What is the name of all tracks in the album named Balls to the Wall?
+What are the names of the albums that have more than 10 tracks?
+What are the names of all tracks that belong to the Rock genre and whose media type is MPEG?
+What are the names of the tracks that are Rock or Jazz songs?
+What are the names of all tracks that are on playlists titled Movies?
+What are the names of all playlists that have more than 100 tracks?
+What are the tracks that Dean Peeters bought?
+What are the names of all tracks that are on the Movies playlist but not in the music playlist?
+What are the names of all the tracks that are in both the Movies and music playlists?
+What are the names of artist who have the letter 'a' in their names?
+What is the name of the artist with the greatest number of albums?
+What are the names of tracks that contain the the word you in them?
+What are the durations of the longest and the shortest tracks in milliseconds?
+What are the names and ids of the different albums, and how many tracks are on each?
+What is the name of the most common genre in all tracks?
+What is the least common media type in all tracks?
+What is the name of the media type that is least common across all tracks?
+What are the titles and ids for albums containing tracks with unit price greater than 1?
+What is the average unit price of tracks that belong to Jazz genre?
+How many tracks are in the AAC audio file media type?
+What is the average duration in milliseconds of tracks that belong to Latin or Pop genre?
+What are the names and ids of artists with 3 or more albums, listed in alphabetical order?
+What are the names of artists who have not released any albums?
+What is the average unit price of rock tracks?
+What are the duration of the longest and shortest pop tracks in milliseconds?
+How many artists do not have any album?
+What are the album titles for albums containing both 'Reggae' and 'Rock' genre tracks?
+What is the date of the performance with the highest number of attendees?
+What are the names, ages, and countries of artists, sorted by the year they joined?
+How many artists are above age 46 and joined after 1990?
+What is the name and country for the artist with most number of exhibitions?
+What are the names of artists that have not had any exhibitions?
+What are the reigns and days held of all wrestlers?
+What are the times of elimination for any instances in which the elimination was done by Punk or Orton?
+What are the title and director of the films without any schedule?
+What are all the different first names of the drivers who are in position as standing and won?
+What are the names of all movies directed by Steven Spielberg?
+What is the name of the movie produced after 2000 and directed by James Cameron?
+What is the total number of ratings that has more than 3 stars?
+What is the lowest and highest rating star?
+In what years did a movie receive a 4 or 5 star rating, and list the years from oldest to most recently?
+What are the names of the directors who created a movie with a 5 star rating, and what was the name of those movies?
+What is the average number of stars that each reviewer awards for a movie?
+What are the titles of all movies that have not been rated?
+What is the average rating stars and title for the oldest movie?
+For the oldest movie listed, what is its average rating and title?
+What is the maximum stars and year for the most recent movie?
+What is highest rating for the most recent movie and when was it released?
+What is the names of movies whose created year is after all movies directed by Steven Spielberg?
+What are the names of all movies that were created after the most recent Steven Spielberg film?
+What are the titles and directors of the movies whose star is greater than the average stars of the movies directed by James Cameron?
+What are the titles and directors of all movies that have a rating higher than the average James Cameron film rating?
+What are the names of all reviewers that have rated 3 or more movies?
+What are the names of all the different reviewers who rates Gone with the Wind?
+What are the names of all directors whose movies have been reviewed by Sarah Martinez?
+What are the different reviewer names, movie titles, and stars for every rating where the reviewer had the same name as the director?
+What are the names of all the reviewers and movie names?
+What are the titles of all movies that were not reviewed by Chris Jackson?
+For all directors who have directed more than one movie, what movies have they directed and what are their names?
+For each director who directed more than one movie, what are the titles and dates of release for all those movies?
+What are the names of the directors who made exactly one movie?
+What are the names of all directors who made one movie?
+What are the names of the directors who made exactly one movie excluding director NULL?
+What are the names of all directors who have made one movie except for the director named NULL?
+What are the movie titles with the highest average rating and what are those ratings?
+What are the movie titles and average rating of the movies with the lowest average rating?
+What are the titles and average ratings for all movies that have the lowest average rating?
+What are the names and years of the movies that has the top 3 highest rating star?
+What are the names and years released for the movies with the top 3 highest ratings?
+For each director, what are the titles and ratings for all the movies they reviewed?
+For each director, what is the title and score of their most poorly rated movie?
+What is the name of the movie that is rated by most of times?
+What is the name of the movie that has been reviewed the most?
+What are the titles of all movies that have rating star is between 3 and 5?
+What are the titles of all movies that have between 3 and 5 stars?
+What are the names of the reviewers who have rated a movie more than 3 stars before?
+What is the average rating for each movie that has never been reviewed by Brittany Harris?
+For each movie that received more than 3 reviews, what is the average rating?
+What are names of the movies that are either made after 2000 or reviewed by Brittany Harris?
+What are the names of all movies that were made after 2000 or reviewed by Brittany Harris?
+What are names of the movies that are either made before 1980 or directed by James Cameron?
+What are the names of all movies made before 1980 or had James Cameron as the director?
+What are the names of reviewers who had rated 3 star and 4 star?
+What are the names of all reviewers that have given 3 or 4 stars for reviews?
+What are the names of movies that get 3 star and 4 star?
+What are the names of all movies that received 3 or 4 stars?
+What is the most popular first name of the actors?
+What is the most popular full name of the actors?
+What are the title and id of the film which has a rental rate of 0.99 and an inventory of below 3?
+What are the title and rental rate of the film with the highest rental rate?
+What are the title, id, and description of the movie with the greatest number of actors?
+What are the full names of actors who had roles in more than 30 films?
+What are the names and ids of the different categories, and how many films are in each?
+What is the title and id of the film that has the greatest number of copies in inventory?
+What are the titles of films that are either longer than 100 minutes or rated PG other than those that cost more than 200 to replace?
+What is the name of the song that was released in the most recent year?
+What is the name of the song that was released most recently?
+What is the id of the longest song?
+What are the names of all songs in English?
+What are the different names and countries of origins for all artists whose song ratings are above 9?
+What are the file sizes and formats for all songs with a resolution lower than 800?
+What are the names of the artists who sang the shortest song?
+What are the names of the singers who sang the top 3 most highly rated songs and what countries do they hail from?
+What is the count of the songs that last approximately 4 minutes?
+What is the average rating of songs produced by female artists?
+How many songs, on average, are sung by a female artist?
+What are the names of the artists that are from the UK and sang songs in English?
+What is the id of the files that are available in the format of mp4 and a resolution smaller than 1000?
+What is the country of origin of the artist who is female and produced a song in Bangla?
+What countries are the female artists who sung in the language Bangla from?
+What is the average duration of songs that have mp3 format and resolution below 800?
+What is the average song duration for the songs that are in mp3 format and whose resolution below 800?
+What is the number of artists for each gender?
+What is the average rating of songs for each language?
+What is the average song rating for each language?
+What is the gender and name of the artist who sang the song with the smallest resolution?
+How many songs were released for each format?
+What are the different names for all songs that have a higher resolution than English songs?
+What are the names of all songs that have a lower rating than some song of blues genre?
+What are the names of the songs that have a lower rating than at least one blues song?
+What is the name and country of origin of the artist who released a song that has "love" in its title?
+What are the names of the artists who released a song that has the word love in its title, and where are the artists from?
+What are the names and genders of all artists who released songs in the month of March?
+What are the names of all genres in alphabetical order, combined with its ratings?
+What are the names of all songs that are ordered by their resolution numbers?
+What are the ids of songs that are available in either mp4 format or have resolution above 720?
+What are the ids of all songs that are available on mp4 or have a higher resolution than 720?
+What are the names of all songs that are approximately 4 minutes long or are in English?
+What is the language used most often in the songs?
+What are the languages that are used most often in songs?
+What is the language that was used most often in songs with resolution above 500?
+What is the name of the artist, for each language, that has the most songs with a higher resolution than 500?
+What are the names of artists who are Male and are from UK?
+What are the names of all male British artists?
+What are the names of the songs that are modern or sung in English?
+What are the names of all songs that are in mp3 format and have a resolution lower than 1000?
+What are the names of all singers that are from the UK and released a song in English?
+What are the average rating and resolution of songs that are in Bangla?
+What is the average rating and resolution of all bangla songs?
+What is the maximum and minimum resolution of all songs that are approximately 3 minutes long?
+What are the maximum duration and resolution of all songs, for each language, ordered alphabetically by language?
+What are the shortest duration and lowest rating of songs grouped by genre and ordered by genre?
+What is the shortest and most poorly rated song for each genre, ordered alphabetically by genre?
+What are the names and number of works for all artists who have sung at least one song in English?
+What is the name and country of origin for each artist who has released a song with a resolution higher than 900?
+What are the names of the three artists who have produced the most songs, and how many works did they produce?
+Find the country of origin for the artist who made the least number of songs?
+What country is the artist who made the fewest songs from?
+What are the names of the songs whose rating is below the rating of all songs in English?
+What are the song names for every song whose rating is less than the minimum rating for English songs?
+What is ids of the songs whose resolution is higher than the resolution of any songs with rating lower than 8?
+What is the id of every song that has a resolution higher than that of a song with a rating below 8?
+What is ids of the songs whose resolution is higher than the average resolution of songs in modern genre?
+What are the ids of all songs that have higher resolution of the average resolution in the modern genre?
+What are the top 3 artists with the largest number of songs in the language Bangla?
+What is the id, genre, and name of the artist for every English song ordered by ascending rating?
+List the duration, file size and format of songs whose genre is pop, ordered by title?
+What is the duration, file size, and song format for every pop song, ordered by title alphabetically?
+What are the names of the different artists that have produced a song in English but have never receieved a rating higher than 8?
+What are the names of the different artists from Bangladesh who never received a rating higher than a 7?
+What are the manager's first name, last name and id who won the most manager award?
+Who are the owners of the programs that broadcast both in the morning and at night?
+What is the average ticket sales gross in dollars of films?
+Who are the different directors of films which had market estimation in 1995?
+What is the name of teh studio that created the most films?
+What are the names of studios that have made two or more films?
+What are the titles of films that do not have a film market estimation?
+What are the names of studios that have produced films with both Nicholas Meyer and Walter Hill?
+What are the titles and studios of films that have been produced by a studio whose name contains "Universal"?
+What are the titles and directors of the films were never presented in China?
+What are the total number of the audiences who visited any of the festivals?
+What are the first and last names of the performer who was in the back stage position for the song "Badlands"?
+What is the label that has the most albums?
+What is the label with the most albums?
+What is the last name of the musician that have produced the most number of songs?
+What is the last name of the musician who was in the most songs?
+What is the last name of the musician that has been at the back position the most?
+What is the last name of the musicians who has played back position the most?
+What is the song with the most vocals?
+What is the type of vocals that the band member with the last name "Heilo" played the most?
+How many songs have vocals of type lead?
+What are the names of the songs without a lead vocal?
+What are the albums produced in year 2010?
+What is the last name of the musician that have produced the most songs?
+What is the last name of the artist who sang the most songs?
+What are the different names of all songs without back vocals?
+What are the types of vocals that the band member with the first name "Solveig" played the most?
+What is the first name of the band mate who perfomed in the most songs?
+What is the vocal type of the band mate whose first name is "Marianne" played the most?
+What are the names of the songs that do not have back vocals?
+What are all the songs in albums under label "Universal Music Group"?
+What are the names and descriptions of the photos taken at the tourist attraction "film festival"?
+What are the names of the tourist attractions and the dates when the tourists named Vincent or Vivian visited there?
+What are the types of video games and how many are in each type?
+What is the total number of hours per work and number of games played by David Shieber?
+What is the name of the game that has been played the most?
+What are the ages of all music artists?
+What is the average age of all artists?
+What are the dates of ceremony and results for each music festival?
+What are the songs in volumes with more than 1 week on top?
+What are the the songs in volumes, listed in ascending order?
+What are the dates of ceremony at music festivals corresponding to volumes that lasted more than 2 weeks on top?
+What are the songs in volumes that have resulted in a nomination at music festivals?
+What are the songs in volumes associated with the artist aged 32 or older?
+What is the average weeks on top of volumes associated with the artist aged 25 or younger?
+What are the famous title of the artists associated with volumes with more than 2 weeks on top?
+What are the famous titles and ages of each artist, listed in descending order by age?
+What is the famous release date of the artist with the oldest age?
+What is the most common result of the music festival?
+What are the categories of music festivals for which there have been more than 1 music festival?
+What is the song in the volume with the maximum weeks on top?
+Return the song in the volume that has spent the most weeks on top?
+What are the famous titles of artists who do not have any volumes?
+What are the famous titles of artists who have not only had volumes that spent more than 2 weeks on top but also volumes that spent less than 2 weeks on top?
+How many music festivals have had each kind of result, ordered descending by count?
+What are the issue dates of volumes associated with the artist aged 23 or younger?
+Return the issue dates of volumes by artists who are at most 23 years old?
+What are the names of wines that are more expensive then all wines made in the year 2006?
+What are the titles and authors or editors that correspond to books made after 1989?
+What are the years, titles, and publishers for all books, ordered by year descending?
+What is the publisher with most number of books?
+What categories have two or more corresponding books that were made after 1989?
+What are the publishers who have published a book in both 1989 and 1990?
+What are the titles, years, and directors of all movies, ordered by budget in millions?
+What is the title and director for the movie with highest worldwide gross in the year 2000 or before?
+Which directors had a movie both in the year 1999 and 2000?
+Which directors had a movie in either 1999 or 2000?
+What are all company names that have a corresponding movie directed in the year 1999?

@@ -1,0 +1,339 @@
+Please show the themes of competitions with host cities having populations larger than 1000.
+List the most common type of Status across cities.
+Find the official names of cities with population bigger than 1500 or smaller than 500.
+For each city, return the highest latitude among its stations.
+For each zip code, return the average mean temperature of August there.
+Which start station had the most trips starting from August? Give me the name and id of the station.
+What are the ids of stations that are located in San Francisco and have average bike availability above 10.
+Give me ids for all the trip that took place in a zip code area with average mean temperature above 60.
+Which trip started from the station with the largest dock count? Give me the trip id.
+Count the number of trips that did not end in San Francisco city.
+Find the ids and names of stations from which at least 200 trips started.
+Find the zip code in which the average mean visibility is lower than 10.
+For each zip code, select all those that have an average mean visiblity below 10.
+What are the dates that had the top 5 cloud cover rates? Also tell me the cloud cover rate.
+For each station, return its longitude and the average duration of trips that started from the station.
+For each station, find its latitude and the minimum duration of trips that ended at the station.
+Find the id for the trips that lasted at least as long as the average duration of trips in zip code 94103.
+Find the day in which the difference between the max temperature and min temperature was the smallest. Also report the difference.
+Give me the zip code where the average mean humidity is below 70 and at least 100 trips took place.
+Show publishers that have more than one publication.
+Show me the departure date and arrival date for all flights from Los Angeles to Honolulu.
+What is the average price for flights from Los Angeles to Honolulu.
+What is the average distance and average price for flights from Los Angeles.
+Give the city that the student whose family name is Kim lives in.
+Give the different locations of tracks.
+Find the locations where have both tracks with more than 90000 seats and tracks with less than 70000 seats.
+Find the id and address of the shops whose score is below the average score.
+Find the address and staff number of the shops that do not have any happy hour.
+which shop has happy hour most frequently? List its id and number of happy hours.
+Find all the customer information in state NY.
+Find the full names of employees living in the city of Calgary.
+Find the cities corresponding to employees who help customers with the postal code 70174.
+Find the number of different cities that employees live in.
+Find the address of all customers that live in Germany and have invoice.
+Find the birth dates corresponding to employees who live in the city of Edmonton.
+Find the accreditation level that more than 3 phones use.
+List the countries that have more than one mountain.
+Give me a list of all the distinct building descriptions.
+Which buildings does "Emma" manage? Give me the short names of the buildings.
+Give me the minimum and maximum bathroom count among all the apartments.
+Find the average number of bedrooms of all the apartments.
+Find the average room count of the apartments that have the "Studio" type code.
+Which apartments have type code "Flat"? Give me their apartment numbers.
+Find the booking start date and end date for the apartments that have more than two bedrooms.
+Show the facility codes of apartments with more than 4 bedrooms.
+Show the addresses of the buildings that have apartments with more than 2 bathrooms.
+Which buildings have apartments that have more than two bathrooms? Give me the addresses of the buildings.
+Return the apartment number with the largest number of bedrooms.
+Show the apartment type code that has the largest number of total rooms, together with the number of bathrooms and number of bedrooms.
+Show the most common apartment type code among apartments with more than 1 bathroom.
+Find the number of apartments that have no facility.
+Which apartments have bookings with both status codes "Provisional" and "Confirmed"? Give me the apartment numbers.
+Which apartments have unit status availability of both 0 and 1? Return their apartment numbers.
+Find the id and name of the stadium where the largest number of injury accidents occurred.
+Show the locations that have at least two performances.
+Show the locations that have both performances with more than 2000 attendees and performances with less than 1000 attendees.
+Find the buildings which have rooms with capacity more than 50.
+Count the number of rooms that are not in the Lamberton building.
+Count the number of rooms in Lamberton with capacity lower than 50.
+Find the number of rooms with more than 50 capacity for each building.
+Find the maximum and average capacity among rooms in each building.
+Show the opening year in whcih at least two churches opened.
+Return the different countries for artists.
+Find the names of schools that have more than one donator with donation amount above 8.5.
+List the names of buildings with at least 200 feet of height and with at least 20 floors.
+Show all the locations where no cinema has capacity over 800.
+Show the cinema name and location for cinemas with capacity above average.
+Find the distinct locations that has a cinema.
+Show each location and the number of cinemas there.
+Show all the locations with at least two cinemas with capacity above 300.
+Find the locations that have more than one movie theater with capacity above 300.
+Show the names of phones and the districts of markets they are on.
+Show the company name and the main industry for all companies whose headquarters are not from USA.
+Show all main industry for all companies.
+Show headquarters with at least two companies in the banking industry.
+Show all headquarters without a company in banking industry.
+Show the company name with the number of gas station.
+Show company name and main industry without a gas station.
+Show the manager name for gas stations belonging to the ExxonMobil company.
+order all gas station locations by the opening year.
+find the location and Representative name of the gas stations owned by the companies with top 3 Asset amounts.
+Find the names of departments that are located in Houston.
+Report the name of all campuses in Los Angeles county.
+Find the name of the campuses that is in Northridge, Los Angeles or in San Francisco, San Francisco.
+List the campuses in Los Angeles county.
+Show the number of cities in counties that have a population more than 20000.
+Show the names of cities in counties that have a crime rate less than 100.
+Find the names of all modern rooms with a base price below $160 and two beds.
+What are the names of modern rooms that have a base price lower than $160 and two beds.
+Find all the rooms that have a price higher than 160 and can accommodate more than 2 people. Report room names and ids.
+What are the room names and ids of all the rooms that cost more than 160 and can accommodate more than two people.
+Find the most popular room in the hotel. The most popular room is the room that had seen the largest number of reservations.
+How many times does ROY SWEAZY has reserved a room.
+Which room has the highest rate? List the room's full name, rate, check in and check out date.
+Find the total number of king beds available.
+List the names and decor of rooms that have a king bed. Sort the list by their price.
+Which room has cheapest base price? List the room's name and the base price.
+Find the first and last names of people who payed more than the rooms' base prices.
+Find the number of rooms with a king bed.
+Find the number of rooms for each bed type.
+Find the name of the room with the maximum occupancy.
+Find the id and name of the most expensive base price room.
+Find the number of rooms with king bed for each decor type.
+How many rooms have king beds? Report the number for each decor type.
+Find the number of rooms with price higher than 120 for different decor.
+Find the number of distinct bed types available in this inn.
+Find the name and id of the top 3 expensive rooms.
+Find the name of rooms whose price is higher than the average price.
+What are the name of rooms that cost more than the average.
+Find the number of rooms that do not have any reservation.
+Find the names of rooms that have been reserved for more than 60 times.
+Find the name of rooms whose base price is between 120 and 150.
+Which rooms cost between 120 and 150? Give me the room names.
+Find the name of rooms booked by some customers whose first name contains ROY.
+Give me the theme and location of each party.
+Which party had the most hosts? Give me the party location.
+How many hosts does each nationality have? List the nationality and the count.
+Which parties have hosts of age above 50? Give me the party locations.
+Show the host names for parties with number of hosts greater than 20.
+Which parties have more than 20 hosts? Give me the host names for these parties.
+Which county do the delegates on "Appropriations" committee belong to? Give me the county names.
+Which county has the largest population? Give me the name of the county.
+What are the 3 counties that have the smallest population? Give me the county names.
+Which counties have two or more delegates? Give me the county names.
+Show me all the restaurants.
+Which restaurants have highest rating? List the restaurant name and its rating.
+Find the names of customers who are not living in the state of California.
+Find the names and phone numbers of customers living in California state.
+Find the name of route that has the highest number of deliveries.
+Find the country that the most papers are affiliated with.
+Which city has the most addresses? List the city name, number of addresses, and city id.
+Return the address of store 1.
+Count the number of items store 1 has in stock.
+Find the number of customers in the banks at New York City.
+Find the average number of customers in all banks of Utah state.
+Find the city and state of the bank branch named morningside.
+Find the branch names of banks in the New York state.
+Find the number of different cities which banks are located at.
+Find the number of different states which banks are located at.
+Find the branch name of the bank that has the most number of customers.
+Find the state which has the most number of customers.
+Find the city and name of bank branches that provide business loans.
+Find the maximum and minimum monthly rental for all student addresses.
+Find all information about student addresses, and sort by monthly rental in descending order.
+Find the id and city of the student address with the highest average monthly rental.
+Give me the times and numbers of all trains that go to Chennai, ordered by time.
+Find the number and time of the train that goes from Chennai to Guruvayur.
+Find the number of trains starting from each origin.
+Find the name of the train whose route runs through greatest number of stations.
+Find the number of trains for each station, as well as the station network name and services.
+Find names and times of trains that run through stations for the local authority Chiltern.
+Find the id and local authority of the station with has the highest average high temperature.
+Find the id and local authority of the station whose maximum precipitation is higher than 50.
+Find the origins from which more than 1 train starts.
+Which manufacturer has the most number of shops? List its name and year of opening.
+Find the average number of factories for the manufacturers that have more than 20 shops.
+Give me the name and year of opening of the manufacturers that have either less than 10 factories or more than 10 shops.
+Find the id and number of shops for the company that produces the most expensive furniture.
+Give me the names and prices of furnitures which some companies are manufacturing.
+Find employee with ID and name of the country presently where (s)he is working.
+find the name of all departments that do actually have one or more employees assigned to them.
+Show me the number of parks the state of NY has.
+Which team offers the lowest average salary? Give me the name and id of the team.
+Find the number of games taken place in city Atlanta in 2000.
+List the names of states that have more than 2 parks.
+Find all the cities that have 2 to 4 parks.
+Find the names of channels that are not owned by CCTV.
+Which channels are not owned by CCTV? Give me the channel names.
+Show me the owner of the channel with the highest rating.
+find the total percentage share of all channels owned by CCTV.
+Find the names of the channels that are broadcast in the morning.
+Which channels are broadcast in the morning? Give me the channel names.
+Which channels broadcast both in the morning and at night? Give me the channel names.
+find the number of different programs that are broadcast during night time.
+find the program owners that have some programs in both morning and night time.
+Find the name of the program that is broadcast most frequently.
+Which program is broadcast most frequently? Give me the program name.
+Find the number of rooms located on each block floor.
+Tell me the distinct block codes where some rooms are available.
+Find the number of distinct room types available.
+Find the names of all patients who have an undergoing treatment and are staying in room 111.
+What nurses are on call with block floor 1 and block code 1? Tell me their names.
+Find the ids of the nurses who are on call in block floor 1 and block code 1.
+Show the most common headquarter for companies.
+Show the headquarters that have at least two companies.
+Show the headquarters that have both companies in banking industry and companies in oil and gas industry.
+Show the names of employees that work for companies with sales bigger than 200.
+Count the number of markets that have a number of cities lower than 300.
+Who is the president of the club "Bootup Baltimore"? Give me the first and last name.
+Which clubs have one or more members from the city with code "BAL"? Give me the names of the clubs.
+Which clubs have one or more members from the city with code "HOU"? Give me the names of the clubs.
+Find the stories of the building with the largest height.
+List the name of a building along with the name of a company whose office is in the building.
+Show the names of the buildings that have more than one company offices.
+Which buildings have more than one company offices? Give me the building names.
+Show the name of the building that has the most company offices.
+Which building has the largest number of company offices? Give me the building name.
+List the names of buildings that have no company office.
+Which buildings do not have any company office? Give me the building names.
+Show the headquarters shared by more than two companies.
+Give the phones for departments in room 268.
+Find the names of departments that are either in division AS or in division EN and in Building NEB.
+Please show the names and descriptions of aircrafts associated with airports that have a total number of passengers bigger than 10000000.
+Show all information on the airport that has the largest number of international passengers.
+Find all types of store and number of them.
+Find the names of all stores in Khanewal District.
+Find all the stores in the district with the most population.
+Find the number of stores in each city.
+Find the city with the most number of stores.
+Find the names of districts where have both city mall and village store type stores.
+Find the name, enrollment of the colleges whose size is bigger than 10000 and location is in state LA.
+Find the states where have some college students in tryout.
+Find the names of either colleges in LA with greater than 15000 size or in state AZ with less than 13000 enrollment.
+Find the city the store named "FJA Filming" is in.
+Find the states or counties where the stores with marketing region code "CA" are located.
+Which marketing region has the most drama workshop groups? Give me the region code.
+Show all cities where at least one customer lives in but no performer lives in.
+Find the total revenue created by the companies whose headquarter is located at Austin.
+Give the distinct headquarters of manufacturers.
+Find the number of manufactures that are based in Tokyo or Beijing.
+Find the name of companies whose revenue is between 100 and 150.
+Find the name of companies whose revenue is smaller than the revenue of all companies based in Austin.
+Find the total revenue of companies whose revenue is larger than the revenue of some companies based in Austin.
+Find the name and revenue of the company that earns the highest revenue in each city.
+Find the number of different products that are produced by companies at different headquarter cities.
+Find the name of companies that do not make DVD drive.
+List all open years when at least two shops are opened.
+Show minimum and maximum amount of memberships for all branches opened in 2011 or located at city London.
+Find the name of branches where have some members whose hometown is in Louisville, Kentucky and some in Hiram, Georgia.
+Return the code of the city that has the most students.
+Find the name of the stadium that has the maximum capacity.
+Find the names of stadiums whose capacity is smaller than the average capacity.
+Find the country that has the most stadiums.
+Show the id and builder of the railway that are associated with the most trains.
+Show the most common builder of railways.
+Show the locations that have more than one railways.
+List the object number of railways that do not have any trains.
+Find the name of dorms that can accommodate more than 300 students.
+Find the number of distinct amenities.
+Find the total capacity of all dorms.
+Find the number of dorms that have some amenity.
+Find the numbers of different majors and cities.
+Find the name of dorms which have both TV Lounge and Study Room as amenities.
+Find the name of dorms which have TV Lounge but no Study Room as amenity.
+Find the name of the dorm with the largest capacity.
+Find the code of city where most of students are living in.
+Find the number of amenities for each of the dorms that can accommodate more than 100 students.
+Find the name of amenity that is most common in all dorms.
+Find the first name of students who are living in the dorm that has most number of amenities.
+Find the name and capacity of the dorm with least number of amenities.
+Find the name of dorms that do not have amenity TV Lounge.
+Find the first and last name of students who are living in the dorms that have amenity TV Lounge.
+Find the first name and age of students who are living in the dorms that do not have amenity TV Lounge.
+Find the phone number of all the customers and staff.
+Give the state that has the most customers.
+Find the total number of available hotels.
+Tell me the price ranges for all the hotels.
+Show the price ranges of hotels with 5 star ratings.
+Show the average price range of hotels that have 5 star ratings and allow pets.
+Which tourist attractions can we get to by bus? Tell me the names of the attractions.
+Find the names and opening hours of the tourist attractions that we get to by bus or walk.
+Give me the star rating descriptions of the hotels that cost more than 10000.
+Give me the detail and opening hour for each museum.
+Which tourist attractions are related to royal family? Tell me their details and how we can get there.
+Find the details of the shops that can be reached by walk.
+Find the details of all the markets that are accessible by walk or bus.
+Show the average price of hotels for each star rating code.
+Show the average price of hotels for different pet policy.
+What are the average prices of hotels grouped by their pet policy.
+Show the details of the top 3 most expensive hotels.
+Show the details and star ratings of the 3 least expensive hotels.
+Show the transportation method most people choose to get to tourist attractions.
+Which attraction type does the most tourist attractions belong to? Tell me its  attraction type description and code.
+Show different ways to get to attractions and the number of attractions that can be accessed in the corresponding way.
+List all the possible ways to get to attractions, together with the number of attractions accessible by these methods.
+Show the names and ids of tourist attractions that are visited at least two times.
+Which tourist attractions are visited at least twice? Give me their names and ids.
+Show the names and ids of tourist attractions that are visited at most once.
+Find the names of the tourist attractions that is either accessible by walk or at address 660 Shea Crescent.
+Find the tourist attractions that have parking or shopping as their feature details. What are the names of the attractions?
+Find the names of the tourist attractions that is either accessible by bus or at address 254 Ottilie Junction.
+Which tourist attractions do the tourists Vincent and Marcelle visit? Tell me the names of the attractions.
+Find the number of customers who live in the city called Lake Geovannyton.
+Find the list of cities that no customer is living in.
+Find the city where the most customers live.
+Find the city with post code 255.
+Please show the most common status of roller coasters.
+Show the park of the roller coaster with the highest speed.
+Show the names of countries that have more than one roller coaster.
+Show the name and population of the country that has the highest roller coaster.
+Find the ship type that are used by both ships with Panama and Malta flags.
+Find the city that hosted some events in the most recent year. What is the id of this city?
+Find the city that hosted the most events.
+Which city has the lowest GDP? Please list the city name and its GDP.
+Give me a list of cities whose temperature in Mar is lower than that in Dec and which have never been host cities.
+Please give me a list of cities whose regional population is over 10000000.
+Please give me a list of cities whose regional population is over 8000000 or under 5000000.
+Find the GDP of the city with the largest regional population.
+Which cities have served as host cities more than once? Return me their GDP and population.
+Find the name of all the cities and states.
+Show the home city with the most number of drivers.
+Show the party with drivers from Hartford and drivers older than 40.
+Show home city where at least two drivers older than 40 are from.
+find the name of driver who is driving the school bus with the longest working history.
+Find the name of projects that require between 100 and 300 hours of work.
+Find the wineries that have at least four wines.
+Show all locations that have train stations with at least 15 platforms and train stations with more than 25 total passengers.
+Show all locations which don't have a train station with at least 15 platforms.
+Show the location with most number of train stations.
+Find the names of the trains that do not pass any station located in London.
+Which city lives most of staffs? List the city name and number of staffs.
+List the states which have between 2 to 4 staffs living there.
+Find the number of activities available.
+Find the name of the airport in the city of Goroka.
+Find the name, city, country, and altitude (or elevation) of the airports in the city of New York.
+Find the name of the airports located in Cuba or Argentina.
+Find the name of airports whose altitude is between -50 and 50.
+Find the number of routes operated by American Airlines.
+Find the number of routes whose destination airports are in Canada.
+Find the name, city, and country of the airport that has the lowest altitude.
+Find the name, city, and country of the airport that has the highest latitude.
+Find the name and city of the airport which is the destination of the most number of routes.
+Find the names of the top 10 airlines that operate the most number of routes.
+Find the name and city of the airport which is the source for the most number of flight routes.
+Find the number of different airports which are the destinations of the American Airlines.
+How many airports are there per city in the United States? Order the cities by decreasing number of airports.
+Return the cities with more than 3 airports in the United States.
+List the cities which have more than one airport and number of airports.
+List the cities which have more than 2 airports sorted by the number of airports.
+Find the number of routes for each source airport and the airport name.
+Find the average elevation of all airports for each country.
+Find the cities which have exactly two airports.
+Find the number of routes with destination airports in Italy.
+Find the number of routes that have destination John F Kennedy International Airport.
+Find the number of routes from the United States to Canada.
+Find the id of routes whose source and destination airports are in the United States.
+Find the name of airline which runs the most number of routes.
+Find the busiest source airport that runs most number of routes in China.
+Find the busiest destination airport that runs most number of routes in China.

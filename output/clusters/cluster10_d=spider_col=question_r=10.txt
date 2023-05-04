@@ -1,0 +1,315 @@
+Show the name and number of employees for the departments managed by heads whose temporary acting value is 'Yes'?
+Show the census ranking of cities whose status are not "Village".
+Find id of candidates whose assessment code is "Pass"?
+Show the prices of publications whose publisher is either "Person" or "Wiley"
+Show names of actors that have appeared in musical with name "The Phantom of the Opera".
+Show the nominees that have nominated musicals for both "Tony Award" and "Drama Desk Award".
+Show the musical nominee with award "Bob Fosse" or "Cleavant Derricks".
+Find the emails of the user named "Mary".
+Find the names of users whose emails contain ‘superstar’ or ‘edu’.
+Return the text of tweets about the topic 'intern'.
+Find the names of the users whose number of followers is greater than that of the user named "Tyler Swift".
+Find the attribute data type for the attribute named "Green".
+Find all the catalog publishers whose name contains "Murray"
+Find the entry name of the catalog with the highest price (in USD).
+Find the level name of the catalog with the lowest price (in USD).
+Find the names of all the products whose stock number starts with "2".
+Find the name and capacity of products with price greater than 700 (in USD).
+List the name of albums that are released by aritist whose name has 'Led'
+Show the date valid from and the date valid to for the card with card number '4560596484842'.
+Show the account id and the number of transactions for each account
+Give the names of tracks that do not have a race in the class 'GT'.
+Find the title of all the albums of the artist "AC/DC".
+Find the number of albums by the artist "Metallica".
+Find the name of the artist who made the album "Balls to the Wall".
+Find the names of all the tracks that contain the word "you".
+Count the number of customers that have an email containing "gmail.com".
+Count the number of tracks that are of the media type "AAC audio file".
+Count the total number of policies used by the customer named "Dayana Robel".
+Tell me the types of the policy used by the customer named "Dayana Robel".
+Find the names of customers who have used either the service "Close a policy" or the service "Upgrade a policy".
+Find the names of customers who have used both the service "Close a policy" and the service "New policy application".
+Find the IDs of customers whose name contains "Diana".
+Retrieve the open and close dates of all the policies associated with the customer whose name contains "Diana"
+Show the medicine names and trade names that cannot interact with the enzyme with product 'Heme'.
+Find how many school locations have the word 'NY'.
+Find the Char cells, Pixels and Hardware colours for the screen of the phone whose hardware model name is "LG-P760".
+List the hardware model name and company name for the phone whose screen mode type is "Graphics."
+List the hardware model name for the phones that were produced by "Nokia Corporation" or whose screen mode type is "Graphics."
+Show all official native languages that contain the word "English".
+Show the positions of the players from the team with name "Ryley Goldner".
+Show the players and years played for players from team "Columbus Crew".
+Show the distinct names of mountains climbed by climbers from country "West Germany".
+Show the short names of the buildings managed by "Emma".
+Show the addresses and phones of all the buildings managed by "Brenden".
+Find all the building full names containing the word "court".
+Return the apartment numbers of the apartments with type code "Flat".
+Return the first names and last names of all guests
+Return the date of birth for all the guests with gender code "Male".
+Return the booking start date and end date for the apartments that have type code "Duplex".
+Tell me the booking status code for the apartment with number "Suite 634".
+Show the distinct apartment numbers of the apartments that have bookings with status code "Confirmed".
+Show the average room count of the apartments that have booking status code "Provisional".
+Show the start dates and end dates of all the apartment bookings made by guests with gender code "Female".
+Show the first names and last names of all the guests that have apartment bookings with status code "Confirmed".
+Show the total number of rooms of all apartments with facility code "Gym".
+Find the total number of rooms in the apartments that have facility code "Gym".
+Show the total number of rooms of the apartments in the building with short name "Columbus Square".
+Show the apartment type codes and apartment numbers in the buildings managed by "Kyle".
+Show the apartment numbers of apartments with bookings that have status code both "Provisional" and "Confirmed"
+Show the attendances of the performances at location "TD Garden" or "Bell Centre"
+Show the dates of performances with attending members whose roles are "Violin".
+Find the department name of the instructor whose name contains 'Soisalon'.
+Find all the policy type codes associated with the customer "Dayana Robel"
+Find the names of customers whose name contains "Diana".
+Find the description of the claim status "Open".
+Show the id, the account name, and other account details for all accounts by the customer with first name 'Meaghan'.
+Show the pair of male and female names in all weddings after year 2014
+Find the id of the item whose title is "orange".
+List the titles of all items in alphabetic order .
+List the name and residence for players whose occupation is not "Researcher".
+Show the names of sponsors of players whose residence is either "Brandon" or "Birtle".
+Show the residences that have both a player of gender "M" and a player of gender "F".
+Find the balance of the checking account belonging to an owner whose name contains 'ee'.
+List the names of the browser that are compatible with both 'CACHEbox' and 'Fasterfox'.
+Show the accelerator names and supporting operating systems that are not compatible with the browser named 'Opera'.
+give me names of all compatible browsers and accelerators in the descending order of compatible year
+Show the teams that have both wrestlers eliminated by "Orton" and wrestlers eliminated by "Benjamin".
+Show the times of elimination by "Punk" or "Orton".
+Show the names of donors who donated to both school "Glenn" and "Triton."
+Show the names and locations of institutions that are founded after 1990 and have the type "Private".
+Count the number of films whose title contains the word 'Dummy'.
+Show the names of phones with carrier either "Sprint" or "TMobile".
+Show the names of pilots from team "Bradley" or "Fordham".
+List the name of technicians whose team is not "NYY".
+Show the starting years shared by technicians from team "CLE" and "CWS".
+Find the average height and weight for all males (sex is M).
+Return the decor of the room named "Recluse and defiance".
+Show the first year and last year of parties with theme "Spring" or "Teqnology".
+Show all storm names affecting region "Denmark".
+Show the zip code of the county with name "Howard".
+Find the distinct years when the governor was named "Eliot Spitzer".
+Show the names of journalists from "England" or "Wales".
+Find the ids of orders whose status is 'Success'.
+Find the titles of all the papers written by "Jeremy Gibbons"
+Find all the papers published by "Aaron Turon".
+Find the titles of all the papers written by "Aaron Turon".
+Find the first names and last names of the authors whose institution affiliation is "University of Oxford".
+Find the first names and last names of the authors whose institution affiliation is "Google".
+Find the first and last name of the author(s) who wrote the paper "Nameless, Painless".
+List the titles of the papers whose authors are from the institution "Indiana University".
+Find all the papers published by the institution "Google".
+Find the number of papers published by authors from the institution "Tokohu University".
+Find the number of papers published by the institution "University of Pennsylvania".
+Find papers whose second author has last name "Turon" and is affiliated with an institution in the country "USA".
+Find the titles of the papers that contain the word "ML".
+Find the first names of all the authors who have written a paper with title containing the word "Functional".
+Find the last names of all the authors that have written a paper with title containing the word "Monadic".
+Find the last name of the author with first name "Amal".
+Give me a list of all the last names of authors sorted in alphabetical order
+Give the phone and postal code corresponding to the address '1031 Daugavpils Parkway'.
+Return the first names of customers who did not rented a film after the date '2005-08-23 02:06:01'.
+Find the first names of teachers whose email address contains the word "man".
+Find the id and last name of the teacher that has the most detentions with detention type code "AFTER"?
+Find the dates of assessment notes for students with first name "Fanny".
+Find the texts of assessment notes for teachers with last name "Schuster".
+Find the start and end dates of behavior incidents of students with last name "Fahey".
+Find the start and end dates of detentions of teachers with last name "Schultz".
+Find the name of department that offers the class whose description has the word "Statistics".
+Show the names of clubs that have players with position "Right Wing".
+Display the first name, and department number for all employees whose last name is "McEwen".
+display the employee id and salary of all employees who report to Payam (first name).
+Compute the average salary of the players in the team called 'Boston Red Stockings'.
+Count the number of players who were born in USA and have bats information 'R'.
+Find the average height of the players who belong to the college called 'Yale University'.
+Find the number of team franchises that are active (have 'Y' as "active" information).
+Show the name and prominence of the mountains whose picture is not taken by a lens of brand 'Sigma'.
+List the camera lens names containing substring "Digital".
+List the names of all the channels owned by either CCTV or HBS
+Return the description for the courses named "database".
+Return the addresses of the course authors or tutors whose personal name is "Cathrine".
+Find the dates of the tests taken with result "Pass".
+Return the login names of the students whose family name is "Ward".
+Find the latest logon date of the students whose family name is "Jaskolski" or "Langosh".
+Find the login name of the course author that teaches the course with name "advanced database".
+Find the addresses of the course authors who teach the course with name "operating system" or "data structure".
+Find the names of courses taught by the tutor who has personal name "Julio".
+Find the names and descriptions of courses that belong to the subject named "Computer Science".
+List the dates of enrollment and completion of the student with personal name "Karson".
+List the dates of enrollment and completion of the student with family name "Zieme" and personal name "Bernie".
+Find the student ID and login name of the student with the most course enrollments
+Find the name of physicians whose position title contains the word 'senior'.
+List the name of ships whose nationality is not "United States".
+Show the distinct fate of missions that involve ships with nationality "United States"
+List the name of ships that are not involved in any mission
+Show the names of companies and the number of employees they have
+List the names of people that are not employed by any company
+Show the studios that have produced films with director "Nicholas Meyer" and "Walter Hill".
+Find the titles and studios of the films that are produced by some film studios that contained the word "Universal".
+Show the studios that have not produced films with director "Walter Hill".
+Find the code of the document type "Paper".
+Find the document type name of the document named "How to read a book".
+Show the location code of the country "Canada".
+Find the name and description of the role with code "MG".
+Show the description for role name "Proof Reader".
+Show the name, role code, and date of birth for the employee with name 'Armani'.
+Show the names of all the employees with role "HR".
+Find the names of all the employees whose the role name is "Editor".
+Show the employee ids for all employees with role name "Human Resource" or "Manager".
+Show the location name for document "Robin CV".
+Find the starting date and ending data in location for the document named "Robin CV".
+Find the last names of the members of the club "Bootup Baltimore".
+Return the last name for the members of the club named "Hopkins Student Enterprises".
+Count the members of the club "Tennis Club".
+Find the number of members of club "Pen and Paper Gaming".
+Give me the first name and last name for all the female members of the club "Bootup Baltimore".
+Find the club which has the largest number of members majoring in "600".
+Find the description of the club called "Tennis Club".
+Find the description of the club "Pen and Paper Gaming".
+Find the location of the club "Pen and Paper Gaming".
+Tell me the location of the club "Hopkins Student Enterprises".
+Find the name of all the clubs at "AKW".
+Count the number of clubs located at "HHH".
+Find the first name and last name for the "CTO" of the club "Hopkins Student Enterprises"?
+Count the number of different positions in the club "Bootup Baltimore".
+Find the names of all the clubs that have at least a member from the city with city code "BAL".
+Find the names of the clubs that have at least a member from the city with city code "HOU".
+List the clubs that have at least a member with advisor "1121".
+Find the average age of the members in the club "Bootup Baltimore".
+Find the average age of members of the club "Hopkins Student Enterprises".
+Retrieve the average age of members of the club "Tennis Club".
+Compute the average age of the members in the club "Tennis Club".
+Find the organisation ids and details of the organisations which are involved in
+List the project details of the projects with the research outcome described with the substring 'Published'.
+Find the organisation type description of the organisation detailed as 'quo'.
+List the project details of the projects launched by the organisation
+Show the names of members whose country is "United States" or "Canada".
+Show the distinct leader names of colleges associated with members from country "Canada".
+Return the type code of the document named "David CV".
+Give the section titles of the document with the name "David CV".
+Find the average access counts of documents with functional area "Acknowledgement".
+List all the document names which contains "CV".
+Find the names of the companies whose headquarters are not located in "USA".
+Sort all the industries in descending order of the count of companies in each industry
+Show the industries shared by companies whose headquarters are "USA" and companies whose headquarters are "China".
+Find the number of companies whose industry is "Banking" or "Conglomerate",
+Show the prices of the products named "Dining" or "Trading Policy".
+List the name of artworks whose type is not "Program Talent Show".
+Show the names of festivals that have nominated artworks of type "Program Talent Show".
+Show the name and phone for customers with a mailshot with outcome code 'No Response'.
+Show the names of customers who have at least 2 mailshots with outcome code 'Order'.
+Find the number of students that have at least one grade "B".
+Find the first names of students whose first names contain letter "a".
+Find the department name that is in Building "Mergenthaler".
+Find the first name and last name of the instructor of course that has course name
+Please show the names of aircrafts associated with airport with name "London Gatwick".
+Show the names of aircrafts that are associated with both an airport named "London Heathrow" and an airport named "London Gatwick"
+Find the list of page size which have more than 3 product listed
+Find the name and population of district with population between 200000 and 2000000
+Find the name all districts with city area greater than 10 or population larger than 100000
+Find all the product whose name contains the word "Scanner".
+Find the players whose names contain letter 'a'.
+List the open date of open year of the shop named "Apple".
+Find the phone number and email address of customer "Harold".
+Find the phone number of performer "Ashley".
+List the distinct payment method codes with the number of orders made
+What are the states or counties of the address of the stores with marketing region code "CA"?
+Compute the total order quantities of the product "photo".
+List the actual delivery date for all the orders with quantity 1
+Check the invoices record and compute the average quantities ordered with the payment method "MasterCard".
+Find all the stage positions of the musicians with first name "Solveig"
+Find all the songs performed by artist with last name "Heilo"
+Find all the songs produced by artists with first name "Marianne".
+Find all the songs whose name contains the word "the".
+Find the number of vocal types used in song "Le Pop"
+Find the founder of the company whose name begins with the letter 'S'.
+Select the name and price of all products with a price larger than or equal to $180, and sort first by price (in descending order), and then by name  (in ascending order).
+list the card number of all members whose hometown address includes word "Kentucky".
+Show the advisors of the students whose city of residence has city code "BAL".
+Return the names of products in the category 'Spices'.
+List the names, color descriptions and product descriptions of products with category "Herbs".
+Count the number of products in the category 'Seeds'.
+Return the category code and typical price of 'cumin'.
+Give the name of the products that have a color description 'yellow'.
+Find the category descriptions of the products whose descriptions include letter 't'.
+Give the color description for the product 'catnip'.
+Return the color code and description for the product with the name 'chervil'.
+List all the product names with the color description "white".
+List all the characteristic names and data types of product "cumin".
+List all characteristics of product named "sesame" with type code "Grade".
+Count the number of characteristics of the product named 'laurel'.
+Find the name of the products that have the color description "red" and have the characteristic name "fast".
+List the all the distinct names of the products with the characteristic name 'warm'.
+Find the number of the products that have their color described as "red" and have a characteristic named "slow".
+Count the products that have the color description "white" or have the characteristic name "hot".
+Find the product category description of the product category with code "Spices".
+Give the unit of measure for the product with the name 'cumin'.
+Find the unit of measurement and product category code of product named "chervil".
+Find the product names that are colored 'white' but do not have unit of measurement "Handful".
+Find all 200 meter and 300 meter results of swimmers with nationality "Australia".
+Find the names of swimmers who has a result of "win".
+Find the name of dorms only for female (F gender).
+Find the name of dorms that do not have any amenity
+Find the total number of students living in the male dorm (with gender M).
+Find the number of female students (with F sex) living in Smith Hall
+Return the description of the product called "Chocolate".
+Find the last name of the staff whose email address contains "wrau".
+Find the address line 1 and 2 of the customer with email "vbogisich@example.org".
+Show the names of authors from college "Florida" or "Temple"
+Show all transaction ids with transaction code 'PUR'.
+Show all dates of transactions whose type code is "SALE".
+Show the average amount of transactions with type code "SALE".
+Show the description of transaction type with code "PUR".
+Show the maximum share count of transactions where the amount is smaller than 10000
+Show the ids and details of the investors who have at least two transactions with type code "SALE".
+Find the address of the location named "UK Gallery".
+Return the detail of the location named "UK Gallery".
+Find all the locations whose names contain the word "film".
+Find the names and descriptions of the photos taken at the tourist attraction called "film festival".
+Tell me the name of the staff in charge of the attraction called "US museum".
+Find the visit date and details of the tourist whose detail is 'Vincent'
+Show the tourist attractions visited by the tourist whose detail is 'Vincent'.
+Count the number of video games with Massively multiplayer online game type .
+Show all student IDs with the number of sports and total number of games played
+Find the name of all customers whose name contains "Alex".
+Find the detail of products whose detail contains the word "Latte" or the word "Americano"
+Return the address content for the customer whose name is "Maudie Kertzmann".
+List all the distinct cities
+Find the contact channel code that was used by the customer named "Tillman Ernser".
+Return the the "active to date" of the latest contact channel used by the customer named "Tillman Ernser".
+Tell me the total quantity of products bought by the customer called "Rodrick Heaney".
+Find the customer name and date of the orders that have the status "Delivered".
+What are the customer name and date of the orders whose status is "Delivered".
+Return the dates of ceremony and the results of all music festivals
+Return the categories of music festivals that have the result "Awarded".
+Return the dates of ceremony corresponding to music festivals that had the category "Best Song" and result "Awarded".
+List the names of countries whose language is not "German".
+Find the venue of the competition "1994 FIFA World Cup qualification" which was hosted by "Nanjing ( Jiangsu )".
+Find the payment method and phone of the party with email "enrico09@example.com".
+Find the last name of the latest contact individual of the organization "Labour Party".
+Find the name of organizations whose names contain "Party".
+Give the state corresponding to the line number building "6862 Kaitlyn Knolls".
+List the document type code, document name, and document description for the document with name 'Noel CV' or name 'King Book'.
+Show the document name and the document date for all documents on project with details 'Graph Database project'.
+Show the statement detail and the corresponding document name for the statement with detail 'Private Project'.
+Return the description of the document type name 'Film'.
+Give the details of the project with the document name 'King Book'.
+Give the ids of documents with expenses that have the budget code 'SF'.
+Show ids for all documents with budget types described as 'Government'.
+Give the ids for documents that have the budget description 'Government'.
+Give the dates of creation for documents that have both budget type codes 'GV' and 'SF'.
+Show the number of trains
+List all vehicle id
+List lesson id of all lessons taught by staff with first name as Janessa, last name as Sawayn and nickname containing letter 's'.
+Find the country of the airlines whose name starts with 'Orbit'.
+Find the number of airports whose name contain the word 'International'.
+Return the number of routes with destination airport in Italy operated by the airline with name 'American Airlines'.
+Find the id of the order whose shipment tracking number is "3452".
+List the name of all the distinct customers who have orders with status "Packing".
+Find the details of all the distinct customers who have orders with status "On Road".
+Give me a list of id and status of orders which belong to the customer named "Jeramie".
+Find the dates of orders which belong to the customer named "Jeramie".
+Find the names of the customers who have order status both "On Road" and "Shipped".
+Find the id of the customers who have order status both "On Road" and "Shipped".
+List the names of the customers who have once bought product "food".
+List the names of customers who have once canceled the purchase of the product "food" (the item status is "Cancel").

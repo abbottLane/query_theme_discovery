@@ -1,0 +1,1 @@
+Retrieve information about staff, institutions, medications, employees, customers, authors, problems, documents, workshops, names, companies, investors and more, including queries related to roles, departments, dates, locations, titles, nurses, and various other attributes.

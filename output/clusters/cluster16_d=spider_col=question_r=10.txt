@@ -1,0 +1,228 @@
+List the publisher of the publication with the highest price.
+List the publication dates of publications with 3 lowest prices.
+Show the publishers that have publications with price higher than 10000000 and publications with price lower than 5000000.
+Give me the average and minimum price (in Euro) of the products.
+What is the product with the highest height? Give me the catalog entry name.
+Which catalog content has the highest height? Give me the catalog entry name.
+Find the name of the product that has the smallest capacity.
+Which catalog contents have a product stock number that starts from "2"? Show the catalog entry names.
+Find the names of the products with length smaller than 3 or height greater than 5.
+Which catalog contents has price above 700 dollars? Show their catalog entry names and capacities.
+Name all the products with next entry ID greater than 8.
+Find out 5 customers who most recently purchased something. List customers' first and last name.
+List the top 10 customers by total gross sales. List customers' first and last name and total gross sales.
+Find the average unit price for a track.
+Find the distinct unit prices for tracks.
+find the number of medicines offered by each trade.
+Which model has the least amount of RAM? List the model name and the amount of RAM.
+List the hardware model name and company name for all the phones that were launched in year 2002 or have RAM size greater than 32.
+Find all phones that have word 'Full' in their accreditation types. List the Hardware Model name and Company name.
+Find the name of the company that has the least number of phone models. List the company name and the number of phone model produced by that company.
+List the name of the company that produced more than one phone model.
+List the name of the phone model launched in year 2002 and with the highest RAM size.
+List the hardware model name for the phones that have screen mode type "Text" or RAM size greater than 32.
+List the hardware model name for the phons that were produced by "Nokia Corporation" but whose screen mode type is not Text.
+List the phone hardware model and company name for the phones whose screen usage in kb is between 10 and 15.
+Find the details for all chip models.
+Count the number of chip model that do not have wifi.
+List all the model names sorted by their launch year.
+Find the average ram mib size of the chip models that are never used by any phone.
+Find the names of the chip models that are not used by any phone with full accreditation type.
+Find the pixels of the screen modes that are used by both phones with full accreditation types and phones with Provisional accreditation types.
+Show all product sizes.
+Show all product colors.
+Show all product names without an order.
+Show all product names and the total quantity ordered for each product name.
+Show the product ids and the number of unique orders containing each product.
+Show all product names and the number of customers having an order on each product.
+What are teh names of the different products, as well as the number of customers who have ordered each product.
+Show order ids and the number of products in each order.
+Show order ids and the total quantity in each order.
+Give the order ids for all orders, as well as the total product quantity in each.
+Count the number of products that were never ordered.
+Find the number of items that did not receive any review.
+Find the names of goods that receive a rating of 10.
+Find the titles of items that received any rating below 5.
+Find the titles of items that received both a rating higher than 8 and a rating below 5.
+Find the names of items whose rank is higher than 3 and whose average rating is above 5.
+Find the name of the item with the lowest average rating.
+Find the name and id of the item with the highest average rating.
+Find the names of the items that did not receive any review.
+List the name of browsers in descending order by market share.
+List the ids, names and market shares of all browsers.
+List the names of phones in ascending order of price.
+Show different carriers of phones together with the number of phones with each carrier.
+Show the most frequently used carrier of the phones.
+Show the carriers that have both phones with memory smaller than 32 and phones with memory bigger than 64.
+Show the names of phones that are on market with number of shops greater than 50.
+List the names of phones that are not on any market.
+List the company name and rank for all companies in the decreasing order of their sales.
+Show minimum, maximum, and average market value for all companies.
+Show all main industry and total market value in each industry.
+List the main industry with highest total market value and its number of companies.
+Show all locations where a gas station for company with market value greater than 100 is located.
+Show names of technicians in ascending order of quality rank of the machine they are assigned.
+Show names of technicians who are assigned to repair machines with value point more than 70.
+What is the average base price of different bed type? List bed type and average base price.
+For each bed type, find the average base price of different bed type.
+Find the average and minimum price of the rooms in different decor.
+What is the average minimum and price of the rooms for each different decor.
+Sort all the rooms according to the price. Just report the room names.
+For each bed type, find the average room price.
+Find the name and price of the product that has been ordered the greatest number of times.
+Find the name of the most expensive product.
+Return the name and id of the furniture with the highest market rate.
+find the total market rate of the furnitures that have the top 2 market shares.
+Find the component amounts and names of all furnitures that have more than 10 components.
+Find the name and component amount of the least popular furniture.
+Find the names of furnitures whose prices are lower than the highest price.
+List all manufacturer names and ids ordered by their opening year.
+Find the number of funiture types produced by each manufacturer as well as the company names.
+Find the name of the company that produces both furnitures with less than 6 components and furnitures with more than 10 components.
+Find the brand and name for each camera lens, and sort in descending order of maximum aperture.
+Return the distinct customer details.
+Find the policy type the most customers choose.
+List the names of companies by ascending number of sales.
+list the names of the companies with more than 200 sales in the descending order of sales and profits.
+Please show the titles of films and the types of market estimations.
+List the names of companies in descending order of market value.
+Sort the company names in descending order of the company's market value.
+Find the maximum and minimum sales of the companies that are not in the "Banking" industry.
+Please show each industry and the corresponding number of companies in that industry.
+List the name of products in ascending order of price.
+Show different type codes of products and the number of products with each type code.
+Show the product type codes that have at least two products.
+Show the product type codes that have both products with price higher than 4500 and products with price lower than 3000.
+Show the names of products and the number of events they are in.
+Show the names of products and the number of events they are in, sorted by the number of events in descending order.
+Show the names of products that are in at least two events.
+Show the names of products that are in at least two events in ascending alphabetical order of product name.
+List the names of products that are not in any event.
+Show all distinct product categories along with the number of mailshots in each category.
+Give the ids of the three products purchased in the largest amounts.
+Give the id and product type of the product with the lowest price.
+Find the number of different product types.
+Give the product id for the product that was ordered most frequently.
+Return the average price for each product type.
+Give me the product type, name and price for all the products supplied by supplier id 3.
+Return the product type, name, and price for products supplied by supplier 3.
+Return ids of all the products that are supplied by supplier id 2 and are more expensive than the average price of all products.
+For each product type, return the maximum and minimum price.
+Find the product type whose average price is higher than the average price of all products.
+Return the names and ids of all products whose price is between 600 and 700.
+Return the ids of all products that were ordered more than three times or supplied more than 80000.
+Give the ids and names of products with price lower than 600 or higher than 900.
+Find the id of suppliers whose average amount purchased for each product is above 50000 or below 30000.
+What are the average amount purchased and value purchased for the supplier who supplies the most products.
+Return the average total amount purchased and total value purchased for the supplier who supplies the greatest number of products.
+List the names of all the distinct customers who bought a keyboard.
+Give the maximum and minimum product prices for each product type, grouped and ordered by product type.
+Find the names of products that were bought by at least two distinct customers.
+Find the names of customers who have bought by at least three distinct products.
+Find the average price of all product clothes.
+Find the name of the most expensive hardware product.
+Find products with max page size as "A4" and pages per minute color smaller than 5.
+Find products with max page size as "A4" or pages per minute color smaller than 5.
+Find the most prominent max page size among all the products.
+Find the name of the products that are not using the most frequently-used max page size.
+Return the device carriers that do not have Android as their software platform.
+Show names of shops and the carriers of devices they have in stock.
+Show names of shops that have more than one kind of device in stock.
+Show the name of the shop that has the most kind of devices in stock.
+Show the name of the shop that have the largest quantity of devices in stock.
+Please show the software platforms of devices in descending order of the count.
+List the names of shops that have no devices in stock.
+List the carriers of devices that have no devices in stock.
+Show the carriers of devices in stock at more than one shop.
+What are the minimum, average, and maximum quantities ordered? Check all the invoices.
+Show all the distinct product names with price higher than the average.
+List all product names in ascending order of price.
+Sort the names of products in ascending order of their price.
+Give me the descriptions of the service types that cost more than 100.
+Find the names of the workshop groups where services with product name "film" are performed.
+For each distinct product name, show its average product price.
+Find the product names whose average product price is below 1000000.
+Find the order detail for the products with price above 2000.
+Find the order dates of the orders with price above 1000.
+Find the id of the product ordered the most often on invoices.
+Give me the description of the service type that offers not only the photo product but also the film product.
+Find all manufacturers' names and their headquarters, sorted by the ones with highest revenue first.
+Find the name of product that is produced by both companies Creative Labs and Sony.
+Find the name, headquarter and founder of the manufacturer that has the highest revenue.
+Find the name, headquarter and revenue of all manufacturers sorted by their revenue in the descending order.
+Find the total revenue for each manufacturer.
+Find the average prices of all products from each manufacture, and list each company's name.
+Find number of products which Sony does not make.
+Find the number of products for each manufacturer, showing the name of each company.
+Select the names of all the products in the store.
+Select the names and the prices of all the products in the store.
+Select the name of the products with a price less than or equal to $200.
+Find all information of all the products with a price between $60 and $120.
+Compute the average price of all the products.
+Compute the average price of all products with manufacturer code equal to 2.
+Compute the number of products with a price larger than or equal to $180.
+Select all the data from the products and each product's manufacturer.
+Select the average price of each manufacturer's products, showing only the manufacturer's code.
+Select the average price of each manufacturer's products, showing the manufacturer's name.
+Select the names of manufacturer whose products have an average price higher than or equal to $150.
+Select the name and price of the cheapest product.
+Select the name of each manufacturer along with the name and price of its most expensive product.
+Select the code of the product that is cheapest in each product category.
+How many problems does the product with the most problems have? List the number of the problems and product name.
+Which product has the most problems? Give me the number of problems and the product name.
+What are the products that have problems reported after 1986-11-13? Give me the product id and the count of problems reported after 1986-11-13.
+Sort all the distinct product names in alphabetical order.
+For which product was there a problem reported by Christop Berge, with closure authorised by Ashley Medhurst? Return the product ids.
+Which staff members who reported problems from the product "rem" but not "aut"? Give me their first and last names.
+Return the names and typical buying prices for all products.
+Find the names of all the product characteristics.
+Find the number of products with category "Spices" and typically sold above 1000.
+Find the id and color description of the products with at least 2 characteristics.
+Return the names and typical buying and selling prices for products that have 'yellow' as their color description.
+Count the number of characteristics the product 'sesame' has.
+Count the number of different characteristic names the product 'cumin' has.
+Return the characteristic names of the 'sesame' product.
+Find the number of characteristics that the product "flax" has.
+Count the number of characteristics of the 'flax' product.
+Count the number of products with the 'hot' charactersitic.
+Return the unit of measure for 'Herb' products.
+Return the description and unit of measurement for products in the 'Herbs' category.
+Return the color description that is most common across all products.
+Give the color description that is least common across products.
+Return the name of the characteristic that is most common across all products.
+Give the names, details, and data types of characteristics that are not found in any product.
+Count the number of colors that are not used in any products.
+Show the product type codes which have at least two products.
+Show the product name and total order quantity for each product.
+Show the minimum, maximum, average price for all products.
+Show the product type and name for the products with price higher than 1000 or lower than 500.
+List the name of all products along with the number of complaints that they have received.
+Find the emails of customers who has filed a complaints of the product with the most complaints.
+Return the names of products that have had complaints filed by the customer who has filed the fewest complaints.
+Find the name and category of the most expensive product.
+Find the prices of products which has never received a single complaint.
+Return the average price of products that have each category code.
+Count the number of customers that have the customer type that is most common.
+Show the id and star rating of each hotel, ordered by its price from low to high.
+Find the id and star rating of each hotel and sort them in increasing order of price.
+Return the the details of all products.
+Which product's detail contains the word "Latte" or "Americano"? Return the full detail.
+Find the number of distinct products Rodrick Heaney has bought so far.
+Find the total quantity of products associated with the orders in the "Cancelled" status.
+Find the total amount of products ordered before 2018-03-17 07:13:53.
+Find the name and ID of the product whose total order quantity is the largest.
+What are the name and ID of the product bought the most.
+Find the names of customers who ordered both products Latte and Americano.
+Give the maximum and minimum weeks on top across all volumes.
+Please show the date of ceremony of the volumes that last more than 2 weeks on top.
+Return the prices of wines produced before 2010.
+List the grape, winery and year of the wines whose price is bigger than 100 ordered by year.
+Find the ids of all the order items whose product id is 11.
+List the count and id of each product in all the orders.
+For each product, return its id and the number of times it was ordered.
+List the name and count of each product in all orders.
+For each product, show its name and the number of times it was ordered.
+Find the ids of orders which are shipped after 2000-01-01.
+Which orders have shipment after 2000-01-01? Give me the order ids.
+List the names of all distinct products in alphabetical order.
+Sort all the distinct products in alphabetical order.

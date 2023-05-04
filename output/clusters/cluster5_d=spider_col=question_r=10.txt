@@ -1,0 +1,479 @@
+What are the maximum and minimum budget of the departments?
+What is the average number of employees of the departments whose rank is between 10 and 15?
+What are the distinct creation years of the departments managed by a secretary born in state 'Alabama'?
+What is the average number of working horses of farms with more than 5000 total number of horses?
+What are the official names of cities, ordered descending by population?
+What is the official name and status of the city with the most residents?
+What are the official names of cities that have hosted more than one competition?
+What is the status of the city that has hosted the most competitions?
+What are the themes of competitions that have corresponding host cities with more than 1000 residents?
+What are the statuses and average populations of each city?
+What is the most common status across all cities?
+What are the official names of cities that have not hosted a farm competition?
+Which statuses correspond to both cities that have a population over 1500 and cities that have a population lower than 500?
+What are the official names of cities that have population over 1500 or less than 500?
+What are the census rankings of cities that do not have the status "Village"?
+what is id of students who registered some courses but the least number of courses in these students?
+For each city, what is the highest latitude for its stations?
+What is the station station and end station for the trips with the three smallest ids?
+What is the average latitude and longitude of stations located in San Jose city?
+What is the average latitude and longitude in San Jose?
+What is the total and maximum duration for all trips with the bike id 636?
+What is the number of days that had an average humity above 50 and an average visibility above 8?
+What are the ids of the stations in San Francisco that normally have more than 10 bikes available?
+What is the 3 most common cloud cover rates in the region of zip code 94107?
+What is the zip code in which the average mean sea level pressure is the lowest?
+What is the zip code that has the lowest average mean sea level pressure?
+What is the average bike availability in stations that are not located in Palo Alto?
+What is the average bike availablility for stations not in Palo Alto?
+What is the average longitude of stations that never had bike availability more than 10?
+What is the mean longitude for all stations that have never had more than 10 bikes available?
+What zip codes have a station with a max temperature greater than or equal to 80 and when did it reach that temperature?
+Which days had a minimum dew point smaller than any day in zip code 94107, and in which zip codes were those measurements taken?
+What are the ids of stations that have latitude above 37.4 and never had bike availability below 7?
+What are names of stations that have average bike availability above 10 and are not located in San Jose city?
+What are the names of all stations that have more than 10 bikes available and are not located in San Jose?
+What is the date, average temperature and mean humidity for the days with the 3 largest maximum gust speeds?
+What is the name of every city that has at least 15 stations and how many stations does it have?
+What are the ids and names of all start stations that were the beginning of at least 200 trips?
+What are the dates that have the 5 highest cloud cover rates and what are the rates?
+For each end station id, what is its name, latitude, and minimum duration for trips ended there?
+What are all the different zip codes that have a maximum dew point that was always below 70?
+What are the dates in which the mean sea level pressure was between 30.3 and 31?
+What are the dates that have an average sea level pressure between 30.3 and 31?
+What are the days that had the smallest temperature range, and what was that range?
+What are the different ids and names of the stations that have had more than 12 bikes available?
+What are the zip codes that have an average mean humidity below 70 and had at least 100 trips come through there?
+What are the names of stations that are located in Palo Alto city but have never been the ending point of trips more than 100 times?
+What is the average latitude and longitude of the starting points of all trips?
+What is the average latitude and longitude of all starting stations for the trips?
+What is the count of aircrafts that have a distance between 1000 and 5000?
+What is the number of employees that have a salary between 100000 and 200000?
+What are the numbers of all flights that can cover a distance of more than 2000?
+What is the average distance and price for all flights from LA?
+What is the name and distance of every aircraft that can cover a distance of more than 5000 and which at least 5 people can fly?
+What is the salaray and name of the employee that is certified to fly the most planes?
+What is the salaray and name of the employee with the most certificates to fly planes more than 5000?
+What are the distinct first names and cities of the students who have allergy either to milk or to cat?
+What are the top 5 countries by number of invoices and how many do they have?
+What are the names of the top 8 countries by total invoice size and what are those sizes?
+What are the names of the countries and average invoice size of the top countries by size?
+What are the top 10 customers' first and last names with the highest gross sales, and also what are the sales?
+What are the first and last names of all the employees and how many people report to them?
+What is the name, location and seating for the most recently opened track?
+What are the names, locations, and years of opening for tracks with seating higher than average?
+What are the classes of races that have two or more corresponding races?
+What are the years of opening for tracks with seating between 4000 and 5000?
+What are the locations that have both tracks with more than 90000 seats, and tracks with fewer than 70000 seats?
+What is the membership card held by both members living in Hartford and ones living in Waterbury address?
+What are the average score and average staff number of all shops?
+What are the public schools and what are their locations?
+What are the average enrollment size of the universities that are founded before 1850?
+What is the total and minimum enrollment of all schools?
+What are the schools that were either founded before 1850 or are public?
+What are the different affiliations, and how many schools with each have an enrollment size of above 20000?
+What are the different affiliations, and what is the total enrollment of schools founded after 1850 for each enrollment type?
+What are the draft pick numbers and draft classes for players who play the Defender position?
+What are the distinct positions of the players from a country whose capital is Dublin?
+What are the official languages of the countries of players from Maryland or Duke college?
+Who are the different players, what season do they play in, and what is the name of the team they are on?
+What is the position that is most common among players in match seasons?
+What are the three colleges from which the most players are from?
+What are the names of all colleges that have two or more players?
+What are the names of colleges that have two or more players, listed in descending alphabetical order?
+What are the names of teams that do no have match season record?
+What are the names of countries that have both players with position forward and players with position defender?
+Which college have both players with position midfielder and players with position defender?
+What are the names of climbers who are not from the country of Switzerland?
+What is the maximum point for climbers whose country is United Kingdom?
+What are the countries of mountains with height bigger than 5000?
+What are the different ranges of the 3 mountains with the highest prominence?
+What are the names of climbers and the corresponding names of mountains that they climb?
+What are the names of climbers and the corresponding heights of the mountains that they climb?
+What is the height of the mountain climbined by the climbing who had the most points?
+What are the different names of mountains ascended by climbers from the country of West Germany?
+What are the times used by climbers who climbed mountains in the country of Uganda?
+What are the countries that have both mountains that are higher than 5600 and lower than 5200?
+What are the names of mountains that have a height of over 5000 or a prominence of over 1000?
+What is the average snatch score of body builders?
+What are the clean and jerk score of the body builder with the highest total score?
+What are the birth date and birth place of the body builder with the highest total points?
+What are the heights of body builders with total score smaller than 315?
+What is the average total score of body builders with height bigger than 200?
+What is the most common birth place of people?
+What are the birth places that are shared by at least two people?
+What are the minimum and maximum vote percents of elections?
+What are the life spans of representatives from New York state or Indiana state?
+What are the lifespans of representatives in descending order of vote percent?
+What is the party that has the largest number of representatives?
+What is the minimum and maximum number of bathrooms of all the apartments?
+What is the average number of bedrooms of all apartments?
+What are the booking start and end dates of the apartments with more than 2 bedrooms?
+What are the facility codes of the apartments with more than four bedrooms?
+What are the top three apartment types in terms of the average room count? Give me the
+What are the maximum, minimum and average home games each stadium held?
+What is the average attendance of stadiums with capacity percentage higher than 100%?
+How many different kinds of information sources are there for injury accidents?
+What is the maximum and minimum height of all players?
+What is the average rating for right-footed players and left-footed players?
+What are the distinct buildings with capacities of greater than 50?
+What are the room numbers and corresponding buildings for classrooms which can seat between 50 to 100 students?
+What are the names and budgets of departments with budgets greater than the average?
+What are the greatest and average capacity for rooms in each building?
+What are the theme and year for all exhibitions that have a ticket price under 15?
+What are the average, minimum, and maximum ticket prices for exhibitions that happened prior to 2009?
+What are the themes and years for exhibitions, sorted by ticket price descending?
+What is the theme, date, and attendance for the exhibition in year 2004?
+Which themes have had corresponding exhibitions that have had attendance both below 100 and above 500?
+How many exhibitions have a attendance more than 100 or have a ticket price below 10?
+What are the names of artist whose exhibitions draw over 200 attendees on average?
+What are the total points of gymnasts, ordered by their floor exercise points descending?
+What is the average horizontal bar points for all gymnasts?
+What are the distinct hometowns of gymnasts with total points more than 57.5?
+What are the hometowns of gymnasts and the corresponding number of gymnasts?
+What is the most common hometown of gymnasts?
+What are the hometowns that are shared by at least two gymnasts?
+How many main stream browsers whose market share is at least 5 exist?
+What is the maximum, minimum and average market share of the listed browsers?
+What are the ids and names of the web accelerators that are compatible with two or more browsers?
+What is the time of elimination for the wrestler with the most days held?
+What are the times of elimination for wrestlers with over 50 days held?
+What are the teams that have both wrestlers eliminated by Orton and wrestlers eliminated by Benjamin?
+What is the number of distinct teams that suffer elimination?
+What are the total and average enrollment of all schools?
+What are the average, maximum, and minimum number of floors for all buildings?
+What are all the locations with a cinema?
+What is total number of show times per dat for each cinema?
+In which locations are there more than one movie theater with capacity above 300?
+What are the companies and main industries of all companies that are not headquartered in the United States?
+What are the headquarters with at least two companies in the banking industry?
+What is the total number of gas stations that opened between 2000 and 2005?
+What are the headquarters that have both a company in the banking and 'oil and gas' industries?
+What are the headquarters without companies that are in the banking industry?
+For each company id, what are the companies and how many gas stations does each one operate?
+What are the main industries of the companies without gas stations and what are the companies?
+What are the locations that have gas stations owned by a company with a market value greater than 100?
+What is the id of the event with the most participants?
+What are the numbers of constructors for different nationalities?
+What are the ids and locations of all circuits in France or Belgium?
+For each id of a driver who participated in at most 30 races, how many races did they participate in?
+What are the names of the technicians that are assigned to repair machines with more point values than 70?
+What are the companies and investors that correspond to each entrepreneur?
+What is the weight of the shortest person?
+What are the investors of entrepreneurs and the corresponding number of entrepreneurs invested by each investor?
+What is the investor that has invested in the most number of entrepreneurs?
+What are the investors that have invested in at least two entrepreneurs?
+What are the investors who have invested in both entrepreneurs who requested more than 140000 and entrepreneurs who requested less than 120000?
+What is the average number of people injured by all perpetrators?
+What is the country that has the most perpetrators?
+What are the countries that have at least two perpetrators?
+What are the names of the campus that have more faculties in 2002 than the maximum number in Orange county?
+What are the campuses that had between 600 and 1000 faculty members in 2004?
+What are the support, consider, and oppose rates of each candidate, ordered ascending by their unsure rate?
+What are the average height and weight across males (sex is M)?
+What are the names of people who have a height greater than 200 or less than 190?
+What are the average and minimum weights for people of each sex?
+What are the names of candidates who have a lower support rate than oppose rate?
+how many people are there whose weight is higher than 85 for each gender?
+What are the names of people who are shorter than average?
+What is the maximum and mininum number of stars a rating can receive?
+What are the different police forces of counties that are not located in the East?
+What are the minimum and maximum crime rate of counties?
+What are the crime rates of counties sorted by number of offices ascending?
+What are the percentage of hispanics in cities with the black percentage higher than 10?
+What is the name of the county with the greatest population?
+What are the names of the five cities with the greatest proportion of white people?
+What are the names of cities, as well as the names of the counties they correspond to?
+What are the white percentages of cities, and the corresponding crime rates of the counties they correspond to?
+What are the names of cities that are in the county with the most police officers?
+What are the crime rates of counties that contain cities that have white percentages of over 90?
+What is the location shared by most counties?
+What are the names of counties that do not contain any cities?
+What are the names of cities that are in counties that have a crime rate below 100?
+What are the case burdens of counties, ordered descending by population?
+What is the total number of people who could stay in the modern rooms in this inn?
+What is the least popular kind of decor?
+What is the total number of rooms available in this inn?
+What are the names of rooms that have either king or queen bed?
+What is the average number of hosts for parties?
+What is the location of the party with the most hosts?
+Which nations have both hosts of age above 45 and hosts of age below 35?
+What is the average and maximum damage in millions for storms that had a max speed over 1000?
+What is the total number of deaths and damage for all storms with a max speed greater than the average?
+What are the names of regions that were not affected?
+What is the storm name and max speed which affected the greatest number of regions?
+What are the names of storms that did not affect any regions?
+What are the names of storms that both affected two or more regions and affected a total of 10 or more cities?
+What are the names of storms that did not affect two or more regions?
+What are the region names affected by the storm with a number of deaths of least 10?
+What are the names of regions with two or more storms?
+What are the names of regions that were affected by the storm in which the most people died?
+What are the names of the storms that affected both the regions of Afghanistan and Albania?
+What are the maximum and minimum population of the counties?
+Who is the delegate of district 1 in the elections?
+Who are the lieutenant governor and comptroller from the democratic party?
+Who were the governors of the parties associated with delegates from district 1?
+Who were the comptrollers of the parties associated with the delegates from district 1 or district 2?
+What are the names of parties that do not have delegates in election?
+What are the nationalities and ages of journalists?
+What is the average number of years spent working as a journalist?
+What is the nationality of the journalist with the largest number of years working?
+What are the city name, id, and number of addresses corresponding to the city with the most addressed?
+What are the countries that contain 3 or more cities?
+What is the total number of customers who use banks in New York City?
+What is the average number of customers across banks in the state of Utah?
+What are the names of banks in the state of New York?
+What are the names and cities of bank branches that offer loans for business?
+What are the monthly rentals of student addresses in Texas state?
+What are the line 1 and average monthly rentals of all student addresses?
+What is the average high temperature for each day of week?
+What are the first names, office locations, and departments of all instructors, and also what are the descriptions of the courses they teach?
+What is the total number of clubs?
+What is the average number of gold medals for clubs?
+What are the types of every competition and in which countries are they located?
+What are the different years for all competitions that are not of type equal to tournament?
+What are the maximum and minimum number of silver medals for all the clubs?
+What is the total number of clubs that have less than 10 medals in total?
+For each position, what is the average number of points for players in that position?
+What are the positions of players whose average number of points scored by that position is larger than 20?
+What are the types of competition and number of competitions for that type?
+What are the types of competition that have most 5 competitions for that type?
+What are the positions of both players that have more than 20 20 points and less than 10 points?
+What is the number of players who have points less than 30 for each position?
+what is the name of the country that participated in the most tournament competitions?
+What are the countries that participated in both friendly and tournament type competitions?
+What are the countries that have never participated in any friendly-type competitions?
+What are the first and last name for those employees who works either in department 70 or 90?
+What are the full names of employees who with in department 70 or 90?
+What are the job titles, and range of salaries for jobs with maximum salary between 12000 and 18000?
+What are the emails of employees with null commission, salary between 7000 and 12000, and who work in department 50?
+What are the job ids for jobs done more than once for a period of more than 300 days?
+What are the employee ids for employees who have held two or more jobs?
+what are the employee ids and job titles for employees in department 80?
+What are the ids for employees who do not work in departments with managers that have ids between 100 and 200?
+What are the department ids, full names, and salaries for employees who make the most in their departments?
+What are full names and salaries of employees working in the city of London?
+In 2014, what are the id and rank of the team that has the largest average number of attendance?
+What are the three countries that the least players are from?
+What are the first name and last name of the players who have weight above 220 or height below 75?
+What are the maximum scores the team Boston Red Stockings got when the team won in postseason?
+What is the number of wins the team Boston Red Stockings got in the postseasons each year in history?
+What is the total number of postseason games that team Boston Red Stockings participated in?
+What is the total salary paid by team Boston Red Stockings in 2010?
+What is the total salary expenses of team Boston Red Stockings in 2010?
+What is the total home game attendance of team Boston Red Stockings from 2000 to 2010?
+What are the first name and last name of the players who were paid salary by team Washington Nationals in both 2005 and 2007?
+What are the maximum and average height of the mountains?
+What are the average prominence of the mountains in country 'Morocco'?
+What are the names of the cameras that have taken picture of the most mountains?
+List the brands of lenses that took both a picture of mountains with range 'Toubkal Atlas' and a picture of mountains with range 'Lasta Massif'
+What are the claim dates and settlement dates of all the settlements?
+What are the unique block codes that have available rooms?
+What are the names of patients who are staying in room 111 and have an undergoing treatment?
+What are the highest cost, lowest cost and average cost of procedures?
+Which physicians are trained in procedures that are more expensive than 5000?
+What are the procedures that cost more than 1000 or are specialized in by physician John Wen?
+What are the nations that have more than two ships?
+What are the different fates of the mission that involved ships from the United States?
+What are the types of the ships that have both shiips with tonnage more than 6000 and those with tonnage less than 4000?
+What are the headquarters and industries of all companies?
+What is the maximum and minimum market value of companies?
+What are the low and high estimates of film markets?
+What are the types of film market estimations in year 1995?
+What are the countries for each market ordered by decreasing number of cities?
+What is the average number of cities of markets with low film market estimate bigger than 10000?
+Give the average number of cities within markets that had a low market estimation larger than 10000?
+What are the countries of markets and their corresponding years of market estimation?
+What are the years of film market estimation for the market of Japan, ordered by year descending?
+What are the codes of the locations with at least three documents?
+List from which date and to which date these staff work: project staff of the project which hires the most staffs
+From what date and to what date do the staff work on a project that has the most staff and has staff in a leader role?
+What is the organisation type and id of the organisation which has the most number of research staff?
+What is the type and id of the organization that has the most research staff?
+What is the type of the organization with the most research staff?
+What are the details for all projects that did not hire any staff in a research role?
+What are the details and id of the project with the most outcomes?
+What are the ids, types, and details of the organization with the most research staff?
+What is the last date of the staff leaving the projects?
+What is the id of the organization with the maximum number of outcomes and how many outcomes are there?
+What are the details for the projects which were launched by the organization with the most projects?
+What are the staff roles of the staff who
+Who is the person whose age is below 30?
+How many people whose age is greater 30 and job is engineer?
+Find the name of the person who has friends with age above 40 and under age 30?
+What are the names of every person who has a friend over 40 and under 30?
+Find the name of the person who has friends with age above 40 but not under age 30?
+What are the names of the people who are older 40 but no friends under age 30?
+Who has a friend that is from new york city?
+What are the different names of friends who are younger than the average age for a friend?
+Whare the names, friends, and ages of all people who are older than the average age of a person?
+What is the total number of people who have no friends living in Austin?
+What are the codes of types of documents of which there are for or more?
+What are the names of documents that have both one of the three most common types and one of three most common structures?
+What is the stories of highest building?
+What is the location of the festival with the largest number of audience?
+What are the maximum and minumum grade points?
+What are the first and last names of the instructors who teach the top 3 number of courses?
+What are the names of departments either in division AS, or in division EN and in building NEB?
+What are the ids and names of department stores with both marketing and managing departments?
+What are the ids of the two department store chains with the largest number of department stores?
+What is the average number of international passengers of all airports?
+What is the average number of international passengers for an airport?
+What are the number of international and domestic passengers of the airport named London "Heathrow"?
+What are the total number of domestic passengers at all London airports?
+What is the maximum and mininum number of transit passengers for all airports?
+What is all the information on the airport with the largest number of international passengers?
+What are the distinct move in dates of the residents?
+What is the average enrollment of schools?
+What are the different district names in order of descending city area?
+What are the district names and city populations for all districts that between 200,000 and 2,000,000 residents?
+What are the names of all districts with a city area greater than 10 or have more than 100000 people living there?
+What is the total number of residents for the districts with the 3 largest areas?
+What are the names of all the stores in the largest district by population?
+What is the total population for all the districts that have an area larger tahn the average city area?
+What are the names of the districts that have both mall and village store style shops?
+What is the number of colleges with a student population greater than 15000?
+What is the average training hours of all players?
+What are the names and number of hours spent training for each player who trains for less than 1500 hours?
+What is the average, maximum, and minimum for the number of hours spent training?
+What is average enrollment of colleges in the state FL?
+What are the names of players whose training hours is between 500 and 1500?
+Who are the players that have names containing the letter a?
+What are the names and enrollment numbers for colleges that have more than 10000 enrolled and are located in Louisiana?
+What is minimum hours of the students playing in different position?
+What are the different states that have students trying out?
+What are the different states that had students successfully try out?
+What are the names of all the players who received a yes during tryouts, and also what are the names of their colleges?
+What are the states of the colleges where students who tried out for the striker position attend?
+What is the average and maximum number of hours students who made the team practiced?
+What is the maximum training hours for the students whose training hours is greater than 1000 in different positions?
+How many students are enrolled in colleges that have student accepted during tryouts, and in which states are those colleges?
+What are the names of colleges in LA that have more than 15,000 students and of colleges in AZ with less than 13,000 students?
+What are the names of the states that have some college students playing in the positions of goalie and mid-field?
+What are the names of the schools with some players in the mid position but no goalies?
+What is the count of states with college students playing in the mid position but not as goalies?
+What are the states with colleges that have enrollments less than the some other college?
+What are the names of the colleges that are larger than at least one college in Florida?
+What is the total number of enrollment of schools that do not have any goalie player?
+What is the number of states that has some college whose enrollment is larger than the average enrollment?
+What is the number of states that has some colleges whose enrollment is smaller than the average enrollment?
+What is the average quantity of stocks?
+What is the software platform that is most common amongst all devices?
+What are the names of the drama workshop groups with address in Feliciaberg city?
+What are the email addresses of the drama workshop groups with address in Alaska state?
+What is the most frequent status of bookings?
+What are the average, maximum and total revenues of all companies?
+What is the sum of revenue from companies with headquarters in Austin?
+What are the names of companies with revenue between 100 and 150?
+What is the total revenue of all companies whose main office is at Tokyo or Taiwan?
+What are the names and revenues of the companies with the highest revenues in each headquarter city?
+What are the id of problems reported by the staff named Dameon Frami or Jolie Weber?
+What is the number of branches that have more than the average number of memberships?
+What are the different cities that have more than 100 memberships?
+What are the opening years in which at least two shops opened?
+What are the minimum and maximum membership amounts for all branches that either opened in 2011 or are located in London?
+What is the membership level with the most people?
+What are the names and cities of the branches that do not have any registered members?
+What are the cities that have a branch that opened in 2001 and a branch with more than 100 members?
+What are the cities that do not have any branches with more than 100 members?
+What are the names of the branches that have some members with a hometown in Louisville, Kentucky and also those from Hiram, Goergia?
+What are the distinct secretary votes in the fall election cycle?
+What are the distinct first names of the students who have vice president votes and reside in a city whose city code is not PIT?
+What are the descriptions of the categories that products with product descriptions that contain the letter t are in?
+What is the average capacity of the stadiums that were opened in year 2005?
+What is the maximum level of managers in countries that are not "Australia"?
+What is the first name of the students who are in age 20 to 25 and living in PHL city?
+What is the average age for each city and what are those cities?
+What is the average and total capacity for all dorms who are of gender X?
+What are the names and types of the dorms that have a capacity greater than 300 or less than 100?
+What is the last name of every student who is either female or living in a city with the code BAL or male and under 20?
+What is the code of the city with the most students?
+What are the first and last names of all students who are not living in the city HKG and order the results by age?
+How many students are from each city, and which cities have more than one cities?
+What is the average age of students who are living in the dorm with the largest capacity?
+How many customers are there in the customer type with the most customers?
+What are the price ranges of hotels?
+What are the price ranges of five star hotels?
+What is the average price range of five star hotels that allow pets?
+What are the names of the tourist attractions that can be accessed by bus?
+What are the names and opening hours of the tourist attractions that can be accessed by bus or walk?
+What are the details and ways to get to tourist attractions related to royal family?
+What are the details of the markets that can be accessed by walk or bus?
+What are the details and star ratings of the three hotels with the lowest price ranges?
+What are the names and ids of the tourist attractions that are visited at most once?
+What are the names of tourist attractions that can be reached by walk or is at address 660 Shea Crescent?
+What are the names of the tourist attractions that have parking or shopping as their feature details?
+What are the names of tourist attractions that can be reached by bus or is at address 254 Ottilie Junction?
+What are the names of the tourist attractions Vincent and Marcelle visit?
+What are the average, minimum, and max ages for each of the different majors?
+What are the dates when customers with ids between 10 and 20 became customers?
+What are the cities no customers live in?
+What are the lengths and heights of roller coasters?
+What is the average speed of roller coasters?
+What are the country names, area and population which has both roller coasters with speed higher
+What are the average and minimum age of captains in different class?
+What are the ranks of captains that are both in the Cutter and Armed schooner classes?
+What are the ranks of captains that have no captain that are in the Third-rate ship of the line class?
+What is id of the city that hosted events in the most recent year?
+What are the three largest cities in terms of regional population?
+Which cities have lower temperature in March than in July and have been once host cities?
+What are the GDP and population of the city that already served as a host more than once?
+What is the name of organization that has the greatest number of contact individuals?
+What is the maximum, minimum and average years spent working on a school bus?
+How many drivers are from Hartford city or younger than 40?
+What is maximum group equity shareholding of the companies?
+What are the distinct types of the companies that have operated any flights with velocity less than 200?
+What is the most common company type, and how many are there?
+What are the names of projects that require between 100 and 300 hours?
+What are the names of scientists who are not working on the project with the most hours?
+What are the areas and counties for all appelations?
+What are the prices of wines produced before the year of 2010?
+What are the distinct names of wines that have appellations in the North Coast area?
+What is the average price of wines produced in appelations in Sonoma County?
+What is the maximum price of wines from the appelation in the Central Coast area, which was produced before 2005?
+What are the wines that have prices higher than 50 and made of Red color grapes?
+What are the names of wines made from red grapes and with prices above 50?
+What are the wines that have prices lower than 50 and have appelations in Monterey county?
+What is the average prices of wines for each each?
+What is the area of the appelation that produces the highest number of wines before the year of 2010?
+What is the area for the appelation which produced the most wines prior to 2010?
+What are the distinct wineries which produce wines costing between 50 and 100?
+What are the average prices and cases of wines produced in the year of 2009 and made of Zinfandel grape?
+What are the countries for appelations with at most 3 wines?
+What are the names of wines whose production year are before the year of all wines by Brander winery?
+What are the names of wines produced before any wine from the Brander winery?
+What are the grapes, wineries and years for wines with price higher than 100, sorted by year?
+What are the appelations for wines produced after 2008 but not in the Central Coast area?
+What is the average price for wines not produced in Sonoma county?
+What is the county that produces the most wines scoring higher than 90?
+What is the average and maximum number of total passengers for train stations in London or Glasgow?
+In which city do the most employees live and how many of them live there?
+What are the names of the states that have 2 to 4 employees living there?
+What is the id and detail of the vehicle used in lessons for most of the times?
+What is the number of airlines based in Russia?
+What is the maximum elevation of all airports in the country of Iceland?
+What is the highest elevation of an airport in the country of Iceland?
+What are the names of all airports whose elevation is between -50 and 50?
+What is the name and city of the airport that the most routes end at?
+What is the name and city of the airport from most of the routes start?
+What is the number of different different airports that are destinations for American Airlines?
+What is the number of airports per country, ordered from most to least?
+What is the number of cities in the United States with more than 3 airports?
+What is the count of cities with more than 3 airports?
+What are the names of all cities with more than one airport and how many airports do they have?
+What are the cities that have more than 2 airports sorted by number of airports?
+For each country, what is the average elevation of that country's airports?
+What are the cities with exactly two airports?
+What is the total number of routes for each country and airline in that country?
+What is the number of routes whose destinations are Italian airports?
+What is the number of routes operated by the airline American Airlines whose destinations are in Italy?
+What is the number of routes that end at John F Kennedy International Airport?
+What is the id of the routes whose source and destination airports are in the United States?
+What is the name of the airport that is the destination of the most number of routes that start in China?
+What is the maximum length in meters for the bridges and what are the architects' names?
+What is the average length in feet of the bridges?
+What are the distinct names and nationalities of the architects who have ever built a mill?
+What are the distinct types of mills that are built by American or Canadian architects?
+What are the ids, names and genders of the architects who built two bridges or one mill?
+What are the distinct name of the mills built by the architects who have also built a bridge longer than 80 meters?
+What is the most common mill type, and how many are there?

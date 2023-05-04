@@ -1,0 +1,397 @@
+What are the distinct ages of the heads who are acting?
+what are the first name and last name of all candidates?
+What are the different cities where people live?
+What is the id of the trip that has the shortest duration?
+What is the number of distinct cities the stations are located at?
+What are the title and issues of the books?
+What are the dates of publications in descending order of price?
+What is the number of distinct publication dates?
+How many distinct publication dates are there in our record?
+What are the characters and duration of actors?
+What are all the catalog entry names?
+What are the attribute data types with more than 3 attribute definitions?
+What are the name and level of catalog structure with level number between 5 and 10
+What are the name and publication date of the catalogs with catalog level number above 5?
+What are the average and minimum price (in Euro) of all products?
+What are the names of catalog entries with level number 8?
+What is the number of employees?
+What is the number of flights?
+What is the name of each aircraft and how many flights does each one complete?
+What are the ids of all employees that don't have certificates?
+What are the different allergy types?
+What are the allergies and their types?
+What are all the different food allergies?
+What is the type of allergy Cat?
+What are the allergy types and how many allergies correspond to each one?
+What are the different majors?
+What are the students ids of students who have more than one allergy?
+What are the student ids of students who don't have any allergies?
+What are the titles of all the albums?
+What is the company where Eduardo Martins is a customer?
+What are the names of all the media types?
+What are the different names of the genres?
+What are the names of all the playlists?
+What are the names of all Rock tracks that are stored on MPEG audio files?
+What are the ids, full names, and phones of each customer?
+What are the different customer ids, and how many cards does each one hold?
+What are the different card types, and how many cards are there of each?
+What are the codes of card types that have 5 or more cards?
+What are the different card type codes, and how many different customers hold each type?
+What are the different card type codes?
+What are the different types of transactions?
+What are the different card types, and how many transactions have been made with each?
+What are the different transaction types, and how many transactions of each have taken place?
+What are distinct locations where tracks are located?
+What are the distinct classes that races can have?
+What are the different classes of races, and how many races correspond to each?
+What are the id and address of the shops which have a happy hour in May?
+What are the names of different music genres?
+What are the distinct billing countries of the invoices?
+What is the average unit price of all the tracks?
+What are the distinct unit prices of all tracks?
+Which policy type appears most frequently in the available policies?
+What are the maximum and minimum settlement amount on record?
+What is the ordered list of customer ids?
+How many kinds of enzymes are there?
+What is the total count of enzymes?
+What are the names of enzymes in descending order?
+What are the names and locations of all enzymes listed?
+What is the maximum OMIM value in the database?
+What are the names and trade names of the medicines which has 'Yes' value in the FDA record?
+What are the names and trade names of the medcines that are FDA approved?
+What are the names of the enzymes used in the medicine  Amisulpride that acts as inhibitors?
+What are the ids and names of the medicine that can interact with two or more enzymes?
+For every medicine id, what are the names of the medicines that can interact with more than one enzyme?
+What are the ids, names, and FDA approval status for medicines ordered by descending number of possible enzyme interactions?
+What is the id and name of the enzyme with most number of medicines that can interact as 'activator'?
+What is the id and name of the enzyme that can interact with the most medicines as an activator?
+What is the most common interaction type between enzymes and medicine? And how many are there?
+What are the most common types of interactions between enzymes and medicine, and how many types are there?
+What is the count of enzymes without any interactions?
+What is the id and trade name of the medicines can interact with at least 3 enzymes?
+What are the ids and trade names of the medicine that can interact with at least 3 enzymes?
+What are the distinct name, location and products of the enzymes which has any 'inhibitor' interaction?
+What are the different names, locations, and products of the enzymes that are capable inhibitor interactions?
+What are the medicine and trade names that can interact as an inhibitor and activitor with enzymes?
+What are the different positions for match season?
+What is the minimum snatch score?
+What are the start date and end date of each apartment booking?
+What are the guest first name, start date, and end date of each apartment booking?
+What are the dates and locations of performances?
+What is the average number of attendees for performances?
+What is the sum of budgets of the Marketing and Finance departments?
+What are the ids of courses without prerequisites?
+What are the ids of instructors who didnt' teach?
+What are the date and venue of each debate?
+What are the ids, date opened, name, and other details for all accounts?
+What are the the full names and ids for all customers, and how many accounts does each have?
+What are total transaction amounts for each transaction type?
+What are the different product sizes?
+What are the different product colors?
+What are the invoice dates, order ids, and order details for all invoices?
+What are the different product names, and what is the sum of quantity ordered for each product?
+How many distinct order ids correspond to each product?
+How many different products correspond to each order id?
+What are all distinct country for artists?
+What are the gender and occupation of players?
+What are the name and os of web client accelerators that do not work with only a 'Broadband' type connection?
+How many different kinds of clients are supported by the web clients accelerators?
+How many accelerators are not compatible with the browsers listed ?
+What distinct accelerator names are compatible with the browswers that have market share higher than 15?
+How many institutions do not have an associated protein in our record?
+What are the name and location of the cinema with the largest capacity?
+What are the title and director of each film?
+What are the title and maximum price of each film?
+What are the names of products whose availability equals to 1?
+What are the maximum, minimum, and average booked count for the products booked?
+What are all the distinct payment types?
+What are the memories and carriers of phones?
+What is the total number of companies?
+What are the different main industries for all companies?
+For each headquarter, what are the headquarter and how many companies are centered there?
+What are the main indstries and total market value for each industry?
+What are the different region names, ordered by labels?
+What are the names of members and their corresponding parties?
+What are the names of parties and their respective regions?
+What are the names of members who are not in charge of any events?
+What document status codes do we have?
+What document type codes do we have?
+What are the shipping agent names?
+What are all role codes?
+What is the description of role code ED?
+How many draft copies does the document with id 2 have?
+What are the ids and details of events that have more than one participants?
+What are all the the participant ids, type code and details?
+What is the most common participant type?
+What are all the distinct participant ids who attended any events?
+What are the numbers of races for each constructor id?
+What is the number of technicians?
+What are the team and starting year of technicians?
+What is the team with at least 2 technicians?
+What are the names of technicians and the machine series that they repair?
+What are the names of the technicians  and how many machines are they assigned to repair?
+What are the names of perpetrators?
+What is the total number of campuses?
+what are the top 3 highest support rates?
+What is all the information about all people?
+What are the different names of all reviewers whose ratings do not have a date field?
+What are the number of rooms for each bed type?
+What are the bed type and name of all the rooms with traditional decor?
+What are the name and id of the three highest priced rooms?
+What are the names of rooms whose reservation frequency exceeds 60 times?
+How many different source system code for the cmi cross references are there?
+What are the distinct cross reference source system codes which are related to the master customer details 'Gottlieb, Becker and Wyman'?
+What are the themes of parties ordered by the number of hosts in ascending manner?
+What are the themes and locations of parties?
+What are the name and population of each county?
+What are the distinct districts for elections?
+What are the delegate and committee information for each election record?
+what are the average and maximum attendances of all events?
+How many distinct types of accounts are there?
+What are the names of the different banks that have provided loans?
+What are the dates of the assessment notes?
+What are the code and description of the most frequent behavior incident type?
+What are the code and description of the least frequent detention type ?
+What are all the fault descriptions and the fault status of all the faults recoreded in the logs?
+How many fault status codes are recorded in the fault log parts table?
+What are all the distinct asset models?
+What is the description for the CIS-220 and how many credits does it have?
+What is the total credit does each department offer?
+What are the number of different course codes?
+What are the codes of all the courses that are located in room KLR209?
+What are the types and countries of competitions?
+What is the most common competition type?
+how many different positions are there?
+What are the first name and department name of all employees?
+What are the salaries and manager ids for employees who have managers?
+What are department ids for departments with managers managing more than 3 employees?
+What are the employee ids of employees who report to Payam, and what are their salaries?
+What is all the information regarding employees who are managers?
+Give the distinct department ids of departments in which a manager is in charge of 4 or more employees?
+What are total salaries and department id for each department that has more than 2 employees?
+What are the department names, cities, and state provinces for each department?
+What are the department names and how many employees work in each of them?
+What are the id of all the files in mp3 format?
+What is the most popular file format?
+What are the maximum and minimum resolution of songs whose duration is 3 minutes?
+What are the maximum duration and resolution of songs grouped and ordered by languages?
+What is the average number of attendance at home games for each year?
+What are the id and name of the photos for mountains?
+How many different kinds of lens brands are there?
+how many programs are there?
+What are the name, origin and owner of each program?
+What is the total share (in percent) of all the channels owned by CCTV?
+what are the names of the channels that broadcast in both morning and night?
+how many programs are broadcast in each time section of the day?
+What is the list of program origins ordered alphabetically?
+what is the number of different channel owners?
+What are all the distinct details of the customers?
+what are name and phone number of patients who had more than one appointment?
+What is the names of the physicians who prescribe medication Thesisin?
+What is the alphabetically ordered list of all distinct medications?
+What are the names of the physician who prescribed the highest dose?
+What are the three most costly procedures?
+What are the distinct names of nurses on call?
+What are the type and nationality of ships?
+What are the types and nationalities of every ship?
+What is the most common type of ships?
+For each type, what is the average tonnage?
+What are the different film Directors?
+What are the titles of films and corresponding types of market estimations?
+What are all the document type codes and document type names?
+What is the name and description for document type code RV?
+What are all the location codes and location names?
+What are the name and description for location code x?
+What are all the role codes, role names, and role descriptions?
+What are the different location codes for documents?
+What are each document's location code, and starting date and ending data in that location?
+What is the code of each location and the number of documents in that location?
+What are the id of each employee and the number of document destruction authorised by that employee?
+What are the id of each employee and the number of document destroyed by that employee?
+What are the ids of all the employees who authorize document destruction?
+What are the details of the project that is producing both patents and papers as outcomes?
+What is the total grant amount of the organisations described as research?
+What is the total amount of grant money for research?
+What are the send dates for all documents that have a grant amount of more than 5000 and are involved in research?
+What are the task details, task id and project id for the projects which are detailed as 'omnis' or  have more than 2 outcomes?
+What are the task details, task ids, and project ids for the progrects that are detailed as 'omnis' or have at least 3 outcomes?
+When do all the researcher role staff start to work, and when do they stop working?
+When did researchers start and stop working?
+How many kinds of roles are there for the staff?
+How many different roles are there on the project staff?
+What are the details for the project whose research has been published?
+When did the first staff for the projects started working?
+What are the details of the project with no outcomes?
+For grants that have descriptions of Regular and Initial Applications, what are their start dates?
+For each grant id, how many documents does it have, and which one has the most?
+What are the details of all organizations that are described as Sponsors and sort the results in ascending order?
+What are the descriptions of all the project outcomes?
+What are the names and countries of members?
+What are the names of all the documents, as well as the access counts of each, ordered alphabetically?
+What is the average access count of documents?
+What are the names of documents that do not have any sections?
+What are the names of documents that do not have any images?
+What is the name of the document with the most number of sections?
+What are the different role codes for users, and how many users have each?
+What are the average profits of companies?
+What are the maximum and minimum sales of the companies whose industries are not "Banking".
+Whah are the name of each industry and the number of companies in that industry?
+What are the names and type codes of products?
+What are the names and locations of festivals?
+What is the average number of audience for festivals?
+What are all the distinct premise types?
+What are the distinct address type codes for all customer addresses?
+What are the course names for courses taught on MTW?
+What is the number of departments in Division "AS"?
+What are the name of courses that have at least five enrollments?
+What are the full names and gradepoints for all enrollments?
+What are the names and ids of products costing between 600 and 700?
+What are the distinct names and phone numbers for suppliers who have red jeans?
+What are the distinct names of products purchased by at least two different customers?
+What is the number of aircraft?
+What are the descriptions for the aircrafts?
+What are the id and details of the customers who have at least 3 events?
+What is the maximum page size for everything that has more than 3 products listed?
+What is the average pages per minute color?
+What is the average number of pages per minute color?
+What are the products with the maximum page size A4 that also have a pages per minute color smaller than 5?
+What are the products with the maximum page size eqal to A4 or a pages per minute color less than 5?
+What is the most common maximum page size?
+What are the names of all products that are not the most frequently-used maximum page size?
+What are the unique types of player positions in the tryout?
+What are the different types of player positions?
+What are the different carriers for devices, listed in alphabetical order?
+What are the carriers of devices whose software platforms are not "Android"?
+How many different software platforms are there for devices?
+What are the open dates and years for the shop named Apple?
+What are the names of device shops, and what are the carriers that they carry devices in stock for?
+What are the names of shops that have more than a single kind of device in stock?
+What is the name of the shop that has the most different kinds of devices in stock?
+What are the different software platforms for devices, and how many devices have each?
+What are the different software platforms for devices, ordered by frequency descending?
+What are the names of shops that do not have any devices in stock?
+What are the carriers of devices that are not in stock anywhere?
+What are the carriers of devices that are in stock in more than a single shop?
+What is the order date of each booking?
+What are the planned delivery date and actual delivery date for each booking?
+What are the phone and email for customer Harold?
+What are the store names of drama workshop groups?
+What are the distinct payment method codes in all the invoices?
+What is the description of the marketing region China?
+What is the description, code and the corresponding count of each service type?
+What are the phones and emails of workshop groups in which services are performed?
+What are the names of workshop groups in which services with product name "film" are performed?
+What are the different product names? What is the average product price for each of them?
+What are the product names with average product price smaller than 1000000?
+What are the total order quantities of photo products?
+How many distinct currency codes are there for all drama workshop groups?
+What is the marketing region code that has the most drama workshop groups?
+What are all the labels?
+What are the different album labels listed?
+What are the unique labels for the albums?
+What are all the instruments used?
+What are the different instruments listed in the database?
+What is the type of vocables that appears most frequently?
+What are the different types of vocals?
+What are the names of products produced by both Creative Labs and Sony?
+What are the names of companies that do not make DVD drives?
+What are the names of all products?
+What are the names and prices of all products in the store?
+What is all the product data, as well as  each product's manufacturer?
+What are the log id and entry description of each problem?
+How many problems are there for product voluptatem?
+What are the ids of the problems which are reported after 1978-06-26?
+What are the ids of the problems which are reported before 1978-06-26?
+What is the list of distinct product names sorted by product id?
+What are the product ids for the problems reported by Christop Berge with closure authorised by Ashley Medhurst?
+What are the ids of the problems reported before the date of any problem reported by Lysanne Turcotte?
+What are the ids of the problems reported after the date of any problems reported by Rylan Homenick?
+What are the three products that have the most problems?s
+What are the ids of the problems that are from the product "voluptatem" and are reported after 1995?
+How many different levels do members have?
+What are the different membership levels?
+What are the distinct registration dates and the election cycles?
+What are the names and buying prices of all the products?
+What are the descriptions for each color?
+What are the different names of the product characteristics?
+What are the names, color descriptions, and product descriptions for products in the 'Herbs' category?
+What are the product ids and color descriptions for products with two or more characteristics?
+What are the names of products with 'white' as their color description?
+What are the names and data types of the characteristics of the 'cumin' product?
+What are the names of the products that have a color description of 'red' and the 'fast' characteristic?
+What are the unit of measure and category code for the 'chervil' product?
+What is the description of the color for most products?
+What is the description of the color used by least products?
+What are the names, details and data types of the characteristics which are never used by any product?
+What are characteristic names used at least twice across all products?
+Give the names of characteristics that are in two or more products?
+What are the names of all the dorms that don't have any amenities?
+What are the different dorm amenity names in alphabetical order?
+What are all the different product names, and how many complains has each received?
+What are the emails and phone numbers of custoemrs who have never filed a complaint?
+What are the authors of submissions and their colleges?
+What is the total share of transactions?
+How many distinct transaction types are used in the transactions?
+What are the lot details of lots associated with transactions with share count smaller than 50?
+What are the details of all sales and purchases?
+What are the details of the lots which are not used in any transactions?
+What are the distinct location names?
+What is the detail of each visitor?
+What are the distinct visit dates?
+What are the details and opening hours of the museums?
+What are the details of the shops that can be accessed by walk?
+What is the count of different game types?
+What are the different types of video games?
+What are the names of all video games that are collectible cards?
+What are the advisors
+What are the ids for all sporty students who are on scholarship?
+What are ids and total number of hours played for each game?
+What are all the payment methods?
+What are the details of all products?
+What are the distinct Famous release dates?
+What are the maximum and minimum week on top of all volumes?
+How many distinct artists do the volumes associate to?
+What are the different types of forms?
+How many distinct payment methods are used by parties?
+how many airports are there in each country?
+What are the ids and details of all accounts?
+What are the ids and details of all statements?
+What are the ids and names for each of the documents?
+What are the names and ids of documents that have the type code BK?
+What are project ids of projects that have 2 or more corresponding documents?
+How many documents are there of each type?
+What are the codes corresponding to document types for which there are less than 3 documents?
+What are the details for statements with the details 'Private Project', and what are the names of the corresponding documents?
+What are the codes, names, and descriptions of the different document types?
+What are the ids and details for each project?
+What are the type codes and descriptions of each budget type?
+What are the different budget type codes, and how many documents are there for each?
+What are the ids of documents which don't have expense budgets?
+What are the dates for the documents with both 'GV' type and 'SF' type expenses?
+What is the total number of hours for all projects?
+What is the average hours across all projects?
+What are the naems of all the projects, and how many scientists were assigned to each of them?
+What are the names of projects that require more than 300 hours, and how many scientists are assigned to each?
+What are the names of the scientists, and how many projects are each of them working on?
+What are the names of scientists who are assigned to any project?
+What are the grapes and appelations of each wine?
+What are the names and scores of all wines?
+What are the names of wines with scores higher than 90?
+What are the names of wines made from red grapes?
+What are the names and scores of wines that are made of white color grapes?
+What are the numbers of wines for different grapes?
+What are the average prices of wines for different years?
+What are the names of wines, sorted by price ascending?
+What are the maximum price and score of wines produced by St. Helena appelation?
+What are the maximum price and score of wines in each year?
+What are the maximum price and score of wines for each year?
+What are the average price and score of wines grouped by appelation?
+What are the average price and score of wines for each appelation?
+What are all locations of train stations?
+What are the ids of all vehicles?
+What are the first and last names for all customers?
+What is the id of the most recent order?
+What are the distinct details of invoices created before 1989-09-03 or after 2007-12-25?
+What are all the different book publishers?
+What are all the company names that have a book published by Alyson?
+What are the titles of movies and books corresponding to companies incorporated in China?

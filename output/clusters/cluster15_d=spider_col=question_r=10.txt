@@ -1,0 +1,248 @@
+Find the number of followers for each user.
+Find the name and email of the user whose name contains the word ‘Swift’.
+Find the name and email of the users who have more than 1000 followers.
+Find the name and email for the users who have more than one follower.
+Find the name of the user who has the largest number of followers.
+Find the name and email of the user followed by the least number of people.
+List the name and number of followers for each user, and sort the results by the number of followers in descending order.
+List the names of 5 users followed by the largest number of other users.
+Find the name and partition id for users who tweeted less than twice.
+Find the average number of followers for the users who do not have any tweet.
+Find the maximum and total number of followers of all users.
+Find the list of attribute data types possessed by more than 3 attribute definitions.
+Find the name and level of catalog structure with level between 5 and 10.
+What are the entry names of catalog with the attribute possessed by most entries.
+Find the entry names of the catalog with the attribute that have the most entries.
+Which catalog content has the smallest capacity? Return the catalog entry name.
+Find the names of catalog entries with level number 8.
+Find the name and attribute ID of the attribute definitions with attribute value 0.
+Which attribute definitions have attribute value 0? Give me the attribute name and attribute ID.
+List all media types.
+For each journal_committee, find the editor name and the journal theme.
+Show all card type codes and the number of cards in each type.
+Return the code of the card type that is most common.
+Show the number of card types.
+Show all transaction types.
+Show the number of transaction types.
+Show the transaction type and the number of transactions.
+Find the maximum and minimum durations of tracks in milliseconds.
+Find the policy type used by more than 4 customers.
+Find the policy types more than 4 customers use. Show their type code.
+List all the policy types used by the customer enrolled in the most policies.
+List all the services in the alphabetical order.
+Give me a list of all the service names sorted alphabetically.
+List the maximum, minimum and average number of used kb in screen mode.
+Show all distinct building descriptions.
+Return the apartment number and the number of rooms for each apartment.
+Show the most common apartment type code.
+Show each apartment type code, and the maximum and minimum number of rooms for each type.
+Return each apartment type code along with the maximum and minimum number of rooms among each type.
+Find the names of all instructors who have taught some course and the course_id.
+Which type of policy is most frequently used? Give me the policy type code.
+Find the type code of the most frequently used policy.
+Find all the policy types that are used by more than 2 customers.
+Which types of policy are chosen by more than 2 customers? Give me the policy type codes.
+Find the number of distinct stages in claim processing.
+Which claim processing stage has the most claims? Show the claim status name.
+Find the number of records of each policy type and its type code.
+For each policy type, return its type code and its count in the record.
+Show the number of accounts.
+Show the number of customers for each gender.
+Return the average, minimum, maximum, and total transaction amounts.
+Show the transaction types and the total amount of transactions.
+What is the order id and order details for the order more than two invoices.
+Show the order ids and the number of items in each order.
+List all information in the item table.
+Find the names of users who did not leave any review.
+Find the name of the user who gives the most reviews.
+For each user, return the name and the average rating of reviews given by them.
+For each user, find their name and the number of reviews written by them.
+Find the name of the user who gave the highest rating.
+Find the name of the source user with the highest average trust score.
+Find each target user's name and average trust score.
+Find the name of the target user with the lowest trust score.
+Find the number of users who did not write any review.
+Find the total saving balance for each account name.
+Find the number of web accelerators used for each Operating system.
+Show the protein name and the institution name.
+How many employees does each role have? List role description, id and number of employees.
+List roles that have more than one employee. List the role description and number of employees.
+List the document type code for the document with the id 2.
+List the document ids for any documents with the status code done and the type code paper.
+Which document has the most draft copies? List its document id and number of draft copies.
+Which documents have more than 1 draft copies? List document id and number of draft copies.
+List all employees in the circulation history of the document with id 1. List the employee's name.
+Which employee has showed up in most circulation history documents. List the employee's name and the number of drafts and copies.
+For each document, list the number of employees who have showed up in the circulation history of that document. List the document ids and number of employees.
+How many events have each participants attended? List the participant id, type and the number.
+List the type of the services in alphabetical order.
+List the service id and details for the events.
+Find the names of all reviewers who have ratings with a NULL value for the date.
+What is the cmi cross reference id that is related to at least one council tax entry? List the cross reference id and source system code.
+What is the tax source system code related to the benefits and overpayments? List the code and the benifit id, order by benifit id.
+List all information about customer master index, and sort them by details in descending order.
+For each party, return its theme and the name of its host.
+Show the average and maximum damage for all storms with max speed higher than 1000.
+Find the name of the first 5 customers.
+Return all distinct detention type codes.
+Which assets have 2 parts and have less than 2 fault logs? List the asset id and detail.
+How many assets does each maintenance contract contain? List the number and the contract id.
+Which engineer has visited the most times? Show the engineer id, first name and last name.
+Which parts have more than 2 faults? Show the part name and id.
+List all every engineer's first name, last name, details and coresponding skill description.
+For all the faults of different parts, what are all the decriptions of the skills required to fix them? List the name of the faults and the skill description.
+How many assets can each parts be used in? List the part name and the number.
+How many engineer visits are required at most for a single fault log? List the number and the log entry id.
+Which engineers have never visited to maintain the assets? List the engineer first name and last name.
+List the asset id, details, make and model for every asset.
+Which part fault requires the most number of skills to fix? List part id and name.
+Which kind of part has the least number of faults? List the part name.
+Which fault log included the most number of faulty parts? List the fault log id, description and record time.
+Which skill is used in fixing the most number of faults? List the skill id and description.
+List the all the assets make, model, details by the disposed date ascendingly.
+How many engineers did each staff contact? List both the contact staff name and number of engineers contacted.
+Which assets did not incur any fault log? List the asset model.
+Find the first names of all instructors who have taught some course and the course code.
+Display the first name and department name for each employee.
+display the department name and number of employees in each of the department.
+Give the name of each department and the number of employees in each.
+get the details of employees who manage a department.
+display the employee number and name( first name and last name ) for all employees who work in a department with any employee whose name contains a ’T’.
+List the file size and format for all songs that have resolution lower than 800.
+Find the file format that is used by the most files.
+List the id, color scheme, and name for all the photos.
+list all the names of programs, ordering by launch time.
+List the name, origin and owner of each program.
+List all program origins in the alphabetical order.
+Find the total rating ratio for each channel owner.
+Count the number of tests with "Fail" result.
+List each test result and its count in descending order of count.
+Find the enrollment date for all the tests that have "Pass" result.
+Return the completion date for all the tests that have "Fail" result.
+List the name and cost of all procedures sorted by the cost from the highest to the lowest.
+Sort the list of names and costs of all procedures in the descending order of cost.
+Show the number of document types.
+List all document type codes and document type names.
+Give me the name and description of the document type code RV.
+Show the number of documents with document type code CV or BK.
+Give me the name and description of the location with code x.
+List all role codes, role names, and role descriptions.
+Show all role codes and the number of employees in each role.
+Find the code of the role that have the most employees.
+Show the role code with the least employees.
+What is the role with the smallest number of employees? Find the role codes.
+Show the location code, the starting date and ending data in that location for all the documents.
+Show the location codes and the number of documents in each location.
+Find the code of the location with the largest number of documents.
+Show the location codes with at least 3 documents.
+Show the location name and code with the least documents.
+Show the id of each employee and the number of document destruction authorised by that employee.
+Show the employee ids and the number of documents destroyed by each employee.
+List the project details of the project both producing patent and paper as outcomes.
+List the project details of the projects which did not hire any staff for a researcher role.
+How many staff does each project has? List the project id and the number in an ascending order.
+For each project id, how many staff does it have? List them in increasing order.
+Which project made the most number of outcomes? List the project details and the project id.
+Which projects have no outcome? List the project details.
+How many documents can one grant have at most? List the grant id and number.
+List the organisation id with the maximum outcome count, and the count.
+How many tasks does each project have? List the task count and the project detail.
+List the description of the outcomes for all projects.
+Find the name and access counts of all documents, in alphabetic order of the document name.
+Find the types of documents with more than 4 documents.
+Find the total access count of all documents in the most popular document type.
+Return the structure description of the document that has been accessed the fewest number of times.
+Find the list of documents that are both in the most three popular type and have the most three popular structure.
+What document types do have more than 10000 total access number.
+Return the codes of the document types that do not have a total access count of over 10000.
+Find all the name of documents without any sections.
+List all the username and passwords of users with the most popular role.
+Find names of the document without any images.
+Return the name of the document that has the most sections.
+Find the description of the most popular role among the users that have logged in.
+Find the average access count of documents with the least popular structure.
+List all the image name and URLs in the order of their names.
+Find the number of users in each role.
+Give the codes of document types that have more than 2 corresponding documents.
+Show the most common type code across products.
+Find the types and details for all premises and order by the premise type.
+Show each premise type and the number of premises in that type.
+Show the outcome code of mailshots along with the number of mailshots in each outcome code.
+Show the premise type and address type code for all customer addresses.
+What is the maximum number that a certain service is provided? List the service id, details and number.
+List the id and type of each thing, and the details of the organization that owns it.
+Which events have the number of notes between one and three? List the event id and the property id.
+List the customer event id and the corresponding move in date and property id.
+Please show different software platforms and the corresponding number of devices using each.
+List the software platform shared by the greatest number of devices.
+Show the minimum, average, maximum order quantity of all invoices.
+Find the payment method that is used the most often in all the invoices. Give me its code.
+List the description, code and the number of services for each service type.
+Find the description and code of the service type that is performed the most times.
+Which problem log was created most recently? Give me the log id.
+Find the oldest log id and its corresponding problem id.
+Find all the ids and dates of the logs for the problem whose id is 10.
+For the problem with id 10, return the ids and dates of its problem logs.
+List all the log ids and their descriptions from the problem logs.
+List the first and last names of all distinct staff members who are assigned to the problem whose id is 1.
+List the problem id and log id which are assigned to the staff named Rylan Homenick.
+For each product with some problems, list the count of problems and the product id.
+Show the membership level with most number of members.
+List the description of all the colors.
+Find the number of complaints with Product Failure type for each complaint status.
+Compute the average score of submissions.
+Show the result of the submission with the highest score.
+Which submission received the highest score in acceptance result. Show me the result.
+How many workshops did each author submit to? Return the author name and the number of workshops.
+Sort the each workshop in alphabetical order of the venue. Return the date and venue of each workshop.
+Show all distinct lot details.
+Show the maximum amount of transaction.
+Show the minimum amount of transactions whose type code is "PUR" and whose share count is bigger than 50.
+Show the transaction type descriptions and dates if the share count is smaller than 10.
+Show the average transaction amount for different transaction types.
+Show the maximum and minimum share count of different transaction types.
+Show the transaction type code that occurs the fewest times.
+Show the transaction type code that occurs the most frequently.
+Show the description of the transaction type that occurs most frequently.
+Show the description and code of the attraction type most tourist attractions belong to.
+Show all video game types.
+Show all video games with type Collectible card game.
+Return the total number of distinct customers.
+Find the average order quantity per order.
+List all the contact channel codes that were used less than 5 times.
+Compute the average active time span of contact channels.
+List all the types of forms.
+Find name of the services that has never been used.
+Show all account ids and account details.
+Show statement id, statement detail, account detail for accounts.
+Show all statement id and the number of accounts for each statement.
+Show the statement id and the statement detail for the statement with most number of accounts.
+Show the number of documents.
+Show the ids and names of all documents.
+Find names and ids of all documents with document type code BK.
+Count the number of documents with the type code BK that correspond to each product id.
+Show project ids and the number of documents in each project.
+Return the id of the project that has the fewest corresponding documents.
+Show the ids for projects with at least 2 documents.
+List document type codes and the number of documents in each code.
+Return the code of the document type that is most common.
+Show the document type code with fewer than 3 documents.
+Show all document type codes, document type names, document type descriptions.
+Return the type name, type description, and date of creation for each document.
+Show the number of projects.
+List ids and details for all projects.
+Return the ids and details corresponding to projects for which there are more than two documents.
+List all budget type codes and descriptions.
+Return the description of the budget type that has the code ORG.
+Show the budget type code and description and the corresponding document id.
+Show budget type codes and the number of documents in each budget type.
+What is the budget type code with most number of documents.
+Give the budget type code that is most common among documents with expenses.
+Show ids for all documents in type CV without expense budgets.
+What are the ids of documents with the type code CV that do not have expenses.
+Find the number of distinct projects.
+List the name of all projects that are operated longer than the average working hours of all projects.
+Select the project names which are not assigned yet.
+Show the detail of vehicle with id 1.
+Find the number of routes and airport name for each source airport, order the results by decreasing number of routes.
+Find the id of the order made most recently.

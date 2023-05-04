@@ -1,0 +1,357 @@
+Show name and salary for all employees sorted by salary.
+Show ids for all employees with at least 100000 salary.
+Show the id and name of the employee with maximum salary.
+Show the name of employees with three lowest salaries.
+Show names for all employees with salary more than the average.
+Show origin and destination for flights with price higher than 300.
+Show the flight number and distance of the flight with maximum price.
+Show names for all employees who have certificate of Boeing 737-800.
+Show names for all employees who do not have certificate of Boeing 737-800.
+A list of the top 5 countries by number of invoices. List country name and number of invoices.
+A list of the top 8 countries by gross/total invoice size. List country name and gross invoice size.
+A list of the top 10 countries by average invoice size. List country name and average invoice size.
+Find out the top 10 customers by total number of orders. List customers' first and last name and the number of total orders.
+List the customers first and last name of 10 least expensive invoices.
+List total amount of  invoice from Chicago, IL.
+List the number of invoices from Chicago, IL.
+List the number of invoices from the US, grouped by state.
+List the state in the US with the most invoices.
+List the number of invoices and the invoice total from California.
+Find the full name of employee who supported the most number of customers.
+Which employee manage most number of peoples? List employee's first and last name, and number of people report to that employee.
+Show ids, customer ids, names for all accounts.
+Show other account details for account with name 338.
+Give the full name and phone of the customer who has the account name 162.
+Return the number of accounts that the customer with the first name Art and last name Turcotte has.
+Show all customer ids and the number of accounts for each customer.
+Show the customer id and number of accounts with most accounts.
+What is the customer first, last name and id with least number of accounts.
+Give the full name and customer id of the customer with the fewest accounts.
+Show the number of all customers without an account.
+Show the first names and last names of customers without any account.
+Show distinct first and last names for all customers with an account.
+Return the phone and email of the customer with the first name Aniyah and last name Feest.
+Show the number of customer cards.
+Show ids, customer ids, card type codes, card numbers for all cards.
+What is the first name, last name, and phone of the customer with card 4560596484842.
+Return the full name and phone of the customer who has card number 4560596484842.
+Count the number of cards the customer with the first name Art and last name Turcotte has.
+Count the number of customer cards of the type Debit.
+Count the number of credit cards that the customer with first name Blanche and last name Huels has.
+Show all customer ids and the number of cards owned by each customer.
+Return the id of the customer who has the most cards, as well as the number of cards.
+Show id, first and last names for all customers with at least two cards.
+What is the customer id, first and last name with least number of accounts.
+Return the id and full name of the customer who has the fewest accounts.
+Show card type codes with at least 5 cards.
+Show all card type codes and the number of customers holding cards in each type.
+Show the customer ids and firstname without a credit card.
+Show all card type codes.
+Return the average transaction amount, as well as the total amount of all transactions.
+Show the card type codes and the number of transactions.
+Return the type of transaction with the highest total amount.
+Find the ids and names of members who are under age 30 or with black membership card.
+Find the purchase time, age and address of each member, and show the results in the order of purchase time.
+Find the different billing countries for all invoices.
+Find the full names of employees who help customers with the first name Leonie.
+Find all invoice dates corresponding to customers with first name Astrid and last name Gruber.
+Find all the customer last names that do not have invoice totals larger than 20.
+Find the first names of all customers that live in Brazil and have an invoice.
+Please show the employee first names and ids of employees who serve at least 10 customers.
+Please show the employee last names that serves no more than 20 customers.
+Find the phone numbers of customers using the most common policy type among the available policies.
+Return the sum and average of all settlement amounts.
+Find the name of services that have been used for more than 2 times in first notification of loss.
+Which services have been used more than twice in first notification of loss? Return the service name.
+Find the claim that has the largest total settlement amount. Return the effective date of the claim.
+Which customer uses the most policies? Give me the customer name.
+Find the names of users who do not have a first notification of loss record.
+Which customers do not have a first notification of loss record? Give me the customer names.
+Which customers have used the service named "Close a policy" or "Upgrade a policy"? Give me the customer names.
+Which customers have used both the service named "Close a policy" and the service named "Upgrade a policy"? Give me the customer names.
+Find the maximum and minimum settlement amount.
+Which apartments have bookings with status code "Confirmed"? Return their apartment numbers.
+Which guests have apartment bookings with status code "Confirmed"? Return their first names and last names.
+Show the booking status code and the corresponding number of bookings.
+How many bookings does each booking status have? List the booking status code and the number of corresponding bookings.
+Find the total budgets of the Marketing or Finance department.
+Find the total and average amount paid in claim headers.
+Find the total amount claimed in the most recently created document.
+Which customer made the largest amount of claim in a single claim? Return the customer details.
+Which customer made the smallest amount of claim in one claim? Return the customer details.
+Find the names of customers who have no policies associated.
+Which customers have the substring "Diana" in their names? Return the customer details.
+Find the names of the customers who have an deputy policy.
+Which customers have an insurance policy with the type code "Deputy"? Give me the customer details.
+Find the names of customers who either have an deputy policy or uniformed policy.
+Which customers have an insurance policy with the type code "Deputy" or "Uniform"? Return the customer details.
+Find the name of the customer that has been involved in the most policies.
+Which customer have the most policies? Give me the customer details.
+Find the customer who started a policy most recently.
+Show the id, the date of account opened, the account name, and other account detail for all accounts.
+Show the account name and other account detail for all accounts by the customer with first name Meaghan and last name Keeling.
+Show the first name and last name for the customer with account name 900.
+Count the number of customers who do not have an account.
+Show the unique first names, last names, and phone numbers for all customers with any account.
+Show customer ids who don't have an account.
+How many accounts does each customer have? List the number and customer id.
+Count the number of accounts corresponding to each customer id.
+What is the customer id, first and last name with most number of accounts.
+Return the id and full name of the customer with the most accounts.
+Show id, first name and last name for all customers and the number of accounts.
+Show first name and id for all customers with at least 2 accounts.
+How many transaction does each account have? Show the number and account id.
+Count the number of financial transactions that correspond to each account id.
+Count the number of financial transactions that the account with the name 337 has.
+Show ids for all transactions whose amounts are greater than the average.
+Show the account name, id and the number of transactions for each account.
+Return the names and ids of each account, as well as the number of transactions.
+Show the account id with most number of transactions.
+Show the account id and name with at least 4 transactions.
+Show the invoice number and the number of transactions for each invoice.
+Show invoice dates and order id and details for all invoices.
+Show the order ids and the number of invoices for each order.
+Return the order ids and details for orderes with two or more invoices.
+Return the last name, id and phone number of the customer who has made the greatest number of orders.
+Find the total savings balance of all accounts except the account with name ‘Brown’.
+Find the name and id of accounts whose checking balance is below the maximum checking balance.
+Find the checking balance and saving balance in the Brown’s account.
+Find the names of accounts whose checking balance is above the average checking balance, but savings balance is below the average savings balance.
+Find the name of account that has the lowest total checking and saving balance.
+Find the name and checking balance of the account with the lowest savings balance.
+Find the number of checking accounts for each account name.
+Find the name of accounts whose checking balance is below the average checking balance.
+Find the saving balance of the account with the highest checking balance.
+Find the total checking and saving balance of all accounts sorted by the total balance in ascending order.
+Find the name and checking balance of the account with the lowest saving balance.
+Find the name, checking balance and saving balance of all accounts in the bank.
+Find the name, checking balance and savings balance of all accounts in the bank sorted by their total checking and savings balance in descending order.
+Find the name of accounts whose checking balance is higher than corresponding saving balance.
+Find the name and total checking and savings balance of the accounts whose savings balance is lower than corresponding checking balance.
+Find the name and savings balance of the top 3 accounts with the highest saving balance sorted by savings balance in descending order.
+List each donator name and the amount of endowment in descending order of the amount of endowment.
+Show the names of all the donors except those whose donation amount less than 9.
+List the amount and donor name for the largest amount of donation.
+How many bookings did each customer make? List the customer id, first name, and the count.
+What is the maximum total amount paid by a customer? List the customer id and amount.
+What are the first name, last name, and gender of all the good customers? Order by their last name.
+Show all headquarters with both a company in banking industry and a company in Oil and gas.
+Which shipping agent shipped the most documents? List the shipping agent name and the number of documents.
+List the document ids of documents with the status done and type Paper, which not shipped by the shipping agent named USPS.
+List document id of documents status is done and document type is Paper and the document is shipped by shipping agent named USPS.
+List the employees who have not showed up in any circulation history of documents. List the employee's name.
+find all dependent names who have a spouse relation with some employee.
+Return the first names and last names of employees who earn more than 30000 in salary.
+Return the average money requested across all entrepreneurs.
+Return the name, rate, check in and check out date for the room with the highest rate.
+Return the name and number of reservations made for each of the rooms.
+List the names and emails of customers who payed by Visa card.
+Find the states which do not have any employee in their record.
+List the names, phone numbers, and emails of all customers sorted by their dates of becoming customers.
+Find the payment method that is used most frequently.
+Find all the payment dates for the payments with an amount larger than 10 and the payments handled by a staff person with the first name Elsa.
+Return the sum of all payment amounts.
+Which customer, who has made at least one payment, has spent the least money? List his or her first name, last name, and the id.
+Which staff handled least number of payments? List the full name and the id.
+Give the full name and staff id of the staff who has handled the fewest payments.
+Return the address and email of the customer with the first name Linda.
+Return the full name of the customer who made the first rental.
+Return the full name of the staff who provided a customer with the first name April and the last name Burns with a film rental.
+Return the id of the store with the most customers.
+Return the amount of the largest payment.
+List the name of all customers sorted by their account balance in ascending order.
+List the name of all different customers who have some loan sorted by their total loan amount.
+Find the state, account type, and credit score of the customer whose number of loan is 0.
+Find the name and account balance of the customer whose name includes the letter ‘a’.
+Find the total account balance of each customer from Utah or Texas.
+Find the name of customers who have both saving and checking account types.
+Find the name of customers who do not have an saving account.
+Find the name of customers who do not have a loan with a type of Mortgages.
+Find the name of customers who have loans of both Mortgages and Auto.
+Find the name of customers whose credit score is below the average credit scores of all customers.
+Find the name of customer who has the lowest credit score.
+Find the name, account type, and account balance of the customer who has the highest credit score.
+Find the name of customer who has the highest amount of loans.
+For each account type, find the average account balance of customers with credit score lower than 50.
+For each state, find the total account balance of customers whose credit score is above 100.
+Find the total amount of loans offered by each bank branch.
+Find the name of customers who have more than one loan.
+Find the name and account balance of the customers who have loans with a total amount of more than 5000.
+Find the name of bank branch that provided the greatest total amount of loans.
+Find the name of bank branch that provided the greatest total amount of loans to customers with credit score is less than 100.
+Find the name and credit score of the customers who have some loans.
+Find the the name of the customers who have a loan with amount more than 3000.
+Find the names of bank branches that have provided a loan to any customer whose credit score is below 100.
+Find the total amount of loans provided by bank branches in the state of New York.
+Find the average credit score of the customers who have some loan.
+Find the average credit score of the customers who do not have any loan.
+How many assets does each third party company supply? List the count and the company id.
+Which third party companies have at least 2 maintenance engineers or have at least 2 maintenance contracts? List the company id and name.
+Which staff have contacted which engineers? List the staff name and the engineer first name and last name.
+Which part has the least chargeable amount? List the part id and amount.
+Which company started the earliest the maintenance contract? Show the company name.
+List the first name of all employees with job code PROF ordered by their date of birth.
+Find the market shares and names of furnitures which no any company is producing in our records.
+List the full name (first and last name), and salary for those employees who earn below 6000.
+Return all the information for all employees without any department number.
+display the full name (first and last), hire date, salary, and department number for those employees whose first name does not containing the letter M.
+display the full name (first and last), hire date, salary, and department number for those employees whose first name does not containing the letter M and make the result set in ascending order by department number.
+Return the phone numbers of employees with salaries between 8000 and 12000.
+Return all information about employees with salaries between 8000 and 12000 for which commission is not null or where their department id is not 40.
+Return the full names and salaries of employees with null commissions.
+Display the first and last name, and salary for those employees whose first name is ending with the letter m.
+Return the full names and salaries for employees with first names that end with the letter m.
+display all the information for all employees who have the letters D or S in their first name and also arrange the result in descending order by salary.
+display the employee ID for each employee and the date on which he ended his previous job.
+display the ID for those employees who did two or more jobs in the past.
+Provide the full names of employees earning more than the employee with id 163.
+display the employee ID and job name for all those jobs in department 80.
+Give the first name and job id for all employees in the Finance department.
+display the employee name ( first name and last name ) and hire date for all employees in the same department as Clara.
+display the employee name ( first name and last name ) and hire date for all employees in the same department as Clara excluding Clara.
+display the employee number, name( first name and last name ), and salary for all employees who earn more than the average salary and who work in a department with any employee with a 'J' in their first name.
+display the employee number and job id for all employees whose salary is smaller than any salary of those employees whose job title is MK_MAN.
+display the employee number, name( first name and last name ) and job title for all employees whose salary is more than any salary of those employees whose job title is PU_MAN.
+display those employees who contain a letter z to their first name and also display their last name, city.
+display the full name (first and last name ) of employee with ID and name of the country presently where (s)he is working.
+display the full name (first and last name), and salary of those employees who working in any department located in London.
+Which claims caused more than 2 settlements or have the maximum claim value? List the date the claim was made and the claim id.
+Find the claims that led to more than two settlements or have the maximum claim value. For each of them, return the date the claim was made and the id of the claim.
+Which customer had at least 2 policies but did not file any claims? List the customer details and id.
+Give me the the customer details and id for the customers who had two or more policies but did not file any claims.
+List the method, date and amount of all the payments, in ascending order of date.
+What are the method, date and amount of each payment? Sort the list in ascending order of date.
+Among all the claims, what is the settlement amount of the claim with the largest claim amount? List both the settlement amount and claim amount.
+Find the settlement amount of the claim with the largest claim amount. Show both the settlement amount and claim amount.
+Among all the claims, what is the amount claimed in the claim with the least amount settled? List both the settlement amount and claim amount.
+Find the claimed amount in the claim with the least amount settled. Show both the settlement amount and claim amount.
+Among all the claims, which claims have a claimed amount larger than the average? List the date the claim was made and the date it was settled.
+Give me the claim date, settlement date for all the claims whose claimed amount is larger than the average.
+Among all the claims, which settlements have a claimed amount that is no more than the average? List the claim start date.
+How many settlements does each claim correspond to? List the claim id and the number of settlements.
+Find the number of settlements each claim corresponds to. Show the number together with the claim id.
+Which claim incurred the most number of settlements? List the claim id, the date the claim was made, and the number.
+Find the claim id and claim date of the claim that incurred the most settlement count. Also tell me the count.
+How many settlements were made on the claim with the most recent claim settlement date? List the number and the claim id.
+Find the claim id and the number of settlements made for the claim with the most recent settlement date.
+Who are the customers that had more than 1 policy? List the customer details and id.
+Find the the customer details and id for the customers who had more than one policy.
+Tell me the the claim date and settlement date for each settlement case.
+Compute the total amount of payment processed.
+Which Payments were processed with Visa? List the payment Id, the date and the amount.
+Give me the payment Id, the date and the amount for all the payments processed with Visa.
+List the details of the customers who do not have any policies.
+Which customers do not have any policies? Find the details of these customers.
+List the date the claim was made, the date it was settled and the amount settled for all the claims which had exactly one settlement.
+Which claims had exactly one settlement? For each, tell me the the date the claim was made, the date it was settled and the amount settled.
+Find the name and position of the head of the department with the least employees.
+Return the day Number and stored date for all the documents.
+Show the id of the employee named Ebba.
+Which employees have either destroyed a document or made an authorization to do so? Return their employee ids.
+What is the total amount of grants given by each organisations? Also list the organisation id.
+Which organisation hired the most number of research staff? List the organisation id, type and detail.
+For grants with both documents described as 'Regular' and documents described as 'Initial Application', list its start date.
+For each company, return the company name and the name of the building its office is located in.
+Show the name and phone of the customer without any mailshot.
+Show the names of customers who have the most mailshots.
+What are the name and payment method of customers who have both mailshots in 'Order' outcome and mailshots in 'No Response' outcome.
+Show the shipping charge and customer id for customer orders with order status Cancelled or Paid.
+Show the names of customers having an order with shipping method FedEx and order status Paid.
+Return the address of customer 10.
+Return the staff ids and genders for any staff with the title Department Manager.
+For each payment method, return how many customers use it.
+Return the name, phone number and email address for the customer with the most orders.
+Return the name and job title of the staff with the latest date assigned.
+Return the distinct name of customers whose order status is Pending, in the order of customer id.
+Find the name and address of the customers who have both New and Pending orders.
+Find the ids of all distinct customers who made order after some orders that were Cancelled.
+Return the id of the staff whose Staff Department Assignment was earlier than that of any Clerical Staff.
+Return the names and ids of customers who have TN in their address.
+Return the name and gender of the staff who was assigned in 2016.
+Return the phone numbers for all customers and suppliers.
+Return the maximum and minimum customer codes.
+List the order id, customer id for orders in Cancelled status, ordered by their order dates.
+Find the name and gender of the staff who has been assigned the job of Sales Person but never Clerical Staff.
+Find the id and name of customers whose address contains WY state and do not use credit card for payment.
+How many residents does each property have? List property id and resident count.
+How many services has each resident requested? List the resident id, details, and the count in descending order of the count.
+Show me the distinct payment method codes from the invoice record.
+Show all payment method codes and the number of orders for each code.
+Show the names of all the clients with no booking.
+Show names and phones of customers who do not have address information.
+Show the name of the customer who has the most orders.
+Show the names of customers who have both an order in completed status and an order in part status.
+Show the name, phone, and payment method code for all customers in descending order of customer number.
+Show the customer name, customer address city, date from, and date to for each customer address history.
+Show the names of customers who use Credit Card payment method and have more than 2 orders.
+Find the emails and phone numbers of all the customers, ordered by email address and phone number.
+Return the city with the customer type code "Good Credit Rating" that had the fewest customers.
+Return the phone number of the customer who filed the complaint that was raised most recently.
+Find the email and phone number of the customers who have never filed a complaint before.
+Find the last name of the staff member who processed the complaint of the cheapest product.
+Return the last name of the staff member who handled the complaint with the earliest date raised.
+Show all date and share count of transactions.
+Show the dates of transactions if the share count is bigger than 100 or the amount is bigger than 1000.
+Show details of all investors if they make any transaction with share count greater than 100.
+Return the lot details and investor ids.
+Show the average share count of transactions for different investors.
+Show the average share count of transactions each each investor, ordered by average share count.
+Show the average amount of transactions for different investors.
+Show the average amount of transactions for different lots.
+Show the average amount of transactions for different lots, ordered by average amount of transactions.
+Show the number of transactions with transaction type code "SALE" for different investors if it is larger than 0.
+Show the number of transactions for different investors.
+Show the id and details of the investor that has the largest number of transactions.
+Show the id and details for the investors who have the top 3 number of transactions.
+Show the ids of the investors who have at least two transactions.
+Which customers use "Cash" for payment method? Return the customer names.
+Find the "date became customers" of the customers whose ID is between 10 and 20.
+Find the name of the customers who use the most frequently used payment method.
+Return all the distinct payment methods used by customers.
+Return the channel code and contact number of the customer contact channel whose active duration was the longest.
+Find the name and active date of the customer that use email as the contact channel.
+Find the name of the customer who made the order of the largest amount of goods.
+Give me the name of the customer who ordered the most items in total.
+Tell me the payment method used by the customer who ordered the least amount of goods in total.
+Return the number of customers who have at least one order with "Cancelled" status.
+Tell me the number of orders with "Second time" as order detail.
+Find the name of the customer who made an order most recently.
+Find the name of customers who did not pay with Cash.
+What is the name of customers who do not use Cash as payment method.
+Return the issue date of the volume that has spent the fewest weeks on top.
+Find the last name of the first ever contact person of the organization with the highest UK Vat number.
+Find the payment method code used by more than 3 parties.
+Count the number of different payment method codes used by parties.
+Return the party email that has used party services the greatest number of times.
+List the name of the pilots who have flied for both a company that mainly provide 'Cargo' services and a company that runs 'Catering services' activities.
+Return the budget type codes, budget type descriptions and document ids for documents with expenses.
+Return the ids of documents that do not have expenses.
+Count the number of documents that do not have expenses.
+Return the account details with the greatest value, as well as those that include the character 5.
+List the first name and last name of all customers.
+List email address and birthday of customer whose first name as Carole.
+List phone number and email address of customer with more than 2000 outstanding balance.
+List all customer status codes and the number of customers having each status code.
+List the first name and last name of customers have the amount of outstanding between 1000 and 3000.
+List the number of customers that did not have any payment history.
+List first name and last name of customers that have more than 2 payments.
+List all payment methods and number of payments using each payment methods.
+Find the order id and customer id associated with the oldest order.
+Which order's shipment tracking number is "3452"? Give me the id of the order.
+Which customers have orders with status "Packing"? Give me the customer names.
+Which customer made the most orders? Find the customer name.
+Find the id of the customer who made the most orders.
+Which orders are made by the customer named "Jeramie"? Give me the order ids and status.
+Give me the names of customers who have placed orders between 2009-01-01 and 2010-01-01.
+Which customers have both "On Road" and "Shipped" as order status? List the customer names.
+Which customers have both "On Road" and "Shipped" as order status? List the customer ids.
+When was the order placed whose shipment tracking number is 3452? Give me the date.
+Find the id of the order which is shipped most recently.
+Which order has the most recent shipment? Give me the order id.
+Which order deals with the most items? Return the order id.
+Find the name of the customer who made the most orders.
+Find the invoice numbers which are created before 1989-09-03 or after 2007-12-25.
+Find the distinct details of invoices which are created before 1989-09-03 or after 2007-12-25.
+For each customer who has at least two orders, find the customer name and number of orders made.
+Which customers have made at least two orders? Give me each customer name and number of orders made.
+Find the name of the customers who have at most two orders.

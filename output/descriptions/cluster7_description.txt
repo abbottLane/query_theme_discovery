@@ -1,0 +1,1 @@
+Analyze and summarize customer, employee, product, and transaction data, including identifying top performers, calculating averages, examining purchase patterns, and evaluating financial metrics.

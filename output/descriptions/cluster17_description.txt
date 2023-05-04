@@ -1,0 +1,1 @@
+Retrieve information and statistics about various entities, such as appointments, employees, courses, products, students, customers, documents, clubs, addresses, phone numbers, locations, and more.

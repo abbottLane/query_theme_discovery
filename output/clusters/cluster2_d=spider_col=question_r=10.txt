@@ -1,0 +1,436 @@
+which course has most number of registered students?
+What is the name of the course with the most registered students?
+What are the ids of the students who registered for some courses but had the least number of courses for all students?
+What are the  ids of every student who has never attended a course?
+What are the ids of all students who have attended at least one course?
+What are the ids of all students for courses and what are the names of those courses?
+What is detail of the student who most recently registered course?
+What details do we have on the students who registered for courses most recently?
+How many courses do the student whose id is 171 attend?
+How many courses does the student with id 171 actually attend?
+What is the id of the candidate who most recently accessed the course?
+What is detail of the student who registered the most number of courses?
+What are the details of the student who registered for the most number of courses?
+List the id of students who registered some courses and the number of their registered courses?
+For every student who is registered for some course, how many courses are they registered for?
+How many registed students do each course have? List course name and the number of their registered students?
+For each course id, how many students are registered and what are the course names?
+What are the id of students who registered course 301?
+What are the ids of the students who registered for course 301?
+What is the id of the student who most recently registered course 301?
+What are the ids of the students who registered for course 301 most recently?
+What are the different cities where students live?
+What are the names of the courses in alphabetical order?
+What are the id of students who registered courses or attended courses?
+What are the ids of the students who either registered or attended a course?
+What are the ids of the courses that are registered or attended by the student whose id is 121?
+What are all info of students who registered courses but not attended courses?
+What are all details of the students who registered but did not attend any course?
+What are the ids of the students who registered course statistics by order of registration date?
+What is the count of distinct employees with certificates?
+What is the total number of students?
+What are the full names of all students
+What are the full names and ages for all female students whose sex is F?
+What are the student ids for all male students?
+What are the student ids for students over 20 years old?
+What is the minimum, mean, and maximum age across all students?
+What is the last name of the youngest student?
+What student id corresponds to the oldest student?
+How many students are there for each major?
+How old is each student and how many students are each age?
+What are the average ages for male and female students?
+How many students who are female are allergic to milk or eggs?
+What are the last names and ages of the students who are allergic to milk and cat?
+What are the first name and gender of the students who have allergy to milk but can put up with cats?
+How old are the students with allergies to food and animal types on average?
+How many students are over 18 and do not have allergy to food type or animal type?
+What are the first name and major of the students who are able to consume soy?
+What is the title, phone and hire date of Nancy Edwards?
+What is the first and last name of the employee who reports to Nancy Edwards?
+What si the youngest employee's first and last name?
+What is the name of the youngest editor?
+What are the different schools and their nicknames, ordered by their founding years?
+What is the founded year of the non public school that was founded most recently?
+What is the highest acc percent score in the competition?
+What is the primary conference of the school that has the lowest acc percent score in the competition?
+What are the enrollment and primary conference for the university which was founded the earliest?
+What are the total enrollments of universities of each affiliation type?
+What are the names of teams from universities that have a below average enrollment?
+What is the maximum enrollment across all schools?
+What are the different positions of players from UCLA or Duke colleges?
+What are the titles for courses with two prerequisites?
+What is the title, credit value, and department name for courses with more than one prerequisite?
+How many courses that do not have prerequisite?
+What are the titles of courses without prerequisites?
+what is the name of the instructor who is in Statistics department and earns the lowest salary?
+What is the title of a course that is listed in both the Statistics and Psychology departments?
+What are the titles of courses that are in the Statistics department but not the Psychology department?
+What are the ids of instructors who taught in the Fall of 2009 but not in the Spring of 2010?
+What are the names of the students who took classes in 2009 or 2010?
+What are the names of the 3 departments with the most courses?
+What is the name of the department with the most credits?
+What are the names of students and their respective departments, ordered by number of credits from least to greatest?
+What are the names of instructors who advise more than one student?
+What are the names of students who have more than one advisor?
+What are the titles of courses that are offered in more than one department?
+What is the year and semester with the most courses?
+What is the name of the deparment with the highest enrollment?
+What is the id of the instructor who advises of all students from History department?
+What are the names and salaries of instructors who advises students in the History department?
+What are the names of courses without prerequisites?
+What is the title of the prerequisite class of International Finance course?
+What is the title of the course with Differential Geometry as a prerequisite?
+What are the names of students who took a course in the Fall of 2003?
+What is the title of the course that was offered at building Chandler during the fall semester in the year of 2010?
+What are the names of instructors who have taught C Programming courses?
+What are the names and salaries of instructors who advise students in the Math department?
+What is the course title of the prerequisite of course Mobile Computing?
+What is the title of the course that is a prerequisite for Mobile Computing?
+What is the name of the instructor who advises the student with the greatest number of total credits?
+What are the names of instructors who didn't teach courses in the Spring?
+How many instructors are in the department with the highest budget, and what is their average salary?
+What is the title and credits of the course that is taught in the largest classroom (with the highest capacity)?
+What are the names of students who haven't taken any Biology courses?
+What are the names of students who have taken the prerequisite for the course International Finance?
+What are the names and salaries for instructors who earn less than the average salary of instructors in the Physics department?
+What are the names of students who have taken Statistics courses?
+What are the building, room number, semester and year of courses in the Psychology department, sorted using course title?
+Find the names of all instructors in computer science department
+What are the names of all instructors in the Comp. Sci. department?
+What are the names of the instructors in the Comp. Sci. department who earn more than 80000?
+What are the names of all instructors who have taught a course, as well as the corresponding course id?
+What are the names of Art instructors who have taught a course, and the corresponding course id?
+What are the ids for courses in the Fall of 2009 or the Spring of 2010?
+What are the ids for courses that were offered in both Fall of 2009 and Spring of 2010?
+What are the ids of courses offered in Fall of 2009 but not in Spring of 2010?
+What are the distinct salaries of all instructors who earned less than the maximum salary?
+What are the names of instructors who earn more than at least one instructor from the Biology department?
+What are the names of all instructors with a higher salary than any of the instructors in the Biology department?
+What is the total point count of the youngest gymnast?
+What are the mascots for schools with enrollments above the average?
+What is the total budget amount for school "Glenn" in all years?
+What is the team and starting year for each technician?
+What is the starting year of the oldest technicians?
+What is the starting year for the oldest technician?
+What are the names of all campuses located at Chico?
+What is the campus fee of "San Jose State University" in year 1996?
+What is the campus fee for San Jose State University in 1996?
+What is the campus fee of "San Francisco State University" in year 1996?
+What is the campus fee for San Francisco State University in 1996?
+What is the average fee for a CSU campus in the year of 1996?
+What is the average fee on a CSU campus in 2005?
+What is the average fee for a CSU campus in the year of 2005?
+What is the total number of degrees granted after 2000 for each Orange county campus?
+What campus had more than 400 total enrollment but more than 200 full time enrollment in year 1956?
+What campus started in year 1956, has more than 200 full time students, and more than 400 students enrolled?
+What is the number of faculty lines in campus "Long Beach State University" in 2002?
+What is the number of faculty at Long Beach State University in 2002?
+How many faculty lines are there in the university that conferred the most number of degrees in year 2002?
+How many faculty members did the university that conferred the most degrees in 2002 have?
+How many faculty lines are there in the university that conferred the least number of degrees in year 2001?
+How many faculty members are at the university that gave the least number of degrees in 2001?
+What is the number of graduates in "San Francisco State University" in year 2004?
+What is the campus fee of "San Francisco State University" in year 2000?
+In the year 2000, what is the campus fee for San Francisco State University?
+What is the campus fee in the year 2000 for San Jose State University?
+What is the sex of the candidate who had the highest unsure rate?
+What are the name and the nationality of the host of the highest age?
+What is the age of student Linda Smith?
+What is the gender of the student Linda Smith?
+Find the id and first name of the student that has the most number of assessment notes?
+Find the id and last name of the student that has the most behavior incidents?
+What are the first names and last names of students with address in Wisconsin state?
+What are the line 1 of addresses shared by some students and some teachers?
+What is the first and last name of the professor in biology department?
+What are the first and last name of all biology professors?
+What are the first names and date of birth of professors teaching course ACCT-211?
+What are the first names and birthdates of the professors in charge of ACCT-211?
+What is the code of the school where the accounting department belongs to?
+What is the school code of the accounting department?
+How many credits does course CIS-220 have, and what its description?
+what is the address of history department?
+What are the different locations of the school with the code BUS?
+What is the course description and number of credits for QM-261?
+What is the number of professors for different school?
+How many professors have a Ph.D. in each department?
+How many hours do the students spend studying in each department?
+What is the highest, lowest, and average student GPA for every department?
+What is the name and the average gpa of department whose students have the highest average gpa?
+Which department has the highest average student GPA, and what is the average gpa?
+How many courses does the department of Computer Information Systmes offer?
+What is the number of different class sections offered in the course ACCT-211?
+What are the total number of credits offered by each department?
+What are the total number of students enrolled in ACCT-211?
+What is the first name of each student enrolled in class ACCT-211?
+What are the first names of all students in course ACCT-211?
+What is the first name of students enrolled in class ACCT-211 and got grade C?
+What are the first names of all students who took ACCT-211 and received a C?
+What is the total number of professors with a Ph.D. ?
+How many students are enrolled in the class taught by some professor from the accounting department?
+How many students are enrolled in some classes that are taught by an accounting professor?
+What is the name of the department that has the largest number of students enrolled?
+What is the name of the department with the most students enrolled?
+What are the first names and office locations for all professors sorted alphabetically by first name?
+What is the first and last name of the oldest employee?
+What is the first, last name, gpa of the youngest one among students whose GPA is above 3?
+What is the first and last name of the youngest student with a GPA above 3, and what is their GPA?
+What is the first name of students who got grade C in any class?
+What are the first names of all students who got a grade C in a class?
+What is the name of department where has the smallest number of professors?
+What is the name of the department with the fewest professors?
+What is the name of department where has the largest number of professors with a Ph.D. degree?
+Which department has the most professors with a Ph.D.?
+What are the first names of all professors not teaching any classes?
+What are the first names of all history professors who do not teach?
+What is the last name and office of the professor from the history department?
+What are the last name and office of all history professors?
+What is department name and office for the professor whose last name is Heffington?
+What is the name of the department and office location for the professor with the last name of Heffington?
+What is the last name of the professor whose office is located in DRE 102, and when were they hired?
+What is the code of the course which the student whose last name is Smithson took?
+What are the course codes for every class that the student with the last name Smithson took?
+What are the description and credit of the course which the student whose last name is Smithson took?
+How many credits is the course that the student with the last name Smithson took, and what is its description?
+How many professors who has a either Ph.D. or MA degree?
+What is the number of professors who are in the Accounting or Biology departments?
+What is the first name of the professor who is teaching CIS-220 and QM-261?
+What are the first names of all students taking accoutning and Computer Information Systems classes?
+What is the average gpa of the students enrolled in the course with code ACCT-211?
+What is the average GPA of students taking ACCT-211?
+What is the first name, gpa and phone number of the top 5 students with highest gpa?
+What is the first name, GPA, and phone number of the students with the top 5 GPAs?
+What is the department name of the students with lowest gpa belongs to?
+What is the name of the department with the student that has the lowest GPA?
+What is the first name and GPA of every student that has a GPA lower than average?
+What is the name and address of the department with the most students?
+What is the name, address, and number of students in the departments that have the 3 most students?
+What are the first names and office of the professors who are in the history department and have a Ph.D?
+What are the first names of all teachers who have taught a course and the corresponding course codes?
+What are the first names of all teachers who have taught a course and the corresponding descriptions?
+What are the first names, office locations of all lecturers who have taught some course?
+What are the names of all students who took a class and the corresponding course descriptions?
+What are the names of all students taking a course who received an A or C?
+What are the first names of all Accounting professors who teach and what are the classrooms of the courses they teach?
+What are the different first names and highest degree attained for professors teaching in the Computer Information Systems department?
+What is the last name of the student who received an A in the class with the code 10018?
+What are the first names and offices of history professors who don't have Ph.D.s?
+What are the first names of all professors who teach more than one class?
+What are the first names of student who only took one course?
+What is the first name of the student whose last name starting with the letter S and is taking ACCT-211 class?
+What is the first name of the student whose last name starts with the letter S and is taking ACCT-211?
+What are the first names and department numbers for employees with last name McEwen?
+What is the first name and job id for all employees in the Finance department?
+What are the full names, departments, cities, and state provinces for each employee?
+what is the full name and id of the college with the largest number of baseball players?
+What is the average height of the players from the college named 'Yale University'?
+What is the address of each course author or tutor?
+What are the login names and family names of course author and tutors?
+What are all the dates of enrollment and completion in record?
+What are the dates of the latest logon of the students with family name "Jaskolski" or "Langosh"?
+What are the personal name, family name, and author ID of the course author who teaches the most courses?
+What are the names and descriptions of the all courses under the "Computer Science" subject?
+What are the subject ID, subject name, and the number of available courses for each subject?
+What is the name of the course that has the most student enrollment?
+What are the names of the courses that have exactly 1 student enrollment?
+What are the descriptions and names of the courses that have student enrollment bigger than 2?
+What is the name of each course and the corresponding number of student enrollment?
+On what dates did the student whose personal name is "Karson" enroll in and complete the courses?
+What are the student ID and login name of the student who are enrolled in the most courses?
+What are the student IDs and middle names of the students enrolled in at most two courses?
+What are the login names used both by some course authors and some students?
+What are the personal names used both by some course authors and some students?
+What are the name and primarily affiliated department name of each physician?
+What is the name of the patient who made the most recent appointment?
+What are the names of procedures physician John Wen was trained in?
+What are the last names of students in room 111?
+What are the first names of students in room 108?
+What are the first names of students studying in room 107?
+What are the grade number and classroom number of each class in the list?
+what are the last names of the teachers who teach grade 5?
+What are the first names of the teachers who teach grade 1?
+What are the first name and last name of all the teachers?
+Which are the first and last names of the students taught by MARROTTE KIRK?
+What are the last names of the teachers who teach the student called GELL TAMI?
+What are the first and last names of the first-grade students who are NOT taught by teacher OTHA MOYER?
+What are the first names of all the students?
+What is the complete description of the job of a researcher?
+What is the most common role for the staff?
+What is the average age for all person?
+What is the average age for all people in the table?
+What is the name of the oldest student?
+What is the name of the youngest male?
+What is the name of the person whose age is below 30?
+What is the average age for each gender?
+What is average age for different job title?
+How old is the average person for each job?
+What is average age of male for different job title?
+What is the average age for a male in each job?
+What is minimum age for different job title?
+How old is the youngest person for each job?
+What are the names of the people who have no friends who are students?
+Who has friends that are older than the average age? Print their friends and their ages as well
+What is the age of the friend of Zach with longest year relationship?
+What is the name of the person who has the oldest average age for their friends, and what is that average age?
+What are the names of courses with 1 credit?
+What are the first names for students who have an "a" in their first name?
+What are the full names of faculties with sex M and who live in building NEB?
+What are the rooms for members of the faculty who are professors and who live in building NEB?
+What is the name of the department in the Building Mergenthaler?
+What is all the information about courses, ordered by credits ascending?
+What are the course names, ordered by credits?
+What are the first names of students, ordered by age from greatest to least?
+What are the last names of female students, ordered by age descending?
+What are the last names of faculty in building Barton, sorted by last name?
+What are the first names for all faculty professors, ordered by first name?
+What is the name of the department with the most students minoring in it?
+What is the name of the department with the fewest members?
+What is the least common faculty rank?
+What is the full name of the instructor who has a course named COMPUTER LITERACY?
+What are the department name and room for the course INTRODUCTION TO COMPUTER SCIENCE?
+What are the distinct first names for students with a grade point of 3.8 or above in at least one course?
+What are the full names of faculty members who are a part of department 520?
+What are the full names of students minoring in department 140?
+What are the last names of faculty who are part of the computer science department?
+What is the average gradepoint for students with the last name Smith?
+What is the maximum and minimum grade point of students who live in NYC?
+What are the names of courses that give either 3 credits, or 1 credit and 4 hours?
+What are the first names of all students that are not enrolled in courses?
+What are the staff ids and genders of all staffs whose job title is Department Manager?
+What is the name and job title of the staff who was assigned the latest?
+What is id of the staff who had a Staff Department Assignment earlier than any Clerical Staff?
+What is the list of school locations sorted in ascending order of school enrollment?
+What is the list of school locations sorted in descending order of school foundation year?
+What are the enrollments of schools whose denomination is not "Catholic"?
+What are the team and the location of school each player belongs to?
+What is the denomination of the school the most players belong to?
+What are the location and nickname of each school?
+What is the school color of the school with the largest enrollment?
+Show the denomination shared by schools founded before 1890 and schools founded after 1900
+What are the denominations used by both schools founded before 1890 and schools founded  after 1900?
+What are the denomination more than one school have?
+What is the total enrollment number of all colleges?
+What is the average enrollment number?
+What is the number of students playing as a goalie?
+What is average number of students enrolled in Florida colleges?
+What information do you have on colleges sorted by increasing enrollment numbers?
+What is the name of every college in alphabetical order that has more than 18000 students enrolled?
+What are the different names of the colleges involved in the tryout in alphabetical order?
+How many students participated in tryouts for each college by descennding count?
+For each position, what is the minimum time students spent practicing?
+What is the name of school that has the smallest enrollment in each state?
+What is the name of the school with smallest enrollment size per state?
+What are the names of all students who tried out in alphabetical order?
+What are the names and hours spent practicing of every student who received a yes at tryouts?
+What are the names of all students who successfully tried out for the position of striker?
+What is the average number of hours spent practicing for students who got rejected?
+For each position, what is the maximum number of  hours for students who spent more than 1000 hours training?
+What are the names of all tryout participants who are from the largest college?
+What are the names of all colleges with a larger enrollment than the largest college in Florida?
+What is the total number of students enrolled in schools without any goalies?
+What is the oldest age among the students?
+What are the last names of students studying major 50?
+What are the first names of all the students aged above 22?
+What are the majors of male (sex is M) students?
+What is the average age of female (sex is F) students?
+What are the maximum and minimum age of students with major 600?
+What are the distinct last names of the students who have class president votes?
+What are the distinct first names of the students who have class president votes?
+What are the distinct ages of students who have secretary votes in the fall election cycle?
+Who served as an advisor for students who have treasurer votes in the spring election cycle?
+What are the distinct majors that students with treasurer votes are studying?
+What are the first and last names of all the female students who have president votes?
+How many male (sex is M) students have class senator votes in the fall election cycle?
+What is the average age of students who have city code "NYC" and have secretary votes for the spring election cycle?
+What is the average age of the female students with secretary votes in the spring election cycle?
+What are the distinct last names of the students who have president votes but do not have 2192 as the advisor?
+What are the distinct last names of the students who have president votes and have 8741 as the advisor?
+What are the majors only less than three students are studying?
+What is the most common major among female (sex is F) students?
+What is the city_code of the city that the most students live in?
+What is the average age for all managers?
+What are the names of the all-female dorms?
+What are the names of all the dorms that can accomdate more than 300 students?
+How many female students (sex is F) whose age is below 25?
+What are the first names of all students who are older than 20?
+What is the total student capacity of all dorms?
+What is the student capacity and type of gender for the dorm whose name as the phrase Donor in it?
+How many different majors are there and how many different city codes are there for each student?
+What is the name of the dorm with both a TV Lounge and Study Room listed as amenities?
+What is the name of each dorm that has a TV Lounge but no study rooms?
+What is the first and last name of all students who are younger than average?
+How many dorms are there and what is the total capacity for each gender?
+What is the average and oldest age for each gender of student?
+How many students are there in each major?
+How many students live in each city and what are their average ages?
+What is the average age and how many male students are there in each city?
+What is the first and last name of the students who are not in the largest major?
+How many students are older than average for each gender?
+What is the average age for each dorm and what are the names of each dorm?
+What are the first names of all students in Smith Hall?
+What are the total number of students who are living in a male dorm?
+What is the most common amenity in the dorms?
+What are the first names of all students who live in the dorm with the most amenities?
+What are the first and last names of all students who are living in a dorm with a TV Lounge?
+What is the first name and age of every student who lives in a dorm with a TV Lounge?
+What are the amenities in the dorm that a student who has the last name of Smith lives in?
+What is the author of the submission with the highest score?
+Which colleges have both authors with submission score above 90 and authors with submission score below 80?
+What is the name and detail of each staff member?
+What are the ids of all students who live in CHI?
+What are the ids of all students who have advisor number 1121?
+What are the first names for all students who are from the major numbered 600?
+What are the last names for all scholarship students?
+What is the total number of all football games played by scholarship students?
+What are the ids of all students along with how many sports and games did they play?
+What are the student IDs for everybody who worked for more than 10 hours per week on all sports?
+What is the first name and last name of the student who have most number of sports?
+What is the first and last name of the student who played the most sports?
+What is the sport with the most scholarship students?
+What are the ids of all students who don't play sports?
+What are the student ids for those on scholarship in major number 600?
+What are the ids of all female students who play football?
+What are the ids of all male students who do not play football?
+What is the total number of hours per week and number of games played by students under 20?
+What are the ids of all students who are not video game players?
+What are the ids of all students who played video games and sports?
+What are the ids of all students and number of hours played?
+What is the first and last name of all students who play Football or Lacrosse?
+What are the first names and ages of all students who are playing both Football and Lacrosse?
+what is the last name and gender of all students who played both Call of Destiny and Works of Widenius?
+What is the name and hours for the project which has the most scientists assigned to it?
+What is the sum of hours for projects that scientists with the name Michael Rogers or Carol Smith are assigned to?
+What are the names of scientists who have not been assigned a project?
+What is the name of the project that requires the fewest number of hours, and the names of the scientists assigned to it?
+What are the first, middle, and last names of all staff?
+What is the birthday of the staff member with first name as Janessa and last name as Sawayn?
+What is the date of birth for the staff member named Janessa Sawayn?
+What is the nickname of staff with first name as Janessa and last name as Sawayn?
+What are the the lesson ids of all staff taught by Janessa Sawayn whose nickname has the letter s?
+How many lessons taught by staff whose first name has letter 'a' in it?
+How many lessons were taught by a staff member whose first name has the letter 'a' in it?
+How long is the total lesson time taught by staff with first name as Janessa and last name as Sawayn?
+What is the total time for all lessons taught by Janessa Sawayn?
+What is average lesson price taught by staff with first name as Janessa and last name as Sawayn?
+What is the average price for a lesson taught by Janessa Sawayn?
+What is the first name of the staff who did not give any lesson?
+What is the first name of all employees who do not give any lessons?
+What is the total number of faculty members?
+What ranks do we have for faculty?
+What are the rank, first name, and last name of the faculty members?
+What are the first name, last name, and phone number of all the female faculty members?
+What are the faculty ids of all the male faculty members?
+What are the first name and last name of all the instructors?
+How many faculty members do we have for each faculty rank?
+How many faculty members do we have for each rank and gender?
+How many male and female assistant professors do we have?
+What are the faculty id and the number of students each faculty has?
+What are the first and last name of the faculty who has the most students?
+How many faculty members participate in an activity?
+Give me the number of faculty members who participate in an activity
+What is the first and last name of the faculty participating in the most activities?
+What is the name of the activity that has the most faculty members involved in?
+What are the ids of the students who are not involved in any activity
+What is the first and last name of the student participating in the most activities?
+What is the name of the activity with the most students?
+What are the first names of the professors who do not play Canoeing or Kayaking as activities?
+What are the first names of the faculty members playing both Canoeing and Kayaking?

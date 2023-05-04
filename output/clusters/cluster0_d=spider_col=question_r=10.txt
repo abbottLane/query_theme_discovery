@@ -1,0 +1,425 @@
+How many heads of the departments are older than 56 ?
+What are the names of the heads who are born outside the California state?
+What are the names of the states where at least 3 heads were born?
+What is the total horses record for each farm, sorted ascending?
+What are the themes of farm competitions sorted by year in ascending order?
+What are the first and last names of all the candidates?
+What are the first names of the people in alphabetical order?
+What are the dates with a maximum temperature higher than 85?
+What are the names of stations that have latitude lower than 37.5?
+What are the names of all stations with a latitude smaller than 37.5?
+What are the different names for each station that has ever had 7 bikes available?
+What are the start station's name and id for the one that had the most start trips in August?
+What is the id of the bike that traveled the most in 94002?
+What is the latitude, longitude, city of the station from which the shortest trip started?
+What is the latitude, longitude, and city of the station from which the trip with smallest duration started?
+What are the names and ids of stations that had more than 14 bikes available on average or were installed in December?
+What are the names and ids of all stations that have more than 14 bikes available on average or had bikes installed in December?
+What are the 3 most common cloud covers in the zip code of 94107?
+What is the installation date for each ending station on all the trips?
+What is the id of the trip that started from the station with the highest dock count?
+What are the ids of all stations that have a latitude above 37.4 and have never had less than 7 bikes available?
+What are the name, latitude, and city of the station with the lowest latitude?
+What is the name, latitude, and city of the station that is located the furthest South?
+What are the date, mean temperature and mean humidity for the top 3 days with the largest max gust speeds?
+What are the ids and durations of the trips with the top 3 durations?
+What are the ids of the trips that lasted the longest and how long did they last?
+For each start station id, what is its name, longitude and average duration of trips started there?
+What are all the different start station names for a trip that lasted less than 100?
+What are the ids of all trips that had a duration as long as the average trip duration in the zip code 94103?
+What are the id and name of the stations that have ever had more than 12 bikes available?
+What are the names of the stations that are located in Palo Alto but have never been the ending point of the trips
+How many trips stated from  a station in Mountain View and ended at one in Palo Alto?
+What are the names of actors, ordered alphabetically?
+What is the duration of the oldest actor?
+What are the names of actors ordered descending by the year in which their musical was awarded?
+What are the names and distances for all airplanes?
+What are the ids of all aircrafts that can cover a distance of more than 1000?
+What is the name and distance for aircraft with id 12?
+What is the name and distance for the aircraft that has an id of 12?
+What is the id and name of the aircraft that can cover the maximum distance?
+What are the names of all aircrafts that can cover more distances than average?
+What is the name of the 3 employees who get paid the least?
+What is the flight number, origin, and destination for all flights in alphabetical order by departure cities?
+What are the numbers of all flights coming from Los Angeles?
+What are the origins of all flights that are headed to Honolulu?
+What are the departure and arrival dates of all flights from LA to Honolulu?
+What is the average price for flights from LA to Honolulu?
+What are the numbers of the shortest flights?
+What are the destinations and number of flights to each one?
+What is the name of the aircraft that was on flight number 99?
+What are the flight numbers for the aircraft Airbus A340-300?
+What are the names for all aircrafts with at least 2 flights?
+What are the names of all aircrafts that John Williams have certificates to be able to fly?
+What are the names of all employees who have a certificate to fly Boeing 737-800?
+What are the names of all employees who can fly both the Boeing 737-800 and the Airbus A340-300?
+What are the names of all employees who are not certified to fly Boeing 737-800s?
+What are the names of the aircraft that the least people are certified to fly?
+What are the first and last names of the 5 customers who purchased something most recently?
+What are the titles of all the albums alphabetically ascending?
+What are the titles of all albums that start with A in alphabetical order?
+What are the first and last names of the top 10 longest-serving employees?
+What is the total amount of money spent by Lucas Mancini?
+What are the names and ages of editors?
+What are the names and locations of all tracks?
+What are the names and seatings for all tracks opened after 2000, ordered by seating?
+What are the names, classes, and dates for all races?
+What are the names of different tracks, and how many races has each had?
+What is the name of the track that has had the greatest number of races?
+What are the names and dates of races, and the names of the tracks where they are held?
+What are the names and locations of tracks that have had exactly 1 race?
+What are all the album titles, in alphabetical order?
+What are the birth dates of employees living in Edmonton?
+What is the team name and acc regular season score of the school that was founded for the longest time?
+What are the all games score and location of the school called Clemson?
+What is all the information about the basketball match?
+What are the names of all the teams in the basketball competition, sorted by all home scores in descending order?
+What are the names and capitals of each country?
+Who are the different players and how many years has each played?
+What are the names of all teams?
+For each player, what are their name, season, and country that they belong to?
+What are the players who played for Columbus Crew, and how many years did each play for?
+What are all the players who played in match season, sorted by college in ascending alphabetical order?
+What are the names of the climbers, ordered by points descending?
+What are the names of mountains in ascending alphabetical order?
+What is the name of the highest mountain?
+What are the names of countains that no climber has climbed?
+What are the birthdays of people in ascending order of height?
+What are the names of body builders?
+What are the names of body builders whose total score is higher than 300?
+What is the name of the body builder with the greatest body weight?
+What are the names of body builders in descending order of total scores?
+What are the total scores of the body builders whose birthday contains the string "January" ?
+What are the names and parties of representatives?
+What are the names of representatives with more than 10000 votes in election?
+What are the names of representatives in descending order of votes?
+What are the first names and last names of all the guests?
+What are the ids, scores, and dates of the games which caused at least two injury accidents?
+What are the id and name of the stadium where the most injury accidents happened?
+What is the average weight of all players?
+What are the names of players who have the best dribbling?
+Who are the top 3 players in terms of overall rating?
+What are the names and buildings of the deparments, sorted by budget descending?
+What are the names of instructors who didn't teach?
+What are the names of the customers and staff members?
+What are the names of products that have never been ordered?
+What are the names of artists who did not have an exhibition in 2004?
+What is the name of the player with the largest number of votes?
+What are the total points for all gymnasts, ordered by total points descending?
+What are the names of people in ascending alphabetical order?
+What are the names of gymnasts?
+What are the names of gymnasts whose hometown is not "Santo Domingo"?
+What is the age of the tallest person?
+What are the names of the five oldest people?
+What is the average age of all gymnasts?
+What are the names of gymnasts, ordered by their heights ascending?
+From which hometowns did both people older than 23 and younger than 20 come from?
+What are the ages of the gymnasts, ordered descending by their total points?
+What are the names of all the customers in alphabetical order?
+What are the names of the wrestlers, ordered descending by days held?
+What is the name of the wrestler with the fewest days held?
+What are the names and location of the wrestlers?
+What are the names of wrestlers and the elimination moves?
+What are the names of wrestlers and their teams in elimination, ordered descending by days held?
+What are the names of wrestlers days held less than 100?
+What are the names of wrestlers who have never been eliminated?
+What is the location with the most cinemas opened in year 2010 or later?
+What are the gas station ids, locations, and manager names for the gas stations ordered by opening year?
+What are the names of the managers for gas stations that are operated by the ExxonMobil company?
+What is the name of the manager with the most gas stations that opened after 2000?
+What are the locations of all the gas stations ordered by opening year?
+What are the locations and representatives' names of the gas stations owned by the companies with the 3 largest amounts of assets?
+Who are the ministers, when did they take office, and when did they leave office, ordered by when they left office?
+Who are the ministers who took office after 1961 or before 1959?
+Who are the ministers and what parties do they belong to, listed descending by the times they took office?
+What is the name of party with most number of members?
+What are the names of parties that have no members?
+What are the names of parties with at least 2 events?
+What is the name of member in charge of greatest number of events?
+What are the positions and teams of pilots?
+What is the joined year of the pilot of the highest rank?
+Show the fleet series of the aircrafts flied by pilots younger than 34
+What is the name of the race held most recently?
+What is the name of the race that occurred most recently?
+What is the name and date of the most recent race?
+What is the name and date of the race that occurred most recently?
+What are the names of all the races that occurred in the year 2017?
+What are the unique names of all race held between 2014 and 2017?
+What are the forenames and surnames of all unique drivers who had a lap time of less than 93000 milliseconds?
+What are the different driver ids and nationalities of all drivers who had a laptime of more than 100000 milliseconds?
+What is the forename and surname of the driver with the shortest laptime?
+What is the id and family name of the driver who has the longest laptime?
+What is the id and last name of the driver with the longest laptime?
+What is the id, forname and surname of the driver who had the first position in terms of laptime at least twice?
+What is the id, first name, and last name of the driver who was in the first position for laptime at least twice?
+Give me a list of names and years of races that had any driver whose forename is Lewis?
+What are the names and years of all races that had a driver with the last name Lewis?
+What is the first and last name of all the German drivers?
+Find the id and forenames of drivers who participated both the races with name Australian Grand Prix and the races with name Chinese Grand Prix?
+What is the id and first name of all the drivers who participated in the Australian Grand Prix and the Chinese Grand Prix?
+What are the forenames and surnames of drivers who participated in the races named Australian Grand Prix but not the races named Chinese Grand Prix?
+What are the first and last names of all drivers who participated in the Australian Grand Prix but not the Chinese Grand Prix?
+Find all the forenames of distinct drivers who was in position 1 as standing and won?
+Find all the forenames of distinct drivers who won in position 1 as driver standing and had more than 20 points?
+What are the first names of the different drivers who won in position 1 as driver standing and had more than 20 points?
+What are the names of races that were held after 2017 and the circuits were in the country of Spain?
+What are the names of the races held after 2017 in Spain?
+What are the unique names of races that held after 2000 and the circuits were in Spain?
+What are the names of all races held after 2000 in Spain?
+What are the different ids and stop durations of all the drivers whose stop lasted longer than the driver in the race with the id 841?
+What are the first names of all the different drivers in alphabetical order?
+What are the different names of all the races in reverse alphabetical order?
+What are the names of races held between 2009 and 2011?
+What are the names of all races held between 2009 and 2011?
+What are the names of races held after 12:00:00 or before 09:00:00?
+What are the names of all races that occurred after 12:00:00 or before 09:00:00?
+What are the drivers' first, last names and id who had more than 8 pit stops or participated in more than 5 race results?
+What are the drivers' first names,last names, and ids for all those that had more than 8 stops or participated in more than 5 races?
+What are the drivers' last names and id who had 11 pit stops and participated in more than 5 race results?
+What are the last names and ids of all drivers who had 11 pit stops and participated in more than 5 races?
+What is the id and last name of the driver who participated in the most races after 2010?
+What are the names of circuits that belong to UK or Malaysia?
+What are the names of all the circuits that are in the UK or Malaysia?
+What are the names of all the Japanese constructors that have earned more than 5 points?
+What is the average fastest lap speed in race named 'Monaco Grand Prix' in 2008 ?
+What is the average fastest lap speed for the Monaco Grand Prix in 2008?
+What is the maximum fastest lap speed in race named 'Monaco Grand Prix' in 2008 ?
+What is the maximum fastest lap speed in the Monaco Grand Prix in 2008?
+What are the maximum fastest lap speed in races held after 2004 grouped by race name and ordered by year?
+For each race name, What is the maximum fastest lap speed for races after 2004 ordered by year?
+What are the average fastest lap speed in races held after 2004 grouped by race name and ordered by year?
+What is the average fastest lap speed for races held after 2004, for each race, ordered by year?
+Find the id, forename and number of races of all drivers who have at least participated in two races?
+What is the id, forename, and number of races for all drivers that have participated in at least 2 races?
+Find the driver id and number of races of all drivers who have at most participated in 30 races?
+Find the id and surname of the driver who participated the most number of races?
+What are the ids and last names of all drivers who participated in the most races?
+What are the names of the technicians by ascending order of age?
+What are the names of the technicians aged either 36 or 37?
+What are the teams with the most technicians?
+What are the names of the technicians that have not been assigned to repair machines?
+What are the starting years shared by the technicians from the team "CLE" or "CWS"?
+What are the names of people in ascending order of weight?
+What are the names of entrepreneurs?
+What are the names of people who are not entrepreneurs?
+What are the names of people in ascending order of height?
+What are the heights of perpetrators in descending order of the number of people they injured?
+What are the campuses that opened in 1958?
+What are the names of all people, ordered by their date of birth?
+What are the names of all female candidates in alphabetical order (sex is F)?
+What are the titles of all movies that James Cameron directed after 2000?
+What are the ids of all moviest hat have not been reviewed by Britanny Harris?
+What are the ids of all reviewers who did not give 4 stars?
+What are the ids of all reviewers who have not given 4 stars at least once?
+What are the names of the counties of public safety, ordered by population descending?
+What are the names of cities in ascending alphabetical order?
+What are the names of hosts who did not host any party in our record?
+What are the codes and names for all regions, sorted by codes?
+What are the names of the regions in alphabetical order?
+What are the names, dates active, and number of deaths for storms that had 1 or more death?
+What are the names and damage in millions for storms, ordered by their max speeds descending?
+What are the names of the storms that affected Denmark?
+What are the delegate and name of the county they belong to, for each county?
+What are the names of the county that the delegates on "Appropriations" committee belong to?
+Find the parties associated with the delegates from district 1. Who served as governors of the parties?
+Find the parties associated with the delegates from district 1 or 2. Who served as comptrollers of the parties?
+What are the names of parties that have both delegates on "Appropriations" committee and
+Show the names of journalists and the names of the events they reported in ascending order
+What is the last name of the author that has published the most papers?
+How many different last names do the actors and actresses have?
+Find the ids and first names of the 3 teachers that have the most number of assessment notes?
+What are all the distinct last names of all the engineers?
+What are the names of all departments in alphabetical order?
+What are the first names of all employees that are professors ordered by date of birth?
+What are the different regions of clubs in ascending alphabetical order?
+What is the average number of gold medals for a club?
+What are the names of all the clubs starting with the oldest?
+What are the names of all the clubs ordered in descending alphabetical order?
+What are the names and players of all the clubs?
+What is the average number of points for players from the "AIB" club?
+What are the names of all clubs that do not have any players?
+What is the total number of points for all players?
+What are the names of all players that got more than the average number of points?
+What are all the employees without a department number?
+On what dates were employees without the letter M in their first names hired?
+What is all the information about employees hired before June 21, 2002?
+What are all the employee ids and the names of the countries in which they work?
+What are the full names and cities of employees who have the letter Z in their first names?
+What is average salary of the players in the team named 'Boston Red Stockings' ?
+What are first and last names of players participating in all star game in 1998?
+What are the first name and last name of the players whose death record is empty?
+How many players born in USA are right-handed batters? That is, have the batter value 'R'.
+List the maximum scores of the team Boston Red Stockings when the team won in postseason?
+What are the name and id of the team with the most victories in 2008 postseason?
+How many players were in the team Boston Red Stockings in 2000?
+How much salary did the top 3 well-paid players get in 2001?
+What were all the salary values of players in 2010 and 2001?
+In which year did the least people enter hall of fame?
+How many games in total did team Boston Red Stockings attend from 2000 to 2010?
+How much did the the player with first name Len and last name Barker earn between 1985 to 1990 in total?
+How many home games did the team Boston Red Stockings play from 1990 to 2000 in total?
+What are the id and name of the mountains that have at least 2 photos?
+What is the list of program names, sorted by the order of launch date?
+What are the names of the channels owned by CCTV or HBS?
+What are names of patients who made an appointment?
+What is the name of the nurse has the most appointments?
+What is the alphabetically ordered list of all the distinct names of nurses?
+What is the number of ships?
+what are the names of the ships ordered by ascending tonnage?
+What are the names of the ships that are not from the United States?
+What are the names of the ships  that are from either the US or the UK?
+What is the name of the ship with the largest tonnage?
+What is the ship with the largest amount of tonnage called?
+What are the mission codes, fates, and names of the ships involved?
+What are the names of ships that were involved in a mission launched after 1928?
+What are the names of the ships that are not involved in any missions?
+What are the countries for each market, ordered alphabetically?
+What are all the calendar dates and day Numbers?
+What are the ids of all the employees who have destroyed documents?
+What are the names of all clubs?
+What is the name of the person who is the oldest?
+What are the names and job titles of every person ordered alphabetically by name?
+What are the names of everybody sorted by age in descending order?
+What are the names and ages of every person who is a friend of both Dan and Alice?
+What are the different names and ages of every friend of either Dan or alice?
+What are the names of everybody who has exactly one friend?
+What are the names of all of Bob's friends?
+What are all the friends of Alice who are female?
+What are the names of all friends who are from New York?
+What are the ages of all of Zach's friends who are in the longest relationship?
+What are the names of all people who are friends with Alice for the shortest amount of time?
+What are the names, ages, and jobs of all people who are friends with Alice for the longest amount of time?
+What are the names of all people who do not have friends?
+What are the names of all of Alice's friends of friends?
+What are the names and urls of images, sorted alphabetically?
+What are the names of buildings sorted in descending order of building height?
+What are the names of the chairs of festivals, sorted in ascending order of the year held?
+What are the names of festivals held in year 2007?
+What are the full names of the 3 instructors who teach the most courses?
+What are the names and addressed of customers who have both New and Pending orders?
+What are the names and genders of staff who were assigned in 2016?
+What are the names of staff who have been assigned multiple jobs?
+What are the names and phone numbers for all suppliers, sorted in alphabetical order of their addressed?
+What are the names and genders of staff who have held the title Sales Person, but never Clerical Staff?
+What are the name of pilots aged 25 or older?
+what is the name of every pilot who is at least 25 years old?
+What are the names of the pilots in alphabetical order?
+What are the names of all pilots 30 years old or young in descending alphabetical order?
+What are the names of all the aircrafts associated with London Gatwick airport?
+What are the names and descriptions of aircrafts associated with an airport that has more total passengers than 10000000?
+What is the average total number of passengers of airports that are associated with aircraft "Robinson R-22"?
+What is the average total number of passengers for all airports that the aircraft "Robinson R-22" visits?
+What is the location and name of the winning aircraft?
+What is the name of the aircraft that has won an award the most?
+For each aircraft that has won an award, what is its name and how many time has it won?
+What are the names of all pilots listed by descending age?
+What are the names of all aircrafts that have won a match at least twice?
+What are the names of all aicrafts that have never won any match?
+What are the names of all aircrafts that are associated with both London Heathrow and Gatwick airports?
+What is the name and age of the pilot younger than 30 who has won the most number of times?
+what is the name and age of the youngest winning pilot?
+How old is the youngest winning pilot and what is their name?
+What are the names of the pilots that have not won any matches in Australia?
+What are the teams of the players, sorted in ascending alphabetical order?
+What are the teams that have the 5 oldest players?
+What are the nicknames of schools whose division is not 1?
+What is the name of the district with the most residents?
+What is the name of the district with the smallest area?
+What are the names of all the stores located in Khanewal District?
+What are the names of players who train between 500 and 1500 hours?
+What are the name of the players who received a card in descending order of the hours of training?
+What are the names of schools with the top 3 largest size?
+What are the names of the schools with the top 3 largest class sizes?
+Which colleges does each player with a name that starts with the letter D  who tried out go to?
+What are the names of all the states with college students playing in the mid position but no goalies?
+What are the names of shops in ascending order of open year?
+What is the headquarter of the company whose founder is James?
+What are the names and headquarters of all manufacturers, ordered by revenue descending?
+Who is the founders of companies whose first letter is S?
+What are the names, headquarters and founders of the company with the highest revenue?
+What are the names, headquarters and revenues for manufacturers, sorted by revenue descending?
+What are the names, address roads, and cities of the branches ordered by opening year?
+What are names for top three branches with most number of membership?
+What are the names for the 3 branches that have the most memberships?
+What are the card numbers, names, and hometowns of every member ordered by descending level?
+What are the names of the members and branches at which they are registered sorted by year of registration?
+For each branch id, what are the names of the branches that were registered after 2015?
+What are the names of the members that have never registered at any branch?
+What is the name and open year for the branch with most number of memberships registered in 2016?
+What is the name and opening year for the branch that registered the most members in 2016?
+What are the member names and hometowns of those who registered at a branch in 2016?
+What are the card numbers of members from Kentucky?
+What is the name of the event that happened in the most recent year?
+What is the name of the stadium which held the most events?
+What are the names of managers in ascending order of level?
+What are the names and arrival times of trains?
+What is the name of the oldest manager?
+What are the names of the amenities that Smith Hall has?
+What are the names of the dorm that does not have a TV Lounge?
+What is first names of the top 5 staff who have handled the greatest number of complaints?
+What are the details of the three most expensive hotels?
+What are the name, id and the corresponding number of visits for each  tourist attraction?
+What are the names of tourist attraction that Alison visited but Rosalind did not visit?
+What are the names of all the video games and their types in alphabetical order?
+What is the total number of games played?
+What are the names of all the games that have been played for at least 1000 hours?
+What are the names of all games played by Linda Smith?
+What are the names of all the customers?
+What are the state and country of all the cities that have post codes starting with 4.\
+What are the speeds of the longest roller coaster?
+How many captains with younger than 50 are in each rank?
+What are the names of captains, sorted by age descending?
+What are the names, classes, and ranks of all captains?
+What are the names of captains that have either the rank Midshipman or Lieutenant?
+What is the name of the youngest captain?
+What is the name, type, and flag of the ship that was built in the most recent year?
+What are the different ship flags, and how many ships have each?
+What are the names of ships, ordered by year they were built and their class?
+What types of ships have both ships that have Panama Flags and Malta flags?
+What is the year in which most ships were built?
+What are the names of ships that have more than one captain?
+what are the names and classes of the ships that do not have any captain yet?
+What is the name of the ship that is commanded by the youngest captain?
+What are the names and flags of ships that do not have a captain with the rank of Midshipman?
+What are the names of ships that are commanded by both captains with the rank of Midshipman and captains with the rank of Lieutenant?
+What are the first, middle, and last names of all individuals, ordered by last name?
+What are the names of organizations, ordered by the date they were formed, ascending?
+What is the name of the organization that was formed most recently?
+What are the names of the services that have never been used?
+What are the names of all cities and states?
+What are the names and types of the companies that have ever operated a flight?
+What are the ids and names of the companies that operated more than one flight?
+What is the id, name and IATA code of the airport that had most number of flights?
+What are the different pilot names who had piloted a flight in the country 'United States' or in the airport named 'Billund Airport'?
+What is the name of the project with the most hours?
+What are the names of projects that have taken longer than the average number of hours for all projects?
+What are the names of all the scientists in alphabetical order?
+What are the SSN and names of scientists working on the project with the most hours?
+What are the names of projects that have not been assigned?
+What are the names of all wines produced in 2008?
+What are the names of wines, sorted in alphabetical order?
+What are the grapes, appelations, and wines with scores above 93, sorted by Name?
+What are the names of the stations which serve both "Ananthapuri Express" and "Guruvayur Express" trains?
+What are the details of the car with id 1?
+What are the first and last names of all customers who lived in Lockmanfurt?
+What are the names of the airports in the city of Goroka?
+What is the name, city, country, and elevation for every airport in the city of New York?
+What is the total number of airlines?
+What are the names of all airports in Cuba or Argentina?
+What are the countries of all airlines whose names start with Orbit?
+What is the country of the airport with the highest elevation?
+What is the name, city, and country of the airport with the lowest altitude?
+What is the name, city, and country of the airport with the highest elevation?
+For the airline ids with the top 10 most routes operated, what are their names?
+What is the name of the country with the most number of home airlines?
+What are the countries with the most airlines whose active status is Y?
+For each  airport name, how many routes start at that airport, ordered from most to least?
+What is the name of the airline with the most routes?
+What is the name of the airport with the most number of routes that start in China?
+Find all the order items whose product id is 11. What are the order item ids?
+What are the distinct ids of products ordered between 1975-01-01 and 1976-01-01??
+What are ids of the all distinct orders, sorted by placement date?
+What are the invoice numbers created before 1989-09-03 or after 2007-12-25?
+What are the names and year of construction for the mills of 'Grondzeiler' type?
+What are the ids and names of the architects who built at least 3 bridges ?
+What is the id, name and nationality of the architect who built most mills?

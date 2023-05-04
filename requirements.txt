@@ -1,0 +1,8 @@
+torch
+transformers
+datasets
+pandas
+scikit-learn
+openai
+python-dotenv
+asyncio

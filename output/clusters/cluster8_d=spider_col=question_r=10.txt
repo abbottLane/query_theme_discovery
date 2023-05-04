@@ -1,0 +1,311 @@
+List the name, born state and age of the heads of departments ordered by age.
+List the creation year, name and budget of each department.
+List the total number of horses on farms in ascending order.
+List official names of cities in descending order of population.
+List the official name and status of the city with the largest population.
+Show the years and the official names of the host cities of competitions.
+Give the years and official names of the cities of each competition.
+Show the official names of the cities that have hosted more than one competition.
+Show the status of the city that has hosted the greatest number of competitions.
+Please show the different statuses, ordered by the number of cities that have each.
+Return the different statuses of cities, ascending by frequency.
+List the official names of cities that have not held any competition.
+For each trip, return its ending station's installation date.
+List the name and the number of stations for all the cities that have at least 15 stations.
+List all the cities in a decreasing order of each city's stations' highest latitude.
+For each city, list their names in decreasing order by their highest station latitude.
+Show flight number, origin, destination of all flights in the alphabetical order of the departure cities.
+Show all flight number from Los Angeles.
+Show origins of all flights with destination Honolulu.
+Show flight number for all flights with more than 2000 distance.
+Show the flight number of flights with three lowest distances.
+Show all origins and the number of flights from each origin.
+Show all destinations and the number of flights to each destination.
+Show all flight numbers with aircraft Airbus A340-300.
+Show aircraft names and number of flights for each aircraft.
+Show names for all employees who have certificates on both Boeing 737-800 and Airbus A340-300.
+Show all cities where students live.
+Show all cities and corresponding number of students.
+Show ids, first names, last names, and phones for all customers.
+Show the name and location for all tracks.
+Return the name, location, and seating of the track that was opened in the most recent year.
+Show the name of track and the number of races in each track.
+Show the name of track with most number of races.
+Show the name and date for each race and its track name.
+Show the name and location of track with 1 race.
+Give me the names of members whose address is in Harford or Waterbury.
+Show the shop addresses ordered by their opening year.
+List all the customers in increasing order of IDs.
+List all schools and their nicknames in the order of founded year.
+List all public schools and their locations.
+Find the founded year of the newest non public school.
+Show the country name and capital of all countries.
+Give the different positions of players who play for the country with the capital Dublin.
+Give the names of mountains in alphabetical order.
+List each birth place along with the number of people from there.
+List the votes of elections in descending order.
+List the dates and vote percents of elections.
+What are the names of representatives and the dates of elections they participated in.
+What are the different parties of representative? Show the party name and the number of representatives in each party.
+List the names of representatives that have not participated in elections listed here.
+Show the start dates and end dates of all the apartment bookings.
+Show the apartment numbers, start dates, and end dates of all the apartment bookings.
+Show the guest first names, start dates, and end dates of all the apartment bookings.
+Return all the apartment numbers sorted by the room count in ascending order.
+Sort the apartment numbers in ascending order of room count.
+Show the apartment type codes and the corresponding number of apartments sorted by the number of apartments in ascending order.
+Return each apartment type code with the number of apartments having that apartment type, in ascending order of the number of apartments.
+Show the top 3 apartment type codes sorted by the average number of rooms in descending order.
+Show each gender code and the corresponding count of guests sorted by the count in descending order.
+Show the apartment numbers of apartments with unit status availability of both 0 and 1.
+List the hosts of performances in ascending order of attendance.
+Show different locations and the number of performances at each location.
+Show the most common location of performances.
+Show the names of members and the location of the performances they attended.
+Show the names of members and the location of performances they attended in ascending alphabetical order of their names.
+Show the names of members and the dates of performances they attended in descending order of attendance of the performances.
+Find the name and building of the department with the highest budget.
+List the names and buildings of all departments sorted by the budget from large to small.
+List the venues of debates in ascending order of the number of audience.
+Show different parties of people along with the number of people in each party.
+Show the names of people, and dates and venues of debates they are on the negative side, ordered in ascending alphabetical order of name.
+Show the name, open date, and organizer for all churches.
+List all church names in descending order of opening date.
+Show the organizer and name for churches that opened between 1830 and 1840.
+Show all opening years and the number of churches that opened in that year.
+Show the name and opening year for three churches that opened most recently.
+Show the name and country for all people whose age is smaller than the average.
+Show the name and age for all male people who don't have a wedding.
+Show all church names except for those that had a wedding in year 2015.
+Show all church names that have hosted least two weddings.
+Show the names for all females from Canada having a wedding in year 2016.
+Show the church names for the weddings of all people older than 30.
+Show all countries and the number of people from each country.
+Show all artist name, age, and country ordered by the yeared they joined.
+Show theme and year for all exhibitions with ticket prices lower than 15.
+Show theme and year for all exhibitions in an descending order of ticket price.
+Return the names of people, ordered alphabetically.
+List the distinct hometowns that are not associated with any gymnast.
+Show the hometowns shared by people older than 23 and younger than 20.
+Show all school names in alphabetical order.
+List the name, location, mascot for all schools.
+List the name of the school with the smallest enrollment.
+Show each county along with the number of schools and total enrollment in each county.
+Show each school name, its budgeted amount, and invested amount in year 2002 or after.
+Show the name, street address, and number of floors for all buildings ordered by the number of floors.
+Show the name of buildings that do not have any institution.
+Show the names of buildings except for those having an institution founded in 2003.
+For each building, show the name of the building and the number of institutions in it.
+Show the names and heights of buildings with at least two institutions founded after 1880.
+Show all the locations where some cinemas were opened in both year 2010 and year 2011.
+Show name, opening year, and capacity for each cinema.
+Show all the cinema names and opening years in descending order of opening year.
+Show the names of phones and the districts of markets they are on, in ascending order of the ranking of the market.
+For each phone, show its names and total number of stocks.
+Show the names of phones that have total number of stocks bigger than 2000, in descending order of the total number of stocks.
+Show all company names and headquarters in the descending order of market value.
+List all headquarters and the number of companies in each headquarter.
+Show gas station id, location, and manager_name for all gas stations ordered by open year.
+Show all locations and the number of gas stations in each location ordered by the count.
+Show the manager name with most number of gas stations opened after 2000.
+Show all distinct region names ordered by their labels.
+Show all ministers who do not belong to Progress Party.
+Show all ministers and parties they belong to in descending order of the time they took office.
+Return the minister who left office at the latest time.
+Show all party names and the number of members in each party.
+Return the name of the party with the most members.
+Show all party names and their region names.
+Show member names that are not in the Progress Party.
+Show party names and the number of events for each party.
+Count the number of Annual Meeting events that took place in the region of the United Kingdom.
+List all department names ordered by their starting date.
+list the first and last names, and the addresses of all employees in the ascending order of their birth date.
+List the companies of entrepreneurs in descending order of money requested.
+List the date of perpetrators in descending order of the number of people killed.
+Find the id of the candidate who got the lowest oppose rate.
+Please list support, consider, and oppose rates for each candidate in ascending order by unsure rate.
+List all people names in the order of their date of birth from old to young.
+Find the name and gender of the candidate who got the highest support rate.
+Give the names of people who did not participate in the candidate election.
+List the names of counties in descending order of population.
+List the distinct police forces of counties whose location is not on east side.
+Show the crime rates of counties in ascending order of number of police officers.
+Return the names of cities, ordered alphabetically.
+List the name of the county with the largest population.
+List the names of the city with the top 5 white percentages.
+Show names of cities and names of counties they are in.
+Show the name of cities in the county that has the largest number of police officers.
+Please show the police forces and the number of counties with each police force.
+List the names of counties that do not have any cities.
+Find the number of kids staying in the rooms reserved by a person called ROY SWEAZ.
+Find the number of adults for the room reserved and checked in by CONRAD SELBIG on Oct 23, 2010.
+Return the number of kids for the room reserved and checked in by DAMIEN TRACHSEL on  Sep 21, 2010.
+List how many times the number of people in the room reached the maximum occupancy of the room. The number of people include adults and kids.
+List the type of bed and name of all traditional rooms.
+List the name of all rooms sorted by their prices.
+List the name of rooms with king or queen bed.
+Show different nationalities along with the number of hosts of each nationality.
+Show the most common nationality of hosts.
+Show the themes of parties and the names of the party hosts.
+Show the locations of parties and the names of the party hosts in ascending order of the age of the host.
+Show the name and the nationality of the oldest host.
+Show all region code and region name sorted by the codes.
+List all region names in alphabetical order.
+Show names for all regions except for Denmark.
+Return the names of all regions other than Denmark.
+Count the number of storms in which at least 1 person died.
+List name, dates active, and number of deaths for all storms with at least 1 death.
+Show the name for regions not affected.
+Show the name for regions and the number of storms for each region.
+List the name for storms and the number of affected regions for each storm.
+Return the name and max speed of the storm that affected the most regions.
+Show the name of storms which don't have affected region in record.
+Show storm name with at least two regions and 10 cities affected.
+Show all storm names except for those with at least two affected regions.
+Return the names of the regions affected by storms that had a death count of at least 10.
+Show the region name with at least two storms.
+Find the names of the regions which were affected by the storm that killed the greatest number of people.
+Show the county name and population of all counties.
+Show the average population of all counties.
+Show all the distinct districts for elections.
+Show the delegate from district 1 in election.
+Show the delegate and committee information of elections.
+Show all the information about election.
+Return all the information for each election record.
+Show the delegates and the names of county they belong to.
+Show the delegates and the names of the party they belong to.
+For each delegate, find the names of the party they are part of.
+Show the name of each county along with the corresponding number of delegates from that county.
+For each county, find the name of the county and the number of delegates from that county.
+Show the name of each party and the corresponding number of delegates from that party.
+For each party, return the name of the party and the number of delegates from that party.
+Return the names of all counties sorted by population in ascending order.
+Sort the names of all counties in ascending order of population.
+Return the names of all counties sorted by county name in descending alphabetical order.
+Sort the names of all counties in descending alphabetical order.
+Show the name of the county with the biggest population.
+Show the 3 counties with the smallest population.
+Show the names of counties that have at least two delegates.
+Show the name of the party that has at least two records.
+Show the name of the party that has the most delegates.
+List the names of journalists in ascending order of years working.
+Show the different nationalities and the number of journalists of each nationality.
+Show the most common nationality for journalists.
+Show the dates, places, and names of events in descending order of the attendance.
+List the event venues and names that have the top 2 most number of people attended.
+Show the details of all trucks in the order of their license number.
+List the names of all routes in alphabetic order.
+List the state names and the number of customers living in each state.
+List all cities of addresses in alphabetical order.
+list the local authorities and services provided by all stations.
+show all train numbers and names ordered by their time from early to late.
+show the lowest low temperature and highest wind speed in miles per hour.
+Count different addresses of each school.
+List the distinct region of clubs in ascending alphabetical order.
+List all club names in ascending order of start year.
+List all club names in descending alphabetical order.
+Please show the names and the players of clubs.
+display the country ID and number of cities for each country.
+Give the country id and corresponding count of cities in each country.
+display the first and last name, department, city, and state province for each employee.
+display the department name, city, and state province for each department.
+List all channel names ordered by their rating in percent from big to small.
+Give me a list of all the channel names sorted by the channel rating in descending order.
+Show the different headquarters and number of companies at each headquarter.
+List all countries of markets in ascending alphabetical order.
+List all countries of markets in descending order of number of cities.
+Show all calendar dates and day Numbers.
+List all location codes and location names.
+Which clubs are located at "AKW"? Return the club names.
+Find the names of all person sorted in the descending order using age.
+Show the different countries and the number of members from each.
+Show the most common country across members.
+Show the leader names and locations of colleges.
+List the name and assets of each company in ascending order of company name.
+List the names of buildings in descending order of building height.
+Please show the names of the buildings whose status is "on-hold", in ascending order of stories.
+Find the names of the buildings in "on-hold" status, and sort them in ascending order of building stories.
+Please show the industries of companies in descending order of the number of companies.
+Show the number of audience in year 2008 or 2010.
+Find the first names and last names of male (sex is M) faculties who live in building NEB.
+List the name and phone number of all suppliers in the alphabetical order of their addresses.
+List names of all pilot aged 30 or younger in descending alphabetical order.
+List the locations of schools in ascending order of enrollment.
+List the locations of schools in descending order of founded year.
+List the enrollment for each school that does not have "Catholic" as denomination.
+Show locations and nicknames of schools.
+Please show different denominations and the corresponding number of schools.
+For each denomination, return the denomination and the count of schools with that denomination.
+Please show different denominations and the corresponding number of schools in descending order.
+Order denominations in descending order of the count of schools with the denomination. Return each denomination with the count of schools.
+List the school color of the school that has the largest enrollment.
+Find all the distinct district names ordered by city area in descending.
+List the name of the colleges whose enrollment is greater 18000 sorted by the college's name.
+List the carriers of devices in ascending alphabetical order.
+Return the names of shops, ordered by year of opening ascending.
+What are the names and location of the shops in ascending alphabetical order of name.
+Return the names and locations of shops, ordered by name in alphabetical order.
+List the name of the shop with the latest open year.
+Show the locations shared by shops with open year later than 2012 and shops with open year before 2008.
+Show all the planned delivery dates and actual delivery dates of bookings.
+Return the the names of the drama workshop groups that are located in Feliciaberg city.
+Show all cities along with the number of drama workshop groups in each city.
+Show name, address road, and city for all branches sorted by open year.
+Show all distinct city where branches with at least 100 memberships are located.
+Show the city and the number of branches opened before 2010 for each city.
+Show all member names and registered branch names sorted by register year.
+Show all branch names with the number of members in each branch registered after 2015.
+List the branch name and city without any registered members.
+Show the member name and hometown who registered a branch in 2016.
+Show all city with a branch opened in 2001 and a branch with more than 100 membership.
+Show all cities without a branch having more than 100 memberships.
+Show all the distinct president votes made on 08/30/2015.
+Report the distinct registration date and the election cycle.
+List all the distinct president votes and the vice president votes.
+For each election cycle, report the number of voting records.
+Count the number of voting records for each election cycle.
+List all the event names by year from the most recent to the oldest.
+List the builders of railways in ascending alphabetical order.
+List the wheels and locations of the railways.
+Show the names of trains and locations of railways they are in.
+Show id and location of railways that are associated with more than one train.
+Show different builders of railways, along with the corresponding number of railways using each builder.
+Show different locations of railways along with the corresponding number of railways at each location.
+Show all distinct cities in the address record.
+Show each state and the number of addresses in each state.
+Show the date and venue of each workshop in ascending alphabetical order of the venue.
+Show all distinct location names.
+Show different tourist attractions' names, ids, and the corresponding number of visits.
+Find the state and country of all cities with post code starting with 4.
+List the countries having more than 4 addresses listed.
+List every individual's first name, middle name and last name in alphabetical order by last name.
+Find the emails of parties with the most popular party form.
+List all the name of organizations in order of the date formed.
+Show the name, home city, and age for all drivers.
+Show the party and the number of drivers in each party.
+Show the name of drivers in descending order of age.
+Show all different home cities.
+Show all home cities except for those having a driver older than 40.
+Show the school name and driver name for all school buses.
+Show the school name and type for schools without a school bus.
+Show the type of school and the number of buses for each type.
+List names for drivers from Hartford city and younger than 40.
+List the vehicle flight number, date and pilot of all the flights, ordered by altitude.
+List the id, country, city and name of the airports ordered alphabetically by the name.
+List the area and county of all appelations.
+Show the name, location, and number of platforms for all stations.
+Show the names and total passengers for all train stations not in London.
+Show the names and main services for train stations that have the top three total number of passengers.
+Show all locations and the total number of platforms and passengers for all train stations in each location.
+Show the name, time, and service for all trains.
+Show the name and service for all trains in order by time.
+Show the station name and number of trains in each station.
+show the train name and station name for each train.
+Show all train names and times in stations in London in descending order by train time.
+Show the station name with greatest number of trains.
+Show the station name with at least two trains.
+Show all locations with only 1 station.
+Show station names without any trains.
+List the names and locations of all stations ordered by their yearly entry exit and interchange amounts.
+List first name and last name of customers lived in city Lockmanfurt.
+List all countries and their number of airlines in the descending order of number of airlines.
